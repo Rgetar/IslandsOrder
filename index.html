@@ -1,0 +1,830 @@
+
+<!DOCTYPE html>
+<html xmlns = "http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8" />
+<title>Islands Order</title>
+<base target="_blank">
+</head>
+<style type="text/css" media="Screen">
+a{text-decoration:none;color:blue;}
+a:hover{text-decoration:underline;}
+a:visited{color:blue;}
+li{list-style-type:none;cursor:pointer;padding-left: 7px;margin: 1px;line-height:1}
+</style>
+<body style="font-family:Arial;font-size:14px;white-space:pre"
+><h2>    Islands Order</h2>      <a style="cursor:pointer;" id="controllink" onmousedown="return false">[show control]</a>
+<ul id="control" hidden=true>LeftClick: expand / hide / show elements
+
+Shift + LeftClick: expand up to 10 elements
+Ctrl + LeftClick: expand up to 100 elements
+Alt + LeftClick: expand up to 1000 elements
+
+<a style="cursor:pointer;" id="controlG" onmousedown="return false">G: toggle Google Maps links</a>
+
+<a style="cursor:pointer;" id="controlW" onmousedown="return false">W: toggle Wikimapia links</a>
+
+<a style="cursor:pointer;" id="controlO" onmousedown="return false">O: toggle OpenStreetMap links</a>
+
+<a style="cursor:pointer;" id="controlR" onmousedown="return false">R: reset tree</a>
+
+<a style="cursor:pointer;" id="aboutlink" onmousedown="return false">[show about]</a>
+
+<ul id="about" hidden=true>Based on <a href="https://www.soest.hawaii.edu/pwessel/gshhg/">GSHHG</a>. Made by Rgetar in 2021</ul></ul><span id="listc" style="line-height:1;float:left"><div><ul id="list"
+></ul></span><span id="ioconsole" onmousedown="return false" style="position:fixed;left:30px;bottom:25px;float:left;font-size:16px;cursor:default"
+></span><script>
+/*function readfile(f,u)   
+{let xhr = new XMLHttpRequest();
+xhr.open("GET",f);
+xhr.setRequestHeader("Range", "bytes=54946033-54946184");
+xhr.send(null); 
+xhr.onload = function (e) {
+    if (xhr.readyState == 4 && xhr.status == 206) {
+        let e=document.createElement('li');
+        e.innerHTML=xhr.response;
+        u.append(e);
+    }   
+}; 
+}*/
+
+
+
+
+//e.innerHTML='363881      0 304659 363880           0  147439589.750658        -180        -90         180  83.633389           0          0           0          0';
+
+//readfile("GSHHS_f_L_pach_text.txt",list);
+//list.append(window.location.href.match(/^.*\//));
+
+
+
+
+
+/*function maplh(la,lo,sc) 
+   {if(map==1)
+      return 'https://www.google.com/maps/@'+Math.round(la*1000000)/1000000+','+Math.round(lo*1000000)/1000000+','+Math.round(sc)+'m/data=!3m1!1e3';
+   else if(map==2)
+      return 'http://wikimapia.org/#lang=en&lat='+Math.round(la*1000000)/1000000+'&lon='+Math.round(lo*1000000)/1000000+'&z='+Math.round(Math.log2(40000000/sc))+'&m=w';
+   else
+      return 'https://www.openstreetmap.org/#map='+Math.round(Math.log2(40000000/sc))+'/'+Math.round(la*1000000)/1000000+'/'+Math.round(lo*1000000)/1000000+'';     
+   }*/
+
+
+
+
+
+function maplh(mala,mila,malo,milo,a,sc=-1) 
+   {mala=Number(mala);
+   mila=Number(mila);
+   malo=Number(malo);
+   milo=Number(milo);
+   if(sc<0)
+      {sc=mala-mila;
+      if(a&&malo-milo>180)
+         {malo+=180;
+         milo+=180;}
+      else 
+         //sc=Math.max(sc,(malo-milo)*(map<2?Math.cos((mala+mila)/360*Math.PI):1)*window.innerHeight/window.innerWidth);
+         sc=Math.max(sc/(map>1?Math.cos((mala+mila)/360*Math.PI):1),(malo-milo)*(map<2?Math.cos((mala+mila)/360*Math.PI):1)*window.innerHeight/window.innerWidth);
+         //sc=Math.max(sc,(malo-milo)*window.innerHeight/window.innerWidth); 
+      sc*=200000;
+      }  
+   let la=(mala+mila)/2;
+   let lo=(malo+milo)/2;  
+   if(map==1)
+      return 'https://www.google.com/maps/@'+Math.round(la*1000000)/1000000+','+Math.round(lo*1000000)/1000000+','+Math.round(sc)+'m/data=!3m1!1e3';
+   else if(map==2)
+      return 'http://wikimapia.org/#lang=en&lat='+Math.round(la*1000000)/1000000+'&lon='+Math.round(lo*1000000)/1000000+'&z='+Math.round(Math.log2(80000000/sc))+'&m=w';
+   else
+      return 'https://www.openstreetmap.org/#map='+Math.round(Math.log2(80000000/sc))+'/'+Math.round(la*1000000)/1000000+'/'+Math.round(lo*1000000)/1000000+'';     
+   }
+
+
+
+
+
+/*function mapl(la,lo,sc) 
+   {let a=document.createElement('a');
+   a.setAttribute("la",la);
+   a.setAttribute("lo",lo);
+   a.setAttribute("sc",sc);
+   a.href=maplh(la,lo,sc);
+   return a.outerHTML.slice(0,-4);
+   }*/
+
+
+
+
+
+function mapl(mala,mila,malo,milo,z,sc=-1) 
+   {let a=document.createElement('a');
+   a.setAttribute("mala",mala);
+   a.setAttribute("malo",malo);
+   a.setAttribute("mila",mila);
+   a.setAttribute("milo",milo);
+   a.setAttribute("z",z);
+   a.setAttribute("sc",sc);   
+   a.href=maplh(mala,mila,malo,milo,z,sc);
+   return a.outerHTML.slice(0,-4);
+   }
+
+
+
+
+
+function displayioconsole(s,b=true)
+   {clearInterval(timer);
+   clearInterval(timer1);
+   if(b){
+      ioconsole.innerHTML=s;
+      ioconsole.style.opacity=1.5;
+      }
+   timer=setInterval(()=>ioconsole.style.opacity-=0.1,70);
+   timer1=setTimeout(()=>clearInterval(timer),1050);   
+   }
+
+
+
+
+
+function updatemaplinks()
+   {let a=document.getElementsByTagName("A");
+   for(let i=0;i<a.length;i++)
+   if(a[i].attributes.mala)
+      {//a[i].href=maplh(a[i].attributes.la.nodeValue,a[i].attributes.lo.nodeValue,a[i].attributes.sc.nodeValue);
+      a[i].href=maplh(a[i].attributes.mala.nodeValue,a[i].attributes.mila.nodeValue,a[i].attributes.malo.nodeValue,a[i].attributes.milo.nodeValue,a[i].attributes.z.nodeValue,a[i].attributes.sc.nodeValue);
+      /*let z=a[i].cloneNode(true);
+      z.href=maplh(a[i].attributes.la.nodeValue,a[i].attributes.lo.nodeValue,a[i].attributes.sc.nodeValue);      
+      a[i].replaceWith(z);*/
+      /*let u=new Event('mousemove');
+      Object.defineProperty(u,'target',{value:a[i]});
+      document.dispatchEvent(u); 
+      let u=new Event('mousemove');
+      document.dispatchEvent(a[i]); */    
+      }
+   if(clink)
+      {let z=clink.cloneNode(true);
+      clink.replaceWith(z);
+      }   
+   }
+
+
+
+
+
+function adc(c,st,n,o,l,stf='') 
+   {let a=document.createElement('li');
+   a.innerHTML=n+": "+st.slice(o,l).trim()+stf;
+   a.style.cursor="inherit";
+   c.append(a);	
+   }
+
+
+
+
+
+function adcd(c,st,stf) 
+   {let a=document.createElement('li');
+   let id=st.slice(35,46).trim();
+   let ed=st.slice(47,58).trim();
+   if(id>0&&ed>0)
+      a.innerHTML="distance: internal: "+id+stf+", external: "+ed+stf;
+   else if(id>0)
+      a.innerHTML+="internal distance: "+id+stf;
+   else 
+   	a.innerHTML+="external distance: "+ed+stf;
+   a.style.cursor="inherit";
+   c.append(a);	
+   }
+
+
+
+
+
+function adcr(c,st,n,o,h='',h1='') 
+   {let a=document.createElement('li');
+   a.innerHTML=n+" range: "+h+st.slice(o,o+11).trim()+'°, '+st.slice(o+23,o+34).trim()+'°'+h1;
+   a.style.cursor="inherit";
+   c.append(a);	
+   }
+
+
+
+
+
+function adcc(c,st,n,o,d) 
+   {let a=document.createElement('li');
+   let la=st.slice(o+12,o+22).trim();
+   let lo=st.slice(o,o+11).trim(); 
+   //a.innerHTML=n+': '+mapl(la,lo,d)+'latitude: '+la+'°, longitude: '+lo+'°</a>';
+   a.innerHTML=n+': '+mapl(la,la,lo,lo,0,d)+'latitude: '+la+'°, longitude: '+lo+'°</a>';
+   a.style.cursor="inherit";
+   c.append(a);	
+   }
+
+
+
+
+
+function gl1(s) 
+{if(s.slice(-1)=='*'){
+   s=s.slice(0,-1);
+   let s1=s;
+   let i=s.indexOf('|');
+   if(i>0)
+      {s1=s.slice(i+1);
+      s=s.slice(0,i);}
+   return '<a href="https://en.wikipedia.org/wiki/'+s+'">'+s1+'</a>'
+   }
+else
+	return s;
+}
+
+
+
+
+
+function gl(s) 
+{let s1='';
+let i=s.indexOf('+');
+while(i>0)
+   {s1+=gl1(s.slice(0,i-1))+' + '
+   s=s.slice(i+2);
+   i=s.indexOf('+');
+   }
+return s1+gl1(s);   
+}
+
+
+
+
+
+function adcn(c,s,n) 
+{if(names[s])
+   {let a=document.createElement('li');
+   a.innerHTML=n+": "+gl(names[s].slice(7));
+   a.style.cursor="inherit";
+   c.append(a);	
+   }
+}
+
+
+
+
+
+function us()
+   {st0.forEach(function(s,e){st[e]=s});
+   }
+
+
+
+
+
+async function rst(s) 
+{if(!st[s])
+   {let r=await fetch("GSHHS_f_L_pach_text"+sac[s]+".txt");
+   r=await r.text();
+   let t;
+   for(let e=0;e<r.length/170;e++){
+      t=r.slice(e*170,e*170+168);
+      st[t.slice(0,6).trim()]=t;} 
+   us();  
+   } 
+}
+
+
+
+
+
+async function adli(c,s) 
+   {let a=document.createElement('li');
+   a.style="outline:1px solid black;padding:5px"
+   a.id="a"+s;
+   await rst(s);
+   adcn(a,s,"name"); 
+   s=st[s];
+   let b=false;
+   if (s[19]=='-')
+      a.style.cursor="text";
+   if (s.slice(28,34)==1)
+      a.style.background="#eaffea";
+   c.append(a);
+   adc(a,s,"id",0,6);
+   let id=s.slice(0,6).trim();
+   if(id!=root)
+      adc(a,s,"parent id",7,13);
+   if(s.slice(14,20).trim()!='-')
+      {
+      adc(a,s,"smaller child id",14,20);
+      adc(a,s,"larger child id",21,27);
+      }
+   adc(a,s,"islands",28,34);
+   adc(a,s,"area",59,76," km²");
+   /*if(s.slice(35,46).trim()>0)
+      adc(a,s,"internal distance",35,46," km");
+   if(id!=root)
+      adc(a,s,"external distance",47,58," km");*/
+   adcd(a,s," km");
+   let mila=Number(s.slice(89,100).trim());
+   let mala=Number(s.slice(112,123).trim());
+   let milo=Number(s.slice(77,88).trim());
+   let malo=Number(s.slice(100,111).trim());
+   /*let q=mala-mila;
+   if(malo-milo>180&&s.slice(59,76).trim()<1000000)
+      {malo+=180;
+      milo+=180;}
+   else 
+      q=Math.max(q,(malo-milo)*Math.cos((mala+mila)/360*Math.PI)*window.innerHeight/window.innerWidth);*/
+   //h=mapl((mala+mila)/2,(malo+milo)/2,q);
+   //let a1=document.createElement('a');
+   //a1.href='https://www.google.com/maps/@'+((mala+mila)/2)+','+((malo+milo)/2)+','+Math.round(((mala-mila)*200000))+'m/data=!3m1!1e3';
+   //adcr(a,s,"latitude",89,mapl((mala+mila)/2,(malo+milo)/2,q*200000),'</a>');
+   adcr(a,s,"latitude",89,mapl(mala,mila,malo,milo,s.slice(59,76).trim()<1000000?1:0),'</a>');
+   adcr(a,s,"longitude",76);
+   //a.append(a1);
+   if(id!=root)
+      {let d=s.slice(47,58).trim()*100;
+      adcc(a,s,"internal nearest point",123,d); 
+      adcc(a,s,"external nearest point",146,d); 
+      }
+   //return s.slice(47,58).trim();    
+   }
+
+
+
+
+
+async function exp(c,d=-1,b=true)
+   {let i=0;
+   while(c.childNodes[i].innerHTML[0]!='s'&&c.childNodes[i].innerHTML[1]!='s')
+      i++;
+   if (c.childNodes[i].innerHTML[0]=='s')
+   
+   /*if(c.childNodes[0].innerHTML[0]=='n')
+      i=1;
+   let c1=c.childNodes[2+i].innerHTML;
+   c1=c1.slice(c1.indexOf(':')+2).trim();
+   if (c1.slice(-1)!='-')*/
+      {let c1=c.childNodes[i].innerHTML;
+      c1=c1.slice(c1.indexOf(':')+2).trim();      
+      let c2=c.childNodes[i+1].innerHTML;
+      c2=c2.slice(c2.indexOf(':')+2).trim();
+      let c0=c;
+      if(b)
+         {let a=document.createElement('ul');
+         a.id="u"+c.id.slice(1);
+         a.f=fast;
+         c.after(a);
+         c.style.background="#eaeaff";
+         c=a;
+         }
+      else
+      	c=c.parentNode;
+      /*let r=await fetch("GSHHS_f_L_pach_text.txt", {headers: { Range: "bytes="+(c1*158+2)+"-"+(c1*158+157)}});     
+      adli(c,"a"+c1.trim(),await r.text());  
+      r=await fetch("GSHHS_f_L_pach_text.txt", {headers: { Range: "bytes="+(c2*158+2)+"-"+(c2*158+157)}});
+      adli(c,"a"+c2.trim(),await r.text());*/
+      
+      await adli(c,c1);
+      //let l=await adli(c,c1);
+      c1=document.getElementById("a"+c1);
+      //if(l>d)
+         {if(!b)
+            c0.hidden=true;
+         if(fast)
+            {if(l>1000000)
+               d=1000000
+            else if(l>800000)
+               d=800000  
+            else if(l>700000)
+               d=700000  
+            else if(l>600000)
+               d=600000                                           
+            else if(l>500000)
+               d=500000
+            else if(l>400000)
+               d=400000  
+            else if(l>350000)
+               d=350000                              
+            else if(l>300000)
+               d=300000  
+            else if(l>250000)
+               d=250000               
+            else if(l>200000)
+               d=200000 
+            else if(l>150000)
+               d=150000   
+            else if(l>120000)
+               d=120000    
+            else if(l>100000)
+               d=100000
+            else if(l>80000)
+               d=80000  
+            else if(l>70000)
+               d=70000    
+            else if(l>60000)
+               d=60000                      
+            else if(l>50000)
+               d=50000
+            else if(l>40000)
+               d=40000      
+            else if(l>35000)
+               d=35000    
+            else if(l>30000)
+               d=30000  
+            else if(l>25000)
+               d=25000               
+            else if(l>20000)
+               d=20000 
+            else if(l>15000)
+               d=15000    
+            else if(l>12000)
+               d=12000                     
+            else if(l>10000)
+               d=10000
+            else if(l>8000)
+               d=8000  
+            else if(l>7000)
+               d=7000  
+            else if(l>6000)
+               d=6000                      
+            else if(l>5000)
+               d=5000
+            else if(l>4000)
+               d=4000   
+            else if(l>3500)
+               d=3500        
+            else if(l>3000)
+               d=3000  
+            else if(l>2500)
+               d=2500               
+            else if(l>2000)
+               d=2000 
+            else if(l>1500)
+               d=1500  
+            else if(l>1200)
+               d=1200    
+            else if(l>1000)
+               d=1000
+            else if(l>800)
+               d=800  
+            else if(l>700)
+               d=700      
+            else if(l>600)
+               d=600                         
+            else if(l>500)
+               d=500
+            else if(l>400)
+               d=400 
+            else if(l>350)
+               d=350             
+            else if(l>300)
+               d=300  
+            else if(l>250)
+               d=250               
+            else if(l>200)
+               d=200 
+            else if(l>150)
+               d=150  
+            else if(l>120)
+               d=120   
+            else if(l>100)
+               d=100
+            else if(l>80)
+               d=80  
+            else if(l>70)
+               d=70       
+            else if(l>60)
+               d=60                        
+            else if(l>50)
+               d=50
+            else if(l>40)
+               d=40 
+            else if(l>35)
+               d=35            
+            else if(l>30)
+               d=30  
+            else if(l>25)
+               d=25               
+            else if(l>20)
+               d=20 
+            else if(l>15)
+               d=15  
+            else if(l>12)
+               d=12  
+            else if(l>10)
+               d=10
+            else if(l>8)
+               d=8  
+            else if(l>7)
+               d=7   
+            else if(l>6)
+               d=6   
+            else if(l>5)
+               d=5
+            else
+               d=-1                                       
+            exp(c1,d,false);
+            }
+         await adli(c,c2);
+         if(fast)
+            exp(document.getElementById("a"+c2),d,false);
+         return document.getElementById("a"+c2);   
+         }
+      //else
+      //	c1.remove();
+      	
+      /*c1=document.getElementById("a"+c1);
+      if(l>d)
+         {c0.hidden=true;
+         exp(c1,d,false);}
+      else
+      	c1.remove;*/
+      	
+      //l=await adli(c,c2); 
+      
+      /*c2=document.getElementById("a"+c2);
+      if(l>d)  
+         {c0.hidden=true;
+         exp(c2,d,false);}
+      else
+      	c2.remove;*/ 
+      //window.scroll({left:1000000000});	
+      }
+   }
+
+
+
+
+
+list.onclick=async function(e){
+let c=e.target;
+if(c.tagName!='A')
+{while(c&&!(c.id&&c.id[0]=="a"))
+   c=c.parentNode;
+if (c)
+   {let u=document.getElementById("u"+c.id.slice(1));
+   let iter=e.altKey?1000:e.ctrlKey?100:e.shiftKey?10:1;
+   if (u)
+      if (u.hidden)
+      {/*let i=0;
+      for(let e=0;e<u.childNodes.length;e++)
+         if(u.childNodes[e].tagName=='LI')
+            i++;*/
+      /*if(fast==u.f)
+         {u.hidden=false;
+         c.style.background="#eaeaff";}*/
+      if(u.i==iter||(u.c&&u.i<iter))
+         {u.hidden=false;
+         c.style.background="#eaeaff";
+         }   
+      else
+      	{u.remove();
+      	let i=0;
+      	let c0=c;
+      	while(c&&i<iter)
+            {c=await exp(c,-1,i==0);
+            i++;}
+         u=c0.nextSibling;
+         u.i=i;
+         u.c=c?false:true;        
+         }
+      }	      
+      else      
+      	{u.hidden=true;
+      	c.style.background="#ffffff";}
+   else
+      {let i=0;
+      let c0=c;
+      while(c&&i<iter)
+         {c=await exp(c,-1,i==0);
+         i++;}
+         u=c0.nextSibling;
+         u.i=i;
+         u.c=c?false:true;
+      }
+      /*{let c1=c.childNodes[2].innerHTML;
+      c1=c1.slice(c1.indexOf(':')+2).trim();
+      //if (c1.indexOf('-')<0)
+      if (c1.slice(-1)!='-')
+         {let c2=c.childNodes[3].innerHTML;
+         c2=c2.slice(c2.indexOf(':')+2).trim();
+         let a=document.createElement('ul');
+         a.id="u"+i;
+         c.after(a);
+         c.style.background="#eaeaff";
+         c=a;
+         await adli(c,c1);
+         await adli(c,c2); 
+         //window.scroll({left:1000000000});
+         }
+      }*/
+   }
+}}
+
+/*let xhr = new XMLHttpRequest();
+xhr.open("GET","GSHHS_f_L_pach_text.txt");
+xhr.setRequestHeader("Range", "bytes=54946033-54946181");
+xhr.send(null); 
+xhr.onload = function (e) 
+{if (xhr.readyState == 4 && xhr.status == 206) 
+   {let a=document.createElement('li');
+   a.innerHTML=xhr.response;
+   a.id="a363881";
+   list.append(a);
+   }*/
+
+
+
+
+
+document.onmouseover=function(e)
+   {let c=e.target;
+   if(c.tagName=='A'&&c.attributes.la)
+      clink=c;
+   else
+   	clink='';
+   }
+
+
+
+
+
+controllink.onclick=function(e){
+   control.hidden=!control.hidden;
+   controllink.innerHTML='['+(control.hidden?'show':'hide')+' control]';
+   }
+
+
+
+
+
+aboutlink.onclick=function(e){
+   about.hidden=!about.hidden;
+   aboutlink.innerHTML='['+(about.hidden?'show':'hide')+' about]';
+   }
+
+
+
+
+
+controlG.onclick=function(e){
+   if(map>1){
+   	map=1;
+      updatemaplinks();
+      }
+   displayioconsole(mapnames[map]+' links'); 
+   }
+
+
+
+
+
+controlW.onclick=function(e){
+   if(map!=2){
+   	map=2;
+      updatemaplinks();
+      }
+   displayioconsole(mapnames[map]+' links'); 
+   }
+
+
+
+
+
+controlO.onclick=function(e){
+   if(map<3){
+   	map=3;
+      updatemaplinks();
+      }
+   displayioconsole(mapnames[map]+' links'); 
+   }
+
+
+
+
+
+controlR.onclick=function(e){
+   list.innerHTML='';
+   adli(list,root);
+   displayioconsole('Reset'); 
+   }
+
+
+
+
+
+window.addEventListener('focus',function(){
+displayioconsole(ioconsole.innerHTML,false);
+});
+
+
+
+
+
+document.addEventListener('keydown',function(e){
+let c=e.code;
+/*if(c=='KeyT')
+   fast=!fast;
+else*/ if(c=='KeyR')
+   {list.innerHTML='';
+   adli(list,root);
+   displayioconsole('Reset'); 
+   }
+else if(c=='KeyG')
+   {if(map>1){
+   	map=1;
+      updatemaplinks();
+      }
+   displayioconsole(mapnames[map]+' links'); 
+   }  
+else if(c=='KeyW')
+   {if(map!=2){
+   	map=2;
+      updatemaplinks();
+      }
+   displayioconsole(mapnames[map]+' links'); 
+   }  
+else if(c=='KeyO')
+   {if(map<3){
+   	map=3;
+      updatemaplinks();
+      }
+   displayioconsole(mapnames[map]+' links'); 
+   }     
+});
+
+
+
+
+
+async function init() {
+   let r=await fetch("GSHHS_f_L_pach_sac.txt");
+   r=await r.text();
+   for(let e=0;e<r.length/8;e++)
+      sac[r.slice(e*8,e*8+6).trim()]=e;
+
+   r=await fetch("GSHHS_f_L_pach_names.txt");
+   r=await r.text();   
+   let t;
+   let i;
+   while(r.length){
+      i=r.indexOf('\n');
+      if(i>8)
+         {t=r.slice(0,i-1);
+         names[t.slice(0,6).trim()]=t;}
+      r=r.slice(i+1);}  
+      
+   /*r=await fetch("GSHHS_f_L_pach_text-1.txt");
+   r=await r.text();
+   for(let e=0;e<r.length/158;e++){
+      t=r.slice(e*158,e*158+155);
+      st0[t.slice(0,6).trim()]=t;      
+      }*/
+      
+   us();
+      
+   /*let r=await fetch("GSHHS_f_L_pach_text.txt");
+   r=await r.text();
+   let s;
+   for(let e=1;e<363882;e++){
+      //st=r[25];
+      s=r.slice(e*158+2,e*158+157);
+      st[s.slice(0,6).trim()]=s;}
+      //st.push(r.slice(e*158+2,e*158+157)); } 
+      //st.push(e);}
+   //r=await fetch("GSHHS_f_L_pach_text.txt", {headers: { Range: "bytes=57493200-57493355"}});
+   //let r=await fetch("GSHHS_f_L_pach_text.txt");
+   //adli(list,"a363881",await r.text());*/
+   adli(list,root);
+   }
+
+
+
+
+
+let sac=[];
+let st=[]; 
+let st0=[];
+let names=[];
+let fast=false;
+let root=363881;
+let map=1;  
+let clink;
+let mapnames=['','Google Maps','Wikimapia','OpenStreetMap'];
+let timer,timer1; 
+
+init();   
+
+//async function qwe() {
+
+/*alert(text.slice(0, 80) + '...');
+
+for (let [key, value] of response.headers) {
+  alert(`${key} = ${value}`);
+}*/
+
+//}
+
+//qwe();
+
+</script></body></html>
