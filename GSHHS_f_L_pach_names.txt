@@ -1,4 +1,4 @@
-﻿363881 Land*
+363881 Land*
 304659 Tristan da Cunha* + Gough Island|Gough*
 276424 Gough Island|Gough*
 120703 Penguin Island
@@ -3341,6 +3341,7 @@
 363618 Americas*
  30382 Gasket Island
 202852 San Pedro Mártir Island|San Pedro Mártir*
+ 15967 San Pedro Mártir Island*
 306094 Semidi Islands*
 192627 Aghiyuk
   4308 Aghiyuk Island
@@ -3388,6 +3389,23 @@
 320198 Melville Island (Northwest Territories and Nunavut)|Melville*
     36 Melville Island (Northwest Territories and Nunavut)|Melville Island*
 278053 Banco Chinchorro*
+187134 San Clemente Island|San Clemente*
+  1058 San Clemente Island*
+   872 Santa Catalina Island (California)|Santa Catalina Island*
+297544 Guafo Island|Guafo*
+   911 Guafo Island*
+307493 Islas de la Bahía|Bay Islands*
+288856 Utila*
+  2159 Utila Island*
+298449 Roatán* + Guanaja*
+290465 Guanaja*
+  2271 Guanaja Island*
+274443 Roatán*
+   989 Roatán|Roatán Island*
+  1330 Guamblin Island*
+314289 Islands of Four Mountains*
+298351 Isla de los Estados|Estados*
+   452 Isla de los Estados*
 316484 Nottingham Island|Nottingham* + Salisbury Island (Nunavut)|Salisbury*
 305142 Salisbury Island (Nunavut)|Salisbury*
 311750 Nottingham Island|Nottingham*
@@ -3418,10 +3436,56 @@
     15 Ellesmere Island*
 361936 Greenland*
      6 Greenland|Greenland Island*
+286539 Nunivak Island|Nunivak*
+   129 Nunivak Island*
+322084 Pearl Islands*
+   757 Isla del Rey, Panama|Isla del Rey*
+    91 Anticosti Island*
+275691 Aruba*
+   929 Aruba|Aruba Island*
+304054 Twin Islands (Nunavut)|Twin Islands*
+  1678 South Twin Island (Nunavut)|South Twin Island*
+187064 North Twin Island|North Twin*
+  1029 North Twin Island*
+297805 Mill Island (Nunavut)|Mill*
+   938 Mill Island (Nunavut)|Mill Island*
 328629 Prince of Wales Island (Nunavut)|Prince of Wales*
     45 Prince of Wales Island (Nunavut)|Prince of Wales Island*
+307935 Spicer Islands*
+297281 North Spicer
+   804 North Spicer Island
+273093 South Spicer
+   805 South Spicer Island
+323481 Kodiak Island|Kodiak*
+    80 Kodiak Island*
+179842 Isle Royale*
+283354 Beaver Islands
+179890 Beaver Island (Lake Michigan)|Beaver Island*
+296083 Northern Channel Islands*
+271805 Santa Rosa Island (California)|Santa Rosa* + Anacapa Island|Anacapa*
+197638 Anacapa Island|Anacapa*
+  9182 Anacapa Island*
+186232 Santa Cruz Island|Santa Cruz*
+   752 Santa Cruz Island*
+276175 Santa Rosa Island (California)|Santa Rosa* + San Miguel Island|San Miguel*
+189681 San Miguel Island|San Miguel*
+  2325 San Miguel Island*
+   826 Santa Rosa Island (California)|Santa Rosa Island*
+321055 Fox Islands (Alaska)|Fox Islands*
+   164 Unalaska Island*
 336486 Newfoundland (island)|Newfoundland*
     20 Newfoundland (island)|Newfoundland Island*
+185268 Cozumel*
+   468 Cozumel Island*
+309686 Hermite Islands*
+275967 Charles Island (Nunavut)|Charles*
+   802 Charles Island (Nunavut)|Charles Island*
+298604 Cedros Island|Cedros*
+   584 Cedros Island*
+185510 Qikiqtaryuaq*
+   531 Qikiqtaryuaq|Qikiqtaryuaq Island*
+311924 Sanak Island|Sanak*
+  1203 Sanak Island*
 311731 Southampton Island|Southampton*
     35 Southampton Island*
 316088 Banks Island|Banks*
