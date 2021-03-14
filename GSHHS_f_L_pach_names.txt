@@ -2909,7 +2909,7 @@
 193021 Maana'omba*
   4591 Maana'omba|Maana'omba Island*
 310227 
-185283 South Malaita Island|South Malaita *
+185283 South Malaita Island|South Malaita*
    473 South Malaita Island*
 183602 
    135 Malaita Island*
