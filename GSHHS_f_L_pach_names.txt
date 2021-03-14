@@ -131,6 +131,20 @@
   8905 Laysan|Laysan Island*
 307392 Midway Atoll|Midway* + Kure Atoll|Kure* + Pearl and Hermes Atoll|Pearl and Hermes*
 298958 Pearl and Hermes Atoll*
+ 65904 North Island (Hawaii)|North Island*
+293260 South East + Sand + Bird + Seal-Kittery + Grass Island (Hawaii)|Grass*
+283037 Seal-Kittery + Grass Island (Hawaii)|Grass*
+ 72645 Grass Island (Hawaii)|Grass Island*
+235417 Seal-Kittery
+120093 Seal
+ 94356 Kittery
+280755 South East + Sand + Bird
+280754 Sand + Bird
+249656 Bird
+175673 
+159848 
+138394 Sand Island
+ 53318 South East Island
 262904 Midway Atoll|Midway* + Kure Atoll|Kure*
  18461 Kure Atoll*
 224465 Midway Atoll*
@@ -398,8 +412,55 @@
 259867 Bounty Islands*
 273075 Antipodes Islands*
 320184 Chatham Islands*
+231325 Forty-Fours*
+316035 Chatham Island|Chatham* + Western + The Sisters (New Zealand)|Sisters* + Pitt Island|Pitt* + Rangatira Island|Rangatira* + Mangere Island|Mangere* + Little Mangere Island|Little Mangere* + Castle + North-East + Round + Sail + The Pyramid|Pyramid* + Star Keys* + Ahuru
+313349 Pitt Island|Pitt* + Rangatira Island|Rangatira* + Mangere Island|Mangere* + Little Mangere Island|Little Mangere* + Castle + North-East + Round + Sail + The Pyramid|Pyramid* + Star Keys* + Ahuru
+ 88499 Ahuru
+308232 Pitt Island|Pitt* + Rangatira Island|Rangatira* + Mangere Island|Mangere* + Little Mangere Island|Little Mangere* + Castle + North-East + Round + Sail + The Pyramid|Pyramid* + Star Keys*
+264998 Star Keys*
+308231 Pitt Island|Pitt* + Rangatira Island|Rangatira* + Mangere Island|Mangere* + Little Mangere Island|Little Mangere* + Castle + North-East + Round + Sail + The Pyramid|Pyramid*
+125808 The Pyramid*
+301640 Pitt Island|Pitt* + Rangatira Island|Rangatira* + Mangere Island|Mangere* + Little Mangere Island|Little Mangere* + Castle + North-East + Round + Sail
+124914 Sail Rock
+285764 Pitt Island|Pitt* + Rangatira Island|Rangatira* + Mangere Island|Mangere* + Little Mangere Island|Little Mangere* + Castle + North-East + Round
+157104 Round Rock
+285763 Pitt Island|Pitt* + Rangatira Island|Rangatira* + Mangere Island|Mangere* + Little Mangere Island|Little Mangere* + Castle + North-East
+ 88138 North-East Reef
+285762 Pitt Island|Pitt* + Rangatira Island|Rangatira* + Mangere Island|Mangere* + Little Mangere Island|Little Mangere* + Castle
+279715 Mangere Island|Mangere* + Little Mangere Island|Little Mangere* + Castle
+ 91944 The Castle
+204240 Mangere Island|Mangere* + Little Mangere Island|Little Mangere*
+ 56768 Little Mangere Island*
+ 18000 Mangere Island*
+265437 Pitt Island|Pitt* + Rangatira Island|Rangatira*
+ 12715 Rangatira Island*
+265436 Pitt Island|Pitt*
+265435 
+188812 
+140228 
+  1809 Pitt Island*
+295941 Chatham Island|Chatham* + Western + The Sisters (New Zealand)|Sisters*
+238235 The Sisters (New Zealand)|The Sisters*
+238234 Middle Sister + Little Sister
+149119 Little Sister
+105041 Middle Sister
+ 68858 Big Sister
+270438 Chatham Island|Chatham* + Western
+ 50617 Western Reef
+184566 Chatham Island|Chatham*
+138900 
+184565 
+139655 
+184564 
+104602 
+   311 Chatham Island*
 341879 New Zealand* + Macquarie Island|Macquarie*
 297097 Macquarie Island|Macquarie*
+ 63597 Bishop and Clerk Islets*
+274197 
+237282 Judge and Clerk Islets*
+187435 
+  1187 Macquarie Island*
 340916 New Zealand*
 313785 Campbell Island / Motu Ihupuku|Campbell* + Auckland Islands|Auckland*
 299338 Campbell Island / Motu Ihupuku|Campbell*
@@ -411,11 +472,36 @@
 280289 Whakaari / White Island|White*
 201527 Solander Islands*
   4585 Mayor Island / Tuhua*
+280659 The Traps
+116549 South Trap
+237699 North Trap
+110655 
+103261 
 332224 North Island|North*
     19 North Island*
-326114 South Island|South* + Stewart Island / Rakiura|Stewart*
-315895 Stewart Island / Rakiura|Stewart*
+279149 Poor Knights Islands*
+204317 Aorangi Island|Aorangi* + Aorangaia Island|Aorangaia* + Archway
+ 69412 Archway Island
+204316 Aorangi Island|Aorangi* + Aorangaia Island|Aorangaia*
+ 63822 Aorangaia Island*
+ 18078 Aorangi Island*
+201281 Tawhiti Rahi*
+116316 
+201280 
+ 98082 
+ 13727 Tawhiti Rahi|Tawhiti Rahi Island*
+296316 Mokohinau Islands*
+ 12870 Cuvier Island*
+  2743 Little Barrier Island*
+305140 Great Barrier Island|Great Barrier*
+   676 Great Barrier Island*
+278361 Aldermen Islands*
+ 98825 Motunau Island*
+326114 South Island|South* + Stewart Island / Rakiura|Stewart* + Ruapuke Island|Ruapuke*
+315895 Stewart Island / Rakiura|Stewart* + Ruapuke Island|Ruapuke*
 294887 Ruapuke Island|Ruapuke*
+  4209 Ruapuke Island*
+313768 Stewart Island / Rakiura|Stewart*
    214 Stewart Island / Rakiura*
 323804 South Island|South*
     17 South Island*
@@ -606,8 +692,16 @@
   1300 Rodrigues|Rodrigues Island*
 319987 Réunion* + Mauritius* + St. Brandon*
 311659 St. Brandon*
+217335 Coco
+ 35990 Albatross Island, St. Brandon|Albatross Island*
+294603 
+123402 
+113322 Veronge Ilot
 316036 Réunion* + Mauritius*
 313353 Mauritius*
+201838 Île Ronde, Mauritius|Ronde* + Serpents
+ 37668 Île aux Serpents
+ 14541 Île Ronde, Mauritius|Île Ronde*
    203 Mauritius|Mauritius Island*
 183873 Réunion*
    171 Réunion|Réunion Island*
