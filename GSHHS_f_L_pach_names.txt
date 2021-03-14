@@ -361,7 +361,7 @@
 308009 Alexander Island|Alexander*
 181599 Alexander Island*
 
-363865 Afro-Eurasia* + Americas* + Australia (continent)|Australia*
+363865 
 181598 Antarctica|Mainland Antarctica*
 291525 Kermadec Islands*
 363907 Macauley Island|Macauley* + Curtis Island, New Zealand|Curtis* + Cheeseman Island|Cheeseman* + L'Esperance Rock|L'Esperance*
@@ -1522,6 +1522,34 @@
 296284 
 335568 
 322344 Loyalty Islands*
+319299 Ouvéa Island|Ouvéa* + Beautemps-Beaupré
+277669 Beautemps-Beaupré
+ 23366 Île Beautemps-Beaupré
+317064 Ouvéa Island|Ouvéa*
+ 42149 Anemëëc
+314525 
+ 60131 Île Haute
+306851 
+  1120 Ouvéa Island*
+289935 
+306850 
+  1120 
+307888 Lifou Island|Lifou* + Vauvilliers + Oua + Léliogat + Maré Island|Maré* + Dudune + Tiga Island|Tiga*
+  5197 Tiga Island*
+304667 Lifou Island|Lifou* + Vauvilliers + Oua + Léliogat + Maré Island|Maré* + Dudune
+269931 Maré Island|Maré* + Dudune
+ 10537 Dudune Island
+184918 Maré Island|Maré*
+   381 Maré Island*
+296718 Lifou Island|Lifou* + Vauvilliers + Oua + Léliogat
+277533 Vauvilliers + Oua + Léliogat
+206289 Oua + Léliogat
+ 24399 Île Léliogat
+ 21238 Île Oua
+ 13597 Île Vauvilliers
+184401 Lifou Island|Lifou*
+ 85481 
+   270 Lifou Island*
 334523 
 317881 Isle of Pines (New Caledonia)|Pines*
   1090 Isle of Pines (New Caledonia)|Isle of Pines*
@@ -2781,19 +2809,163 @@
 317357 Cagayan Islands*
 307141 Balearic Islands*
 336762 Lucayan Archipelago*
+325890 Great Inagua* + Little Inagua* + Caicos Islands|Caicos* + Turks Islands|Turks* + Hogsty Reef|Hogsty*
+215780 Hogsty Reef*
+323638 Great Inagua* + Little Inagua* + Caicos Islands|Caicos* + Turks Islands|Turks*
+322321 Caicos Islands|Caicos* + Turks Islands|Turks*
+299821 Turks Islands*
+319267 Caicos Islands*
+295488 Great Inagua* + Little Inagua*
+  1151 Little Inagua*
+270038 Great Inagua*
+   227 Great Inagua|Great Inagua Island*
+336478 
+314076 Bimini*
+335498 
+216600 Cay Verde
+334003 
+321345 
+332320 
+330892 
+328633 
+328466 
+327994 
 307716 Damar Island|Damar Islands*
 305110 Maltese archipelago|Maltese Archipelago*
    766 Malta (island)|Malta Island*
 309609 Kirov Islands*
 317333 Les Îles-de-la-Madeleine, Quebec|Les Îles-de-la-Madeleine*
-363297 Australia (continent)|Australia* + Halmahera* + Numfor* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Feni Islands|Feni* + Vitu Islands|Vitu* + Solomon Islands (archipelago)|Solomon* + St Matthias Islands|St Matthias*
+363297 Australia (continent)|Australia* + Halmahera* + Numfor* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Feni Islands|Feni* + Vitu Islands|Vitu* + Solomon Islands (archipelago)|Solomon* + St Matthias Islands|St Matthias* + Carteret Islands|Carteret*
 296645 Carteret Islands*
-363255 
+363255 Australia (continent)|Australia* + Halmahera* + Numfor* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Feni Islands|Feni* + Vitu Islands|Vitu* + Solomon Islands (archipelago)|Solomon* + St Matthias Islands|St Matthias*
 305787 St Matthias Islands*
+ 36807 Tench Island
+297415 Mussau* + Emirau*
+190185 Emirau*
+  2585 Emirau Island*
+275031 Mussau*
+   622 Mussau Island*
 363204 Australia (continent)|Australia* + Halmahera* + Numfor* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Feni Islands|Feni* + Vitu Islands|Vitu* + Solomon Islands (archipelago)|Solomon*
 336757 Solomon Islands (archipelago)|Solomon Islands*
+329798 New Georgia Islands*
+264188 Kavachi*
+300824 Vella Lavella* + Mbava* + Ranongga* + Simbo*
+296908 Ranongga* + Simbo*
+193479 Simbo*
+  5000 Simbo|Simbo Island*
+274386 Ranongga*
+  1038 Ranongga Island*
+288958 Vella Lavella* + Mbava*
+170331 Omauva Islet
+191352 Mbava*
+  3388 Mbava Island*
+263819 Vella Lavella*
+   388 Vella Lavella Island*
+298216 Ghizo Island|Ghizo*
+  2658 Ghizo Island*
+ 82799 East Island
+304612 Rendova* + Tetepare*
+187453 Tetepare*
+  1199 Tetepare Island*
+304611 Rendova*
+   556 Rendova Island*
+301716 Nggatokae*
+  1437 Nggatokae Island*
+184900 Kolombangara*
+   376 Kolombangara Island*
+301126 Vangunu*
+   451 Vangunu Island*
+   189 New Georgia Island*
+335029 Santa Isabel Island|Santa Isabel* + Choiseul Island|Choiseul* + Guadalcanal* + Nudha + Bougainville Island|Bougainville* + Treasury Islands|Treasury* + Russell Islands|Russell* + Mborokua* + Malaita* + Ramos Island|Ramos* + Makira* + Ndai Island|Ndai*
+  4189 Ndai Island*
+334524 Santa Isabel Island|Santa Isabel* + Choiseul Island|Choiseul* + Guadalcanal* + Nudha + Bougainville Island|Bougainville* + Treasury Islands|Treasury* + Russell Islands|Russell* + Mborokua* + Malaita* + Ramos Island|Ramos* + Makira*
+320195 Makira*
+  1814 Ulawa Island*
+265639 Olu Malau Islands*
+ 11540 Ali'ite Island*
+265638 Malaupaina* + Malaulalo*
+ 10315 Malaulalo Island*
+196224 Malaupaina*
+134619 
+  7658 Malaupaina Island*
+189678 Ugi Island|Ugi* + Pio Island|Pio*
+ 10249 Pio Island*
+  2322 Ugi Island*
+192388 Owaraha* + Owariki*
+  8508 Owariki*
+  4107 Owaraha*
+  8869 
+   148 Makira Island*
+332315 Santa Isabel Island|Santa Isabel* + Choiseul Island|Choiseul* + Guadalcanal* + Nudha + Bougainville Island|Bougainville* + Treasury Islands|Treasury* + Russell Islands|Russell* + Mborokua* + Malaita* + Ramos Island|Ramos*
+255081 Ramos Island|Ramos*
+218658 Bird + Dick
+ 58956 Dick Island
+ 45227 Bird Island
+ 21782 Ramos Island*
+332314 Santa Isabel Island|Santa Isabel* + Choiseul Island|Choiseul* + Guadalcanal* + Nudha + Bougainville Island|Bougainville* + Treasury Islands|Treasury* + Russell Islands|Russell* + Mborokua* + Malaita*
+317544 Malaita*
+  8996 Leili Island
+315351 
+193021 Maana'omba*
+  4591 Maana'omba|Maana'omba Island*
+310227 
+185283 South Malaita Island|South Malaita *
+   473 South Malaita Island*
+183602 
+   135 Malaita Island*
+330887 Santa Isabel Island|Santa Isabel* + Choiseul Island|Choiseul* + Guadalcanal* + Nudha + Bougainville Island|Bougainville* + Treasury Islands|Treasury* + Russell Islands|Russell* + Mborokua*
+315341 Russell Islands|Russell* + Mborokua*
+  7208 Mborokua*
+310045 Russell Islands*
+189361 Mbanika*
+  2143 Mbanika Island*
+274266 Pavuvu*
+  1159 Pavuvu|Pavuvu Island*
+330701 Santa Isabel Island|Santa Isabel* + Choiseul Island|Choiseul* + Guadalcanal* + Nudha + Bougainville Island|Bougainville* + Treasury Islands|Treasury*
+262126 Treasury Islands*
+262125 Stirling Island|Stirling*
+  7486 Stirling Island*
+236444 Mono Island|Mono*
+  1784 Mono Island*
+329685 Santa Isabel Island|Santa Isabel* + Choiseul Island|Choiseul* + Guadalcanal* + Nudha + Bougainville Island|Bougainville*
+325888 Bougainville Island|Bougainville*
+281105 Oema
+ 10265 Oema Island
+306132 Fauro Island|Fauro*
+  1683 Fauro Island*
+307686 Shortland Islands*
+   828 Shortland Island*
+273346 Taiof Island|Taiof*
+  3282 Taiof Island*
+269946 Buka Island|Buka*
+   411 Buka Island*
+    87 Bougainville Island*
+328081 Santa Isabel Island|Santa Isabel* + Choiseul Island|Choiseul* + Guadalcanal* + Nudha
+ 35213 Nudha Island
+328080 Santa Isabel Island|Santa Isabel* + Choiseul Island|Choiseul* + Guadalcanal*
+322021 Guadalcanal*
+  2810 Savo Island*
+304596 Nggela Islands*
+304595 Vatilau
+  4315 Vatilau Island
+200122 Olevugha
+  2916 Olevugha Island
+   602 Nggela Sule* + Nggela Pile
+   109 Guadalcanal Island*
+326540 Santa Isabel Island|Santa Isabel* + Choiseul Island|Choiseul*
+ 58573 
+326026 
+319835 Choiseul Island|Choiseul*
+301512 Wagina*
+  1631 Wagina Island*
+188633 Rob Roy Island|Rob Roy*
+  1742 Rob Roy Island*
+   155 Choiseul Island*
+323853 Santa Isabel Island|Santa Isabel*
+   863 San Jorge Island*
+   139 Santa Isabel Island*
 363123 Australia (continent)|Australia* + Halmahera* + Numfor* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Feni Islands|Feni* + Vitu Islands|Vitu*
-280307 
+280307 Laughlan Islands
 363122 
 308250 Vitu Islands*
 363121 Australia (continent)|Australia* + Halmahera* + Numfor* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Feni Islands|Feni*
