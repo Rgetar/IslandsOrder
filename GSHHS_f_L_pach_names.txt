@@ -257,7 +257,7 @@
 199321 Isla San Félix|San Félix* + González
  35116 Islote González
  11230 Isla San Félix*
-315710 South Georgia (island)|South Georgia* + South Sandwich Islands*
+315710 South Georgia (island)|South Georgia* + South Sandwich Islands|South Sandwich*
 311454 South Sandwich Islands*
 308190 Visokoi Island|Visokoi* + Candlemas Islands|Candlemas* + Zavodovski Island|Zavodovski* + Leskov Island|Leskov*
  37769 Leskov Island*
