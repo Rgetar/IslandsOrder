@@ -332,8 +332,13 @@
 181600 Berkner Island*
 181288 Drygalski Island*
 181612 Lyddan Island*
-181670 
-311679 
+181670 Gipps Ice Rise*
+311679 Henry Ice Rise|Henry* + Doake Ice Rumples|Doake* + Korff Ice Rise|Korff*
+181604 Korff Ice Rise*
+307992 Henry Ice Rise|Henry* + Doake Ice Rumples|Doake*
+305681 Doake Ice Rumples*
+253640 Henry Ice Rise|Henry*
+181603 Henry Ice Rise*
 253639 Roosevelt Island, Antarctica|Roosevelt*
 181602 Roosevelt Island, Antarctica|Roosevelt Island*
 294335 
