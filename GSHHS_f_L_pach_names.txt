@@ -369,6 +369,8 @@
 253506 King George Island (South Shetland Islands)|King Georg* + Nelson Island (South Shetland Islands)|Nelson*
 181295 Nelson Island (South Shetland Islands)|Nelson Island*
 181274 King George Island (South Shetland Islands)|King George Island*
+315820 Derwael Ice Rise|Derwael*
+181617 Derwael Ice Rise*
 181607 Latady Island*
 283076 Carney Island|Carney* + Wright Island|Wright* + Siple Island|Siple*
 181605 Siple Island*
@@ -377,9 +379,40 @@
 181606 Carney Island*
 283085 Thurston Island|Thurston*
 181601 Thurston Island*
+181609 Ross Island*
+181613 Steershead Ice Rise
 308009 Alexander Island|Alexander*
 181599 Alexander Island*
-
+253643 Mill Island|Mill*
+181614 Mill Island*
+283282 Joinville Island group|Joinville Island Group*
+181313 Bransfield Island*
+253505 Joinville Island|Joinville* + D'Urville Island, Antarctica|D'Urville* + Dundee Island|Dundee*
+181284 Dundee Island*
+253504 Joinville Island|Joinville* + D'Urville Island, Antarctica|D'Urville*
+181279 D'Urville Island, Antarctica|D'Urville Island*
+181273 Joinville Island*
+305572 Marshall Archipelago|Marshall* + Vollmer Island|Vollmer*
+181658 Vollmer Island*
+294198 Marshall Archipelago*
+283058 Hutchinson Island (Antarctica)|Hutchinson* + Hannah Island|Hannah*
+181678 Hannah Island*
+253660 Hutchinson Island (Antarctica)|Hutchinson*
+181645 Hutchinson Island (Antarctica)|Hutchinson Island*
+283095 Cronenwett Island|Cronenwett* + Przybyszewski Island|Przybyszewski*
+253720 Przybyszewski Island|Przybyszewski*
+181656 Przybyszewski Island*
+253648 Cronenwett Island|Cronenwett*
+181626 Cronenwett Island*
+181608 Spaatz Island*
+294125 James Ross Island group|James Ross Island Group*
+181271 James Ross Island*
+181615 
+307949 Palmer Archipelago*
+181272 Anvers Island*
+181611 
+253495 Adelaide Island|Adelaide*
+181270 Adelaide Island*
 363865 
 181598 Antarctica|Mainland Antarctica*
 291525 Kermadec Islands*
