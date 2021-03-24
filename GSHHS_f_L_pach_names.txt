@@ -431,7 +431,7 @@
 283254 Alexander Island|Alexander*
 181599 Alexander Island*
 181716 Stephen Island*
-181629 Crary Ice Rise*
+181629 
 181633 Masson Island*
 181337 Astrolabe Island*
 253541 Tower Island|Tower*
@@ -551,6 +551,27 @@
 307949 Palmer Archipelago*
 181272 Anvers Island*
 181611 Farwell Island*
+181659 Kupol Lejtenanta Smidta
+181666 David Island*
+253647 Dean Island (Antarctica)|Dean*
+181625 Dean Island (Antarctica)|Dean Island*
+283054 Radford Island|Radford*
+181646 Radford Island*
+253652 Dendtler Island|Dendtler*
+181634 Dendtler Island*
+181676 Moody Island*
+181640 
+253734 McKinnon Island|McKinnon* + Shaw Islands|Shaw*
+253733 Shaw Islands*
+181847 Il’in Island
+181672 McKinnon Island*
+253670 Inexpressible Island|Inexpressible* + Vegetation Island|Vegetation*
+181845 Vegetation Island*
+181655 Inexpressible Island*
+253681 Henry Islands|Henry* + Chick
+181692 Chick Island
+253680 Henry Islands*
+181683 
 253495 Adelaide Island|Adelaide*
 181270 Adelaide Island*
 363865 
@@ -589,7 +610,41 @@
 321340 Chatham Islands|Chatham* + Antipodes Islands|Antipodes* + Bounty Islands|Bounty*
 291900 Antipodes Islands|Antipodes* + Bounty Islands|Bounty*
 259867 Bounty Islands*
+215611 East Group
+ 69813 North Rock
+215610 Molly Cap + Con
+ 80388 Con Island
+ 38624 Molly Cap
+259866 Main + Centre
+214867 Centre Group
+109799 Prion Island
+ 37084 Funnel Island
+259865 Main Group
+230658 Spider + Seal
+169306 Seal Rock
+ 77538 Spider Island
+259864 Depot + Penguin + Dog + Ruatara
+215552 Ruatara
+ 38467 Ruatara Island
+207746 Depot + Penguin + Dog
+176918 Dog Rock
+207745 Depot + Penguin
+169541 
+ 77155 Penguin Island
+ 23645 Depot Island
 273075 Antipodes Islands*
+205371 Bollons Island|Bollons* + Archway
+ 48615 Archway Island
+ 19642 Bollons Island*
+191150 Antipodes Island|Antipodes* + Leeward + Orde Lees + Windward
+ 82839 
+191149 
+ 46020 Windward Islands
+191148 Antipodes Island|Antipodes* + Leeward + Orde Lees
+ 62394 Orde Lees Islet
+191147 Antipodes Island|Antipodes* + Leeward
+ 62758 Leeward Island
+  3243 Antipodes Island*
 320184 Chatham Islands*
 231325 Forty-Fours*
 316035 Chatham Island|Chatham* + Western + The Sisters (New Zealand)|Sisters* + Pitt Island|Pitt* + Rangatira Island|Rangatira* + Mangere Island|Mangere* + Little Mangere Island|Little Mangere* + Castle + North-East + Round + Sail + The Pyramid|Pyramid* + Star Keys* + Ahuru
@@ -643,13 +698,54 @@
 340916 New Zealand*
 313785 Campbell Island / Motu Ihupuku|Campbell* + Auckland Islands|Auckland*
 299338 Campbell Island / Motu Ihupuku|Campbell*
+  1272 Campbell Island / Motu Ihupuku*
 307626 Auckland Islands*
+  7016 Disappointment Island*
+304839 Auckland Island|Auckland* + Shag Rock, New Zealand|Shag* + Adams Island, New Zealand|Adams* + Monumental Island, New Zealand|Monumental* + Ocean Island, New Zealand|Ocean* + Rose Island (New Zealand)|Rose* + Figure of Eight I, New Zealand|Figure of Eight* + Enderby Island|Enderby* + Ewing Island, New Zealand|Ewing* + Dundas Island, New Zealand|Dundas* + Green Island (Auckland Islands)|Green* + Blanche Rock, New Zealand|Blanche*
+ 51979 Blanche Rock, New Zealand|Blanche Rock*
+304838 Auckland Island|Auckland* + Shag Rock, New Zealand|Shag* + Adams Island, New Zealand|Adams* + Monumental Island, New Zealand|Monumental* + Ocean Island, New Zealand|Ocean* + Rose Island (New Zealand)|Rose* + Figure of Eight I, New Zealand|Figure of Eight* + Enderby Island|Enderby* + Ewing Island, New Zealand|Ewing* + Dundas Island, New Zealand|Dundas* + Green Island (Auckland Islands)|Green*
+ 46758 Green Island (Auckland Islands)|Green Island*
+304837 Auckland Island|Auckland* + Shag Rock, New Zealand|Shag* + Adams Island, New Zealand|Adams* + Monumental Island, New Zealand|Monumental* + Ocean Island, New Zealand|Ocean* + Rose Island (New Zealand)|Rose* + Figure of Eight I, New Zealand|Figure of Eight* + Enderby Island|Enderby* + Ewing Island, New Zealand|Ewing* + Dundas Island, New Zealand|Dundas*
+ 44055 Dundas Island, New Zealand|Dundas Island*
+296988 Auckland Island|Auckland* + Shag Rock, New Zealand|Shag* + Adams Island, New Zealand|Adams* + Monumental Island, New Zealand|Monumental* + Ocean Island, New Zealand|Ocean* + Rose Island (New Zealand)|Rose* + Figure of Eight I, New Zealand|Figure of Eight* + Enderby Island|Enderby* + Ewing Island, New Zealand|Ewing*
+ 18922 Ewing Island, New Zealand|Ewing Island*
+274962 Auckland Island|Auckland* + Shag Rock, New Zealand|Shag* + Adams Island, New Zealand|Adams* + Monumental Island, New Zealand|Monumental* + Ocean Island, New Zealand|Ocean* + Rose Island (New Zealand)|Rose* + Figure of Eight I, New Zealand|Figure of Eight* + Enderby Island|Enderby*
+  6642 Enderby Island*
+274961 Auckland Island|Auckland* + Shag Rock, New Zealand|Shag* + Adams Island, New Zealand|Adams* + Monumental Island, New Zealand|Monumental* + Ocean Island, New Zealand|Ocean* + Rose Island (New Zealand)|Rose* + Figure of Eight I, New Zealand|Figure of Eight*
+ 41829 
+274960 
+106167 Figure of Eight I, New Zealand|Figure of Eight Island*
+274959 Auckland Island|Auckland* + Shag Rock, New Zealand|Shag* + Adams Island, New Zealand|Adams* + Monumental Island, New Zealand|Monumental* + Ocean Island, New Zealand|Ocean* + Rose Island (New Zealand)|Rose*
+ 12076 Rose Island (New Zealand)|Rose Island*
+274958 Auckland Island|Auckland* + Shag Rock, New Zealand|Shag* + Adams Island, New Zealand|Adams* + Monumental Island, New Zealand|Monumental* + Ocean Island, New Zealand|Ocean*
+ 56071 Ocean Island, New Zealand|Ocean Island*
+274957 Auckland Island|Auckland* + Shag Rock, New Zealand|Shag* + Adams Island, New Zealand|Adams* + Monumental Island, New Zealand|Monumental*
+187885 Adams Island, New Zealand|Adams* + Monumental Island, New Zealand|Monumental*
+ 62832 Monumental Island, New Zealand|Monumental Island*
+  1390 Adams Island, New Zealand|Adams Island*
+185230 Auckland Island|Auckland* + Shag Rock, New Zealand|Shag*
+ 48658 Shag Rock, New Zealand|Shag Rock*
+   453 Auckland Island*
 199274 Snares Islands / Tini Heke*
  70035 Broughton Island, New Zealand|Broughton Island*
  11164 North East Island, New Zealand|North East Island*
-283886 Three Kings Islands / Manawatāwhi*
-280289 Whakaari / White Island|White*
+283886 Manawatāwhi / Three Kings Islands*
+261819 Southwest Group
+212963 Moekawa / South West*
+ 33308 Moekawa / South West Island*
+261818 Princes + Ōhau/West Island|Ōhau/West*
+223614 Ōhau/West Island|Ōhau/West*
+ 57676 Ōhau/West Island*
+261817 Princes Islands
+197372 King Group
+ 76548 Oromaki / North East Island*
+  8931 Manawatāwhi / Great Island*
+280289 Whakaari / White Island|Whakaari / White*
+239990 Te Paepae o Aotea*
+ 10271 Whakaari / White Island*
 201527 Solander Islands*
+ 93974 Little Solander Island
+ 14107 Solander Island*
   4585 Mayor Island / Tuhua*
 280659 The Traps
 116549 South Trap
@@ -685,6 +781,7 @@
 323804 South Island|South*
     17 South Island*
 261070 Raratoka Island|Raratoka*
+ 16667 Raratoka Island*
  42461 Trio Islands (Kuru Pongi)
 314075 Northern Line Islands|Northern Line* + Jarvis Island|Jarvis*
   9041 Jarvis Island*
