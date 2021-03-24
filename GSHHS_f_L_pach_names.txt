@@ -781,8 +781,35 @@
 323804 South Island|South*
     17 South Island*
 261070 Raratoka Island|Raratoka*
+229308 Escape Reefs
+203352 Raratoka Island|Raratoka* + Hapuka
+118432 Hapuka Rock
  16667 Raratoka Island*
  42461 Trio Islands (Kuru Pongi)
+ 43536 Dog Island (New Zealand)|Dog Island*
+229287 The Brothers (New Zealand)|The Brothers*
+ 88375 North Brother
+ 73220 South Brother
+ 14458 Stephens Island (New Zealand)|Stephens Island*
+ 65307 Pig Island
+205099 Chetwode Islands*
+205098 Te Kakaho
+128548 
+ 19218 Te Kakaho Island
+ 12311 Nukuwaiata Island
+ 68911 Open Bay Islands*
+100206 
+ 97719 White Island (Otago)|White Island*
+ 96854 Green Island (Okaihe)|Green Island*
+ 38115 Titi Island
+ 15595 Long Island, Marlborough|Long Island*
+ 25314 Motuara Island*
+230725 Three Steeples + Black
+ 72454 Black Reef
+230724 Three Steeples
+ 98895 
+ 72953 Motuanauru Island
+ 45470 Allports Island*
 314075 Northern Line Islands|Northern Line* + Jarvis Island|Jarvis*
   9041 Jarvis Island*
 307431 Northern Line Islands*
@@ -4038,8 +4065,18 @@
     13 Victoria Island (Canada)|Victoria Island*
 338557 Baffin Island|Baffin*
     10 Baffin Island*
+302012 Marajó*
+    69 Marajó|Marajó Island*
+287141 Revillagigedo Island|Revillagigedo*
+   159 Revillagigedo Island*
+301309 Vancouver Island|Vancouver*
+    47 Vancouver Island*
+299098 Long Island|Long*
+   154 Long Island*
 302938 South America*
      4 South America|Mainland South America*
+  1054 Staten Island*
+  4777 Long Beach Barrier Island*
 320573 North America*
      3 North America|Mainland North America*
 363631 Afro-Eurasia*
