@@ -399,6 +399,7 @@
 181691 Carpenter Island*
 181601 Thurston Island*
 181665 Ewing Island*
+283182 Brownson Islands*
 294235 McNamara Island|McNamara*
 181689 McNamara Island*
 283088 Grant Island|Grant* + Shepard Island|Shepard* + Forrester Island (Antarctica)|Forrester*
@@ -406,20 +407,94 @@
 253649 Grant Island|Grant* + Shepard Island|Shepard*
 181668 Shepard Island*
 181627 Grant Island*
+181724 Backer Islands*
 181609 Ross Island*
 181636 Kupol Korolëva
 181613 Steershead Ice Rise
+253678 Johnson Island (Antarctica)|Johnson*
+181677 Johnson Island (Antarctica)|Johnson Island*
+283121 Apollo Island|Apollo*
+253693 
+181706 Apollo Island*
 181673 Taylor Islands*
-308009 Alexander Island|Alexander* + Rothschild Island|Rothschild* + Dorsey Island|Dorsey*
+308009 Alexander Island|Alexander* + Rothschild Island|Rothschild* + Merger Island|Merger* + Dvořák Ice Rise|Dvořák* + Landy Ice Rises|Landy* + Dorsey Island|Dorsey*
 181651 Dorsey Island*
-305753 Alexander Island|Alexander* + Rothschild Island|Rothschild*
+305753 Alexander Island|Alexander* + Rothschild Island|Rothschild* + Merger Island|Merger* + Dvořák Ice Rise|Dvořák* + Landy Ice Rises|Landy*
+283135 Landy Ice Rises*
+294225 Alexander Island|Alexander* + Rothschild Island|Rothschild* + Merger Island|Merger* + Dvořák Ice Rise|Dvořák*
+181776 Dvořák Ice Rise*
+294223 Alexander Island|Alexander* + Rothschild Island|Rothschild* + Merger Island|Merger*
+253690 Merger Island|Merger*
+181699 Merger Island*
+283255 Alexander Island|Alexander* + Rothschild Island|Rothschild*
 181622 Rothschild Island*
 283254 Alexander Island|Alexander*
 181599 Alexander Island*
+181716 Stephen Island*
 181629 Crary Ice Rise*
 181633 Masson Island*
-253643 Mill Island|Mill*
+181337 Astrolabe Island*
+253541 Tower Island|Tower*
+181326 Tower Island*
+181741 
+253643 Mill Island|Mill* + Novosilskogo
+181650 Novosilskogo Dome
 181614 Mill Island*
+294196 Robertson Island|Robertson*
+181663 Robertson Island*
+181641 Newman Island*
+181727 Kupol Mira
+181310 Hoseason Island*
+181285 Coulman Island*
+253679 Francis Island|Francis* + Tonkin Island|Tonkin*
+181755 Tonkin Island*
+181681 Francis Island*
+181661 Zavadovskiy Island*
+305637 Lavoisier Island|Lavoisier* + Krogh Island|Krogh* + DuBois Island|DuBois* + Bazett Island|Bazett* + Watkins Island|Watkins* + Horvath Island|Horvath* + Belding Island|Belding* + Adolph Islands|Adolph* + Barcroft Islands|Barcroft* + Decazes Island|Decazes* + Scholander Island|Scholander*
+181534 Scholander Island*
+305636 Lavoisier Island|Lavoisier* + Krogh Island|Krogh* + DuBois Island|DuBois* + Bazett Island|Bazett* + Watkins Island|Watkins* + Horvath Island|Horvath* + Belding Island|Belding* + Adolph Islands|Adolph* + Barcroft Islands|Barcroft* + Decazes Island|Decazes*
+181513 Decazes Island*
+294141 Lavoisier Island|Lavoisier* + Krogh Island|Krogh* + DuBois Island|DuBois* + Bazett Island|Bazett* + Watkins Island|Watkins* + Horvath Island|Horvath* + Belding Island|Belding* + Adolph Islands|Adolph* + Barcroft Islands|Barcroft*
+294140 Watkins Island|Watkins* + Horvath Island|Horvath* + Belding Island|Belding* + Adolph Islands|Adolph* + Barcroft Islands|Barcroft*
+283210 Barcroft Islands*
+181481 Bedford Island*
+283209 St. Brigid Island|St. Brigid* + Irving Island|Irving* + Chakarov Island|Chakarov* + St. Isidore Island|St. Isidore*
+253626 St. Isidore Island|St. Isidore*
+181530 St. Isidore Island*
+283208 St. Brigid Island|St. Brigid* + Irving Island|Irving* + Chakarov Island|Chakarov*
+253602 Chakarov Island|Chakarov*
+181508 
+253600 
+181571 
+181456 Chakarov Island*
+253580 St. Brigid Island|St. Brigid* + Irving Island|Irving*
+181485 Irving Island*
+253579 St. Brigid Island|St. Brigid*
+181408 St. Brigid Island*
+283152 Watkins Island|Watkins* + Horvath Island|Horvath* + Belding Island|Belding* + Adolph Islands|Adolph*
+253633 Adolph Islands*
+253534 Watkins Island|Watkins* + Horvath Island|Horvath* + Belding Island|Belding*
+181339 Belding Island*
+253533 Watkins Island|Watkins* + Horvath Island|Horvath*
+181558 Horvath Island*
+181318 Watkins Island*
+253518 Lavoisier Island|Lavoisier* + Krogh Island|Krogh* + DuBois Island|DuBois* + Bazett Island|Bazett*
+181555 Bazett Island*
+253517 Lavoisier Island|Lavoisier* + Krogh Island|Krogh* + DuBois Island|DuBois*
+181355 DuBois Island*
+253516 Lavoisier Island|Lavoisier* + Krogh Island|Krogh*
+181317 Krogh Island*
+181291 Lavoisier Island*
+181628 Blåskimen Island*
+253532 Sputnik Islands*
+283176 Christiania Islands*
+253594 Small Island (Antarctica)|Small* + Gulch Island (Antarctica)|Gulch*
+181514 Gulch Island (Antarctica)|Gulch Island*
+181440 Small Island (Antarctica)|Small Island*
+253551 Intercurrence Island|Intercurrence* + Grinder Rock|Grinder*
+181468 Grinder Rock*
+181352 Intercurrence Island*
+181700 Butler Island (Antarctica)|Butler Island*
 283282 Joinville Island group|Joinville Island Group*
 181313 Bransfield Island*
 253505 Joinville Island|Joinville* + D'Urville Island, Antarctica|D'Urville* + Dundee Island|Dundee*
@@ -427,6 +502,30 @@
 253504 Joinville Island|Joinville* + D'Urville Island, Antarctica|D'Urville*
 181279 D'Urville Island, Antarctica|D'Urville Island*
 181273 Joinville Island*
+181639 Dolleman Island*
+304294 Eklund Islands*
+294251 Bernal Islands|Bernal* + Fowler Islands|Fowler* + Bragg Islands|Bragg*
+181467 Bragg Islands*
+283273 Bernal Islands|Bernal* + Fowler Islands|Fowler*
+181520 Fowler Islands*
+253606 Bernal Islands*
+181560 
+181476 
+253646 Wright Island|Wright* + Nunn Island|Nunn*
+181687 Nunn Island*
+181624 Wright Island*
+181287 White Island (Enderby Land)|White Island*
+253657 DeAtley Island|DeAtley*
+181643 DeAtley Island*
+181648 Kizer Island*
+181717 
+253521 Trinity Island|Trinity*
+181293 Trinity Island*
+181675 Leskov Island (Antarctica)|Leskov Island*
+181657 Steele Island*
+181289 Liard Island*
+253650 Mikhaylov Island|Mikhaylov*
+181631 Mikhaylov Island*
 305572 Marshall Archipelago|Marshall* + Vollmer Island|Vollmer*
 181658 Vollmer Island*
 294198 Marshall Archipelago*
@@ -439,13 +538,19 @@
 181656 Przybyszewski Island*
 253648 Cronenwett Island|Cronenwett*
 181626 Cronenwett Island*
+181630 White Island (Ross Archipelago)|White Island* + Black Island (Ross Archipelago)|Black Island*
+181667 Henderson Island (Shackleton Ice Shelf)|Henderson Island*
+283059 
+181623 
+181618 Hearst Island*
+181653 Unneruskollen Island*
 181608 Spaatz Island*
 294125 James Ross Island group|James Ross Island Group*
 181271 James Ross Island*
-181615 
+181615 Novyy Island*
 307949 Palmer Archipelago*
 181272 Anvers Island*
-181611 
+181611 Farwell Island*
 253495 Adelaide Island|Adelaide*
 181270 Adelaide Island*
 363865 
@@ -479,6 +584,7 @@
   2822 Raoul Island*
 343545 New Zealand* + Macquarie Island|Macquarie* + Chatham Islands|Chatham* + Antipodes Islands|Antipodes* + Bounty Islands|Bounty* + Norfolk Island|Norfolk*
 292286 Norfolk Island|Norfolk*
+  2434 Norfolk Island*
 343127 New Zealand* + Macquarie Island|Macquarie* + Chatham Islands|Chatham* + Antipodes Islands|Antipodes* + Bounty Islands|Bounty*
 321340 Chatham Islands|Chatham* + Antipodes Islands|Antipodes* + Bounty Islands|Bounty*
 291900 Antipodes Islands|Antipodes* + Bounty Islands|Bounty*
