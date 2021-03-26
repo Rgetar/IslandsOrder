@@ -3772,6 +3772,8 @@
 311668 Sabalana Islands*
 301495 Sumba*
 208931 Strofades*
+ 37254 Arpia
+ 25662 Stamfani
 339266 Belcher Islands*
   3387 Anholt (Denmark)|Anholt*
 195756 Zabargad Island|Zabargad*
@@ -4119,9 +4121,44 @@
   1691 Krestovsky Island
  16275 Pulau Biawak
  59540 Sheshan Island*
-317233 Karpathos*
-314410 
-304412 
+317233 Karpathos* + Kasos* + Armathia* + Makronisi + Zaforas* + Mikró Sofráno + Sochás + Karávia + Avgonísi + Divounia + Chamili + Astakidonisia
+314410 Zaforas* + Mikró Sofráno + Sochás + Karávia + Avgonísi + Divounia + Chamili + Astakidonisia
+279317 Astakidonisia
+160931 Sial
+206000 Astakida + Nimo + Astakidopoulo
+ 71835 Astakidopoulo
+205999 Astakida + Nimo
+167694 Nimo
+ 20706 Astakida
+306891 Zaforas* + Mikró Sofráno + Sochás + Karávia + Avgonísi + Divounia + Chamili
+ 27616 Chamili
+298119 Zaforas* + Mikró Sofráno + Sochás + Karávia + Avgonísi + Divounia
+214154 Divounia
+ 43164 
+ 35664 
+291081 Zaforas* + Mikró Sofráno + Sochás + Karávia + Avgonísi
+ 84494 Avgonísi
+254530 Zaforas* + Mikró Sofráno + Sochás + Karávia
+238267 Karávia
+116995 
+105229 
+219710 Zaforas* + Mikró Sofráno + Sochás
+219709 Mikró Sofráno + Sochás
+ 76304 Sochás
+ 47617 Mikró Sofráno
+ 15782 Zaforas*
+304412 Karpathos* + Kasos* + Armathia* + Makronisi
+295348 Kasos* + Armathia* + Makronisi
+271093 Armathia* + Makronisi
+210973 Makronisi
+ 29558 Makronisi Island
+199217 Armathia*
+ 11079 Armathia|Armathia Island*
+276453 Kasos*
+  1757 Kasos|Kasos Island*
+275179 Karpathos*
+  3538 Saria Island*
+   666 Karpathos|Karpathos Island*
 193354 Ruhnu*
   4888 Ruhnu|Ruhnu Island*
 220814 Farsi Island|Farsi* + Arabi Island|Arabi*
@@ -4323,7 +4360,10 @@
 308212 Jeju Island|Jeju*
 321336 Hainan*
 325883 Cyclades*
-305558 Rhodes*
+305558 Dodecanese*
+295175 Halki (Greece)|Halki*
+  2945 Halki (Greece)|Halki Island*
+305556 Rhodes*
    241 Rhodes|Rhodes Island*
 323805 Belitung*
    120 Belitung|Belitung Island*
