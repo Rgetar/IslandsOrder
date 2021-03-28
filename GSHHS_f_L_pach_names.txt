@@ -4352,27 +4352,97 @@
   5257 Greater Tunb*
  26870 Chaoliandao
  76077 Black Rock
-306188 Astypalaia*
+306188 Astypalaia* + Syrna (island)|Syrna*
+305253 Syrna (island)|Syrna*
+  6034 Syrna (island)|Syrna Island*
+299505 Astypalaia*
   1377 Astypalaia|Astypalaia Island*
 184035 Karaginsky Island|Karaginsky*
 299779 Unguja*
+186721 Samothrace* + Zourafa*
+ 49457 Zourafa*
+   932 Samothrace*
 323871 Lesser Sunda Islands*
+261113 Anafi*
+  2395 Anafi|Anafi Island*
 308212 Jeju Island|Jeju*
+216110 Ananes*
+275272 Lemnos*
+   476 Lemnos Island*
+293339 Antikythera*
+282641 
+ 31577 
+280319 
+  3584 Antikythera|Antikythera Island*
+307693 Northern Sporades*
+   845 Skyros Island*
+305074 Psara* + Antipsara*
+197015 Antipsara*
+  8519 Antipsara|Antipsara Island*
+293913 Psara*
+  2329 Psara|Psara Island*
+304926 Santorini caldera|Santorini* + Christiana Islands|Christiana*
+278710 Christiana Islands*
+294729 Santorini caldera|Santorini Caldera*
+  1630 Santorini*
 321336 Hainan*
+203568 Anydros*
+ 16947 Anydros|Anydros Island*
+  8215 Agios Georgios (island)|Agios Georgios*
 325883 Cyclades*
+259686 Levitha* + Kinaros*
+196603 Kinaros*
+  8058 Kinaros|Kinaros Island*
+259685 Levitha*
+  5003 Levitha|Levitha Island*
+294151 Ios*
+  1299 Ios Island*
+192801 Donoussa*
+  4433 Donoussa|Donoussa Island*
+274202 Amorgos*
+  1178 Amorgos Island*
+304506 Lesser Cyclades*
+  7200 Ano Koufonisi*
+310065 Paros*
+   865 Paros Island*
+297540 Naxos*
+   522 Naxos Island*
+ 57911 Vaindloo*
+   701 Imbros*
+257514 Zakynthos*
+   545 Zakynthos|Zakynthos Island*
 305558 Dodecanese*
 295175 Halki (Greece)|Halki*
   2945 Halki (Greece)|Halki Island*
 305556 Rhodes*
    241 Rhodes|Rhodes Island*
+313845 Kythnos*
+  1356 Kythnos|Kythnos Island*
 323805 Belitung*
    120 Belitung|Belitung Island*
+273914 Agathonisi*
+  4418 Agathonisi|Agathonisi Island*
+312845 Syros*
+  1528 Syros Island*
 319980 Bangka Island|Bangka*
     67 Bangka Island*
+286410 Paxi*
+  5283 İmralı*
+  8720 Piperi (island)|Piperi*
+296532 Tilos*
+  1823 Tilos|Tilos Island*
+   736 Sandwip*
+ 36093 Sommers*
 311134 North Kurils
+324996 Farasan Islands*
+   564 Farasan Island*
+308221 Andros*
+   574 Andros|Andros Island*
 184059 Bolshoy Begichev Island|Bolshoy Begichev* + Maly Begichev Island|Maly Begichev*
   4000 Maly Begichev Island*
    200 Bolshoy Begichev Island*
+  8832 Farmakonisi*
+ 11505 Nisyros*
 316033 Bissagos Islands*
 323856 Java* + Bali* + Madura Island|Madura*
 187495 Panaitan*
@@ -4384,17 +4454,46 @@
    107 Bali|Bali Island*
 308295 Java*
     18 Java|Java Island*
+288743 Skantzoura*
+  7073 Skantzoura|Skantzoura Island*
+   746 Icaria*
+266019 Nisyros*
+  2333 Nisyros|Nisyros Island*
    195 Bely Island*
- 59504 Shantar Islands*
+304420 Kythira*
+   719 Kythira|Kythira Island*
+259504 Shantar Islands*
+  2825 Prokofyeva Island*
+259503 Bolshoy Shantar Island|Bolshoy Shantar* + Utichy Island|Utichy*
+214710 Utichy Island|Utichy*
+ 46045 
+ 36829 Utichy Island*
+184067 Bolshoy Shantar Island|Bolshoy Shantar*
+ 72167 
+   202 Bolshoy Shantar Island*
+  3709 Naissaar*
+297166 Patmos*
+  2526 Patmos|Patmos Island*
+259211 Bird Island Group
+ 41835 Bird Island, Algoa Bay|Bird Island*
 308400 Sakhalin*
     27 Sakhalin|Sakhalin Island*
+  8727 Atokos*
 295907 Lesbos*
    219 Lesbos|Lesbos Island*
 323772 Sumatra*
     11 Sumatra|Sumatra Island*
+306262 Skopelos*
+  1418 Skopelos|Skopelos Island*
+254793 Symi*
+  1885 Symi|Symi Island*
+304559 Fournoi Korseon*
+305701 Ionian Islands*
+   344 Cephalonia|Cephalonia Island*
 320925 Lingga Archipelago*
 322350 Bintan Island|Bintan* + Barelang*
    265 Bintan Island*
+ 30432 Stavro Island
 319272 Zealand*
     93 Zealand|Zealand Island*
 315894 Saaremaa* + Hiiumaa*
