@@ -4357,14 +4357,58 @@
   6034 Syrna (island)|Syrna Island*
 299505 Astypalaia*
   1377 Astypalaia|Astypalaia Island*
+ 11357 Gorgona (Italy)|Gorgona*
+304948 Pontine Islands*
+280437 Palmarola*
+ 14958 Palmarola|Palmarola Island*
+295145 Ponza* + Gavi (island)|Gavi* + Zannone*
+ 17859 Zannone*
+273670 Ponza* + Gavi (island)|Gavi*
+245246 
+194498 
+ 71219 Gavi (island)|Gavi*
+194497 Ponza*
+  5934 Ponza Island*
+179867 Barsa-Kelmes*
+191540 Kharg Island|Kharg* + Khargu
+  9231 Khargu Island
+  3520 Kharg Island*
+290217 Tenggol Island|Tenggol*
+  9332 Tenggol Island*
 184035 Karaginsky Island|Karaginsky*
 299779 Unguja*
 186721 Samothrace* + Zourafa*
  49457 Zourafa*
    932 Samothrace*
 323871 Lesser Sunda Islands*
+  2353 Palu'e*
+320915 Sumbawa* + Lombok* + Flores* + Alor Archipelago|Alor*
+320914 Flores* + Alor Archipelago|Alor*
+311128 Alor Archipelago*
+269554 Pantar*
+   359 Pantar|Pantar Island*
+286322 Alor Island|Alor*
+   184 Alor Island*
+319727 Flores*
+190715 Banta
+  2957 Banta Island
+305761 Komodo (island)|Komodo*
+   636 Komodo (island)|Komodo Island*
+   255 Lembata|Lembata Island*
+   820 Solor*
+185247 Adonara*
+   457 Adonara Island*
+186469 Rinca*
+   839 Rinca Island*
+    62 Flores|Flores Island*
+320182 Sumbawa* + Lombok*
+311174 Lombok*
+   119 Lombok Island*
+320181 Sumbawa*
+    59 Sumbawa Island*
 261113 Anafi*
   2395 Anafi|Anafi Island*
+  1033 Atlasov Island*
 308212 Jeju Island|Jeju*
 216110 Ananes*
 275272 Lemnos*
@@ -4376,18 +4420,52 @@
   3584 Antikythera|Antikythera Island*
 307693 Northern Sporades*
    845 Skyros Island*
+310020 Aeolian Islands*
+294689 Filicudi* + Alicudi*
+  7742 Alicudi*
+281721 Filicudi*
+  5477 Filicudi|Filicudi Island*
+304204 Lipari* + Vulcano* + Salina, Sicily|Salina* + Panarea* + Basiluzzo + Stromboli*
+193254 Stromboli*
+104964 Strombolicchio*
+  4811 Stromboli Island*
+304203 Lipari* + Vulcano* + Salina, Sicily|Salina* + Panarea* + Basiluzzo
+294244 Panarea* + Basiluzzo
+214049 Basiluzzo
+ 35461 Basiluzzo Island
+283290 Panarea*
+  9216 Panarea|Panarea Island*
+295236 Lipari* + Vulcano* + Salina, Sicily|Salina*
+190797 Salina, Sicily|Salina*
+  3014 Salina Island*
+273388 Lipari* + Vulcano*
+191380 Vulcano*
+  3405 Vulcano Island*
+189911 Lipari*
+  2435 Lipari Island*
 305074 Psara* + Antipsara*
 197015 Antipsara*
   8519 Antipsara|Antipsara Island*
 293913 Psara*
   2329 Psara|Psara Island*
+300547 Læsø*
+  1279 Læsø|Læsø Island*
+309905 Guernsey*
+  1802 Guernsey|Guernsey Island*
 304926 Santorini caldera|Santorini* + Christiana Islands|Christiana*
 278710 Christiana Islands*
 294729 Santorini caldera|Santorini Caldera*
   1630 Santorini*
+  1175 Zavyalov Island*
 321336 Hainan*
+307714 Kerkennah Islands*
+  2114 Gharbi, Tunisia|Gharbi*
+278863 Chergui*
+  1360 Chergui|Chergui Island*
 203568 Anydros*
  16947 Anydros|Anydros Island*
+187460 Weh Island|Weh*
+  1202 Weh Island*
   8215 Agios Georgios (island)|Agios Georgios*
 325883 Cyclades*
 259686 Levitha* + Kinaros*
@@ -4489,6 +4567,9 @@
   1885 Symi|Symi Island*
 304559 Fournoi Korseon*
 305701 Ionian Islands*
+187864 Ithaca*
+  1382 Ithaca Island*
+295651 Cephalonia*
    344 Cephalonia|Cephalonia Island*
 320925 Lingga Archipelago*
 322350 Bintan Island|Bintan* + Barelang*
