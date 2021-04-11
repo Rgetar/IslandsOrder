@@ -4486,7 +4486,22 @@
 297540 Naxos*
    522 Naxos Island*
  57911 Vaindloo*
+  1493 Kish Island*
    701 Imbros*
+306623 Tioman Island|Tioman*
+  1137 Tioman Island*
+314115 Solovetsky Islands*
+304446 
+ 56458 Bol'shaya Sennukha
+295289 
+200233 
+ 12326 
+270838 
+  6691 
+306647 
+  2197 Anzersky Island*
+299939 Bolshoy Solovetsky Island|Bolshoy Solovetsky*
+   794 Bolshoy Solovetsky Island*
 257514 Zakynthos*
    545 Zakynthos|Zakynthos Island*
 305558 Dodecanese*
@@ -4498,17 +4513,33 @@
   1356 Kythnos|Kythnos Island*
 323805 Belitung*
    120 Belitung|Belitung Island*
+275056 Feklistova Island|Feklistova*
+   588 Feklistova Island*
 273914 Agathonisi*
   4418 Agathonisi|Agathonisi Island*
+314375 Sapudi Islands*
+  1155 Sapudi Island*
 312845 Syros*
   1528 Syros Island*
 319980 Bangka Island|Bangka*
     67 Bangka Island*
 286410 Paxi*
+323710 Banyak Islands*
+   833 Tuangku*
   5283 İmralı*
+294239 Tyuleniy Archipelago*
   8720 Piperi (island)|Piperi*
+296339 Kamennye Islands*
+304061 Vis (island)|Vis*
+  1465 Vis (island)|Vis Island*
+319977 Shengsi Islands*
+179939 Ogurja Ada*
+311469 Lastovo*
+  2351 Lastovo|Lastovo Island*
 296532 Tilos*
   1823 Tilos|Tilos Island*
+294967 Baengnyeong*
+  2085 Baengnyeong Island*
    736 Sandwip*
  36093 Sommers*
 311134 North Kurils
@@ -4516,6 +4547,12 @@
    564 Farasan Island*
 308221 Andros*
    574 Andros|Andros Island*
+317062 Hanish Islands*
+  1214 Zuqar Island*
+275543 Nusa Penida*
+   885 Nusa Penida|Nusa Penida Island*
+317042 Jersey*
+  1234 Jersey|Jersey Island*
 184059 Bolshoy Begichev Island|Bolshoy Begichev* + Maly Begichev Island|Maly Begichev*
   4000 Maly Begichev Island*
    200 Bolshoy Begichev Island*
