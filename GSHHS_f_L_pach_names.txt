@@ -4668,13 +4668,22 @@
    287 Hiiumaa|Hiiumaa Island*
 315893 Saaremaa*
    166 Saaremaa|Saaremaa Island*
+296569 Skiathos*
+  2134 Skiathos Island*
 320903 Sri Lanka*
     30 Sri Lanka|Sri Lanka Island*
 308434 Sicily*
     49 Sicily|Sicily Island*
 179839 Olkhon Island*
+276935 Hydra (island)|Hydra*
+  2038 Hydra (island)|Hydra Island*
 326424 Africa*
      2 Africa|Mainland Africa*
+255903 Salamis Island|Salamis*
+  1392 Salamis Island*
+183657 Euboea*
+   141 Euboea|Euboea Island*
+179835 
 345092 Eurasia*
      1 Eurasia|Mainland Eurasia*
 
