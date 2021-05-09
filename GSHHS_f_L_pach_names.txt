@@ -4612,6 +4612,55 @@
 322350 Bintan Island|Bintan* + Barelang*
    265 Bintan Island*
  30432 Stavro Island
+263976 Tavşan Islands, Çanakkale|Tavşan Islands*
+ 18499 Tavşan Adası
+289360 Marmara|Marmara Island*
+  1266 Marmara Island*
+  4313 Groix|Groix Island*
+284162 Diaporia
+225964 Yassıada* + Sivriada*
+ 70507 Sivriada*
+ 63904 Yassıada*
+252327 Petrokaravo
+175621 Petrokaravo Island
+  9328 Proklyatye Islands
+  7546 Sazan Island*
+  8452 Arkoudi*
+ 21416 Kelyfos
+219104 Laousses
+203645 Kyra + Spalathonisi
+ 77307 Spalathonisi Islet
+ 17074 Kyra Island
+ 54556 Sevingen Adası
+311680 Kos* + Leros* + Kalymnos* + Pserimos* + Leipsoi* + Arkoi*
+306280 Leipsoi* + Arkoi*
+270832 Arkoi*
+  6625 Arkoi|Arkoi Island*
+299241 Leipsoi*
+  3982 Leipsoi|Leipsoi Island*
+298374 Kos* + Leros* + Kalymnos* + Pserimos*
+298373 Leros* + Kalymnos* + Pserimos*
+272880 Pserimos*
+  4259 Pserimos|Pserimos Island*
+298372 Leros* + Kalymnos*
+189020 Leros*
+  1940 Leros Island*
+255888 Kalymnos*
+  1282 Kalymnos Island*
+250927 Kos*
+   689 Kos Island*
+297053 Saronic Islands*
+274034 Agistri*
+  4921 Agistri|Agistri Island*
+188269 Aegina*
+  1567 Aegina Island*
+   743 Arakamchechen Island*
+201805 Ro, Greece|Ro*
+ 14485 Ro, Greece|Ro Island*
+278825 Kalolimnos*
+ 13092 Kalolimnos|Kalolimnos Island*
+254832 Thasos*
+   571 Thasos|Thasos Island*
 319272 Zealand*
     93 Zealand|Zealand Island*
 315894 Saaremaa* + Hiiumaa*
@@ -4623,6 +4672,7 @@
     30 Sri Lanka|Sri Lanka Island*
 308434 Sicily*
     49 Sicily|Sicily Island*
+179839 Olkhon Island*
 326424 Africa*
      2 Africa|Mainland Africa*
 345092 Eurasia*
