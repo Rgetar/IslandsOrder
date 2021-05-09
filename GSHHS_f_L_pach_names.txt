@@ -3962,8 +3962,14 @@
 320198 Melville Island (Northwest Territories and Nunavut)|Melville*
     36 Melville Island (Northwest Territories and Nunavut)|Melville Island*
 278053 Banco Chinchorro*
+255879 Los Monjes Archipelago*
+193968 Corn Islands, South Caribbean Coast Autonomous Region|Corn Islands*
+ 12258 Little Corn Island*
+  5420 Big Corn Island*
+300742 Cayos Vivorillo
 187134 San Clemente Island|San Clemente*
   1058 San Clemente Island*
+126310 
    872 Santa Catalina Island (California)|Santa Catalina Island*
 297544 Guafo Island|Guafo*
    911 Guafo Island*
@@ -3976,6 +3982,8 @@
 274443 Roatán*
    989 Roatán|Roatán Island*
   1330 Guamblin Island*
+299937 Mocha Island|Mocha*
+  2055 Mocha Island*
 314289 Islands of Four Mountains*
 298351 Isla de los Estados|Estados*
    452 Isla de los Estados*
@@ -4009,13 +4017,21 @@
     15 Ellesmere Island*
 361936 Greenland*
      6 Greenland|Greenland Island*
+197671 Grey Goose Island|Grey Goose*
+  9232 Grey Goose Island*
+192994 Gorgona Island (Colombia)|Gorgona* + Gorgonilla
+ 20962 Gorgonilla Island
+  4577 Gorgona Island (Colombia)|Gorgona Island*
 286539 Nunivak Island|Nunivak*
    129 Nunivak Island*
 322084 Pearl Islands*
    757 Isla del Rey, Panama|Isla del Rey*
     91 Anticosti Island*
+283333 Success
+ 15171 Success Island
 275691 Aruba*
    929 Aruba|Aruba Island*
+  6434 Tortuga Island, Baja California Sur|Tortuga Island*
 304054 Twin Islands (Nunavut)|Twin Islands*
   1678 South Twin Island (Nunavut)|South Twin Island*
 187064 North Twin Island|North Twin*
