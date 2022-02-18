@@ -1127,7 +1127,7 @@
 296109 Disappointment Islands*
  20445 Tepoto (North)|Tepoto*
 271381 Napuka*
-295353 Reao* + Pukarua*
+295353 Far East Tuamotu Group
 274081 Pukarua*
 271131 Reao*
 294554 Tematagi*
@@ -1159,7 +1159,7 @@
 272369 Paraoa* + Manuhangi*
 236910 Manuhangi*
 197979 Paraoa*
-313844 Hao (French Polynesia)|Hao* + Amanu*
+313844 Hao Group
 299850 Amanu*
 307031 Hao (French Polynesia)|Hao*
 313200 King George Islands*
@@ -1179,16 +1179,16 @@
 305992 Raroia*
 282253 Reitoru*
 261031 Haraiki*
-314275 Marokau* + Ravahere* + Hikueru* + Tekokota*
+314275 Hikueru Group
 297729 Hikueru* + Tekokota*
 228712 Tekokota*
 290638 Hikueru*
-306597 Marokau* + Ravahere*
+306597 Two Groups Islands*
 279741 Ravahere*
 294507 Marokau*
   5378 Taiaro*
 271067 Mataiva*
-317021 Kauehi* + Raraka* + Aratika*
+317021 Raeffsky Islands*
 300702 Aratika*
 311669 Kauehi* + Raraka*
 306552 Raraka*
@@ -1199,17 +1199,17 @@
 314017 Nihiru* + Taenga*
 296620 Taenga*
 307425 Nihiru*
-328464 Fakarava* + Toau* + Tahanea* + Faaite* + Motutunga* + Makemo* + Katiu* + Tuanake* + Hiti* + Tepoto (South)|Tepoto* + Apataki* + Arutua* + Kaukura* + Marutea Nord* + Niau*
+328464 Palliser Islands|Palliser* + Tahanea* + Faaite* + Motutunga* + Makemo* + Katiu* + Tuanake* + Hiti* + Tepoto (South)|Tepoto* + Apataki* + Arutua* + Kaukura* + Marutea Nord* + Niau*
   1997 Niau*
-327377 Fakarava* + Toau* + Tahanea* + Faaite* + Motutunga* + Makemo* + Katiu* + Tuanake* + Hiti* + Tepoto (South)|Tepoto* + Apataki* + Arutua* + Kaukura* + Marutea Nord*
+327377 Palliser Islands|Palliser* + Tahanea* + Faaite* + Motutunga* + Makemo* + Katiu* + Tuanake* + Hiti* + Tepoto (South)|Tepoto* + Apataki* + Arutua* + Kaukura* + Marutea Nord*
 314232 Marutea Nord*
-327376 Fakarava* + Toau* + Tahanea* + Faaite* + Motutunga* + Makemo* + Katiu* + Tuanake* + Hiti* + Tepoto (South)|Tepoto* + Apataki* + Arutua* + Kaukura*
+327376 Palliser Islands|Palliser* + Tahanea* + Faaite* + Motutunga* + Makemo* + Katiu* + Tuanake* + Hiti* + Tepoto (South)|Tepoto* + Apataki* + Arutua* + Kaukura*
 322933 Apataki* + Arutua* + Kaukura*
 308178 Kaukura*
 320726 Apataki* + Arutua*
 317950 Arutua*
 307033 Apataki*
-326348 Fakarava* + Toau* + Tahanea* + Faaite* + Motutunga* + Makemo* + Katiu* + Tuanake* + Hiti* + Tepoto (South)|Tepoto*
+326348 Palliser Islands|Palliser* + Tahanea* + Faaite* + Motutunga* + Makemo* + Katiu* + Tuanake* + Hiti* + Tepoto (South)|Tepoto*
 317844 Makemo* + Katiu* + Tuanake* + Hiti* + Tepoto (South)|Tepoto*
 313918 Katiu* + Tuanake* + Hiti* + Tepoto (South)|Tepoto*
 205594 Tepoto (South)|Tepoto*
@@ -1219,13 +1219,13 @@
 264409 Tuanake*
 298852 Katiu*
 306884 Makemo*
-324848 Fakarava* + Toau* + Tahanea* + Faaite* + Motutunga*
+324848 Palliser Islands|Palliser* + Tahanea* + Faaite* + Motutunga*
 322523 Tahanea* + Faaite* + Motutunga*
 299700 Motutunga*
 320359 Tahanea* + Faaite*
 283813 Faaite*
 317846 Tahanea*
-319572 Fakarava* + Toau*
+319572 Palliser Islands*
 314338 Toau*
 315715 Fakarava*
 326838 Society Islands*
@@ -3367,8 +3367,17 @@
 280307 Laughlan Islands
 363122 
 308250 Vitu Islands*
+ 50615 Swain Reefs
+ 11827 Adele Island (Western Australia)|Adele Island*
+219504 Raine Island|Raine* + Jukes
+ 98747 Jukes Reef
+ 47153 Raine Island*
+270817 Green Islands (Papua New Guinea)|Green Islands*
+289020 Tanga Islands*
 363121 Australia (continent)|Australia* + Halmahera* + Numfor* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Feni Islands|Feni*
 188167 Feni Islands*
+317458 Houtman Abrolhos*
+ 83190 Bramble Cay*
 362383 Australia (continent)|Australia* + Halmahera* + Numfor* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir*
 304970 Lihir Group*
 362003 Australia (continent)|Australia* + Halmahera* + Numfor* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark*
@@ -3390,8 +3399,11 @@
     96 New Ireland (island)|New Ireland Island*
 324113 New Britain*
     42 New Britain|New Britain Island*
+196120 Asia Islands*
 361566 Australia (continent)|Australia* + Halmahera* + Numfor*
 293779 Numfor*
+314205 Ayu Islands*
+ 81492 Bedout Island*
 360975 Australia (continent)|Australia* + Halmahera*
 334012 Halmahera*
 360790 Australia (continent)|Australia*
@@ -3406,8 +3418,12 @@
 322941 Trobriand Islands*
 306093 Kofiau*
   1075 Kofiau|Kofiau Island*
+  4973 Turnagain Island (Queensland)|Turnagain Island*
+188893 Gag Island|Gag*
+  1860 Gag Island*
 330052 Misool*
    188 Misool Island*
+  2558 Bagabag (Papua New Guinea)|Bagabag Island*
 185569 Karkar Island|Karkar*
    557 Karkar Island*
 317025 D'Entrecasteaux Islands*
