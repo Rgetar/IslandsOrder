@@ -3436,8 +3436,13 @@
 317025 D'Entrecasteaux Islands*
 323276 Raja Ampat Islands*
    153 Waigeo Island*
+121288 Pulau Loslos
+ 56900 Yef Danga
+157197 Pulau Bodo
 311106 Yapen*
    176 Yapen Island*
+ 64979 Pulau Jerief
+248742 Kri Batanta
 297066 Batanta*
    506 Batanta Island*
 300204 Salawati*
