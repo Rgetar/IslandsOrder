@@ -3373,16 +3373,16 @@
 219504 Raine Island|Raine* + Jukes
  98747 Jukes Reef
  47153 Raine Island*
-362771 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Houtman Abrolhos* + Feni Islands|Feni* + Tanga Islands|Tanga* + Green Islands (Papua New Guinea)|Green*
+362826 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Houtman Abrolhos* + Feni Islands|Feni* + Tanga Islands|Tanga* + Green Islands (Papua New Guinea)|Green*
 270817 Green Islands (Papua New Guinea)|Green Islands*
 362770 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Houtman Abrolhos* + Feni Islands|Feni* + Tanga Islands|Tanga*
 289020 Tanga Islands*
 362462 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Houtman Abrolhos* + Feni Islands|Feni*
 188167 Feni Islands*
-362381 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Houtman Abrolhos*
+362383 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Houtman Abrolhos*
 317458 Houtman Abrolhos*
  83190 Bramble Cay*
-362383 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir*
+362107 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir*
 304970 Lihir Group*
 362003 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark*
 320189 Woodlark Island|Woodlark*
