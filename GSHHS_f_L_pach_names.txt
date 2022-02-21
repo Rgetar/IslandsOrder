@@ -1461,6 +1461,20 @@
 246548 Nanuku
  23996 Namena Lala*
 279651 Yanuca
+297209 Taveuni* + Viubani + Korolevu + Qamea* + Laucala* + Matagi Island|Matagi*
+276075 Qamea* + Laucala* + Matagi Island|Matagi*
+ 20009 Matagi Island*
+190038 Qamea* + Laucala*
+190037 
+  4738 Laucala|Laucala Island*
+  2520 Qamea|Qamea Island*
+275263 Taveuni* + Viubani + Korolevu
+ 99959 Korolevu Island
+185315 Taveuni* + Viubani
+ 65791 Viubani Island
+185314 
+156268 
+   478 Taveuni|Taveuni Island*
    105 Vanua Levu*
 328666 Viti Levu Group*
 276227 Vatulele*
@@ -3238,7 +3252,7 @@
 296645 Carteret Islands*
 363255 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Houtman Abrolhos* + Feni Islands|Feni* + Tanga Islands|Tanga* + Green Islands (Papua New Guinea)|Green* + Adele Island (Western Australia)|Adele* + Vitu Islands|Vitu* + Laughlan + Solomon Islands (archipelago)|Solomon* + St Matthias Islands|St Matthias*
 305787 St Matthias Islands*
- 36807 Tench Island
+ 36807 Tench Island*
 297415 Mussau* + Emirau*
 190185 Emirau*
   2585 Emirau Island*
@@ -3367,6 +3381,23 @@
 280307 Laughlan Islands
 363122 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Houtman Abrolhos* + Feni Islands|Feni* + Tanga Islands|Tanga* + Green Islands (Papua New Guinea)|Green* + Adele Island (Western Australia)|Adele* + Vitu Islands|Vitu*
 308250 Vitu Islands*
+190289 Unea Island|Unea*
+  2662 Unea Island*
+301717 Vingora + Mundua + Chilling + Lumboila + Undaga + Garove + Naragé
+ 16004 Naragé Island
+285561 Vingora + Mundua + Chilling + Lumboila + Undaga + Garove
+265847 Vingora + Mundua + Chilling + Lumboila + Undaga
+ 78121 Undaga Island
+265846 Vingora + Mundua + Chilling + Lumboila
+ 22356 Lumboila Island
+265845 Vingora + Mundua + Chilling
+ 50267 Chilling Island
+195461 Vingora + Mundua
+ 26269 Vingora Island
+  6878 Mundua Island
+189074 Garove
+ 92118 
+  1975 Garove Island
 363121 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Houtman Abrolhos* + Feni Islands|Feni* + Tanga Islands|Tanga* + Green Islands (Papua New Guinea)|Green* + Adele Island (Western Australia)|Adele*
  50615 Swain Reefs
  11827 Adele Island (Western Australia)|Adele Island*
@@ -3375,17 +3406,63 @@
  47153 Raine Island*
 362826 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Houtman Abrolhos* + Feni Islands|Feni* + Tanga Islands|Tanga* + Green Islands (Papua New Guinea)|Green*
 270817 Green Islands (Papua New Guinea)|Green Islands*
+195230 Pinipel Island|Pinipel* + Sau + Sentinel
+ 92430 Sentinel Island
+195229 Pinipel Island|Pinipel* + Sau
+143065 Sau Island
+  6653 Pinipel Island*
+190482 Nissan Island|Nissan* + Sirot Island|Sirot* + Barahun Island|Barahun*
+ 30617 Barahun Island*
+190481 Nissan Island|Nissan* + Sirot Island|Sirot*
+ 18449 Sirot Island*
+  2790 Nissan Island*
 362770 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Houtman Abrolhos* + Feni Islands|Feni* + Tanga Islands|Tanga*
 289020 Tanga Islands*
+190684 Boang Island|Boang* + Bitkangkunmale + Bitkesinmer
+119906 Bitkesinmer Island
+190683 Boang Island|Boang* + Bitkangkunmale
+ 48448 Bitkangkunmale Island
+  2937 Boang Island*
+263723 Malendok Island|Malendok* + Tefa Island|Tefa* + Nekin + Lif Island|Lif* + Bitbok + Bitlik
+223647 Bitbok + Bitlik
+163325 Bitlik Island
+ 57780 Bitbok Island
+200800 Malendok Island|Malendok* + Tefa Island|Tefa* + Nekin + Lif Island|Lif*
+200799 Tefa Island|Tefa* + Nekin + Lif Island|Lif*
+ 13484 Lif Island*
+200798 Tefa Island|Tefa* + Nekin
+130352 Nekin Island
+ 13063 Tefa Island*
+  2656 Malendok Island*
 362462 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Houtman Abrolhos* + Feni Islands|Feni*
 188167 Feni Islands*
+  3343 Babase Island*
+  1521 Ambitle Island*
 362383 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Houtman Abrolhos*
 317458 Houtman Abrolhos*
  83190 Bramble Cay*
 362107 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir*
 304970 Lihir Group*
+  6229 Mahur Island
+293807 Lihir Island|Lihir* + Mali + Sanambiet + Masahet
+  6153 Masahet Island
+279000 Lihir Island|Lihir* + Mali + Sanambiet
+201493 Mali + Sanambiet
+ 28151 Sanambiet Island
+201492 Mali
+131744 
+ 14041 Mali Island
+   864 Lihir Island*
 362003 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark*
-320189 Woodlark Island|Woodlark*
+320189 Woodlark Island|Woodlark* + Alcester Island|Alcester*
+196522 Alcester Islands
+ 43941 Tokona Island
+  7965 Alcester Island*
+318010 Woodlark Islands
+242388 
+314116 
+ 22360 Nubara
+   327 Woodlark Island*
 361567 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck*
 330900 Bismarck Archipelago*
 185529 Long Island (Papua New Guinea)|Long* + Crown
@@ -3393,18 +3470,44 @@
    542 Long Island (Papua New Guinea)|Long Island*
 330710 New Britain* + New Ireland (island)|New Ireland* + Umboi Island|Umboi* + Tabar Group|Tabar* + Tingwon
 209051 Tingwon
+209050 Kolenusa + Beligila
+ 26273 Beligila Island
+ 25891 Kolenusa Island
+ 11393 Tingwon Island
 328651 New Britain* + New Ireland (island)|New Ireland* + Umboi Island|Umboi* + Tabar Group|Tabar*
 274287 Tabar Group*
+  1978 Simberi Island*
+187485 Tatau Island|Tatau* + Tabar Island|Tabar*
+  1302 Tabar Island*
+  1209 Tatau Island*
 328465 New Britain* + New Ireland (island)|New Ireland* + Umboi Island|Umboi*
 314242 Umboi Island|Umboi*
+189514 Tolokiwa Island|Tolokiwa*
+  2230 Tolokiwa Island*
+189487 Sakar Island|Sakar* + Ritter Island|Ritter*
+ 32896 Ritter Island*
+  2221 Sakar Island*
    325 Umboi Island*
 326753 New Britain* + New Ireland (island)|New Ireland*
 314274 New Ireland (island)|New Ireland*
+187641 Dyaul Island|Dyaul*
+  1270 Dyaul Island*
+294954 New Hanover Island|New Hanover*
+   261 New Hanover Island*
     96 New Ireland (island)|New Ireland Island*
 324113 New Britain*
+  4600 Watom Island*
+304967 Duke of York Islands*
+  2029 Duke of York Island, Papua New Guinea|Duke of York Island*
+258152 Lolobau Island|Lolobau*
+  1770 Lolobau Island*
     42 New Britain|New Britain Island*
 361566 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia*
 196120 Asia Islands*
+ 37739 Pulau Miarin
+196119 Fani + Igi
+ 14827 Pulau Igi
+  7557 Pulau Fani
 360976 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor*
 293779 Numfor*
 360975 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu*
