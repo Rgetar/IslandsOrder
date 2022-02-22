@@ -3468,27 +3468,56 @@
 185529 Long Island (Papua New Guinea)|Long* + Crown
   4513 Crown Island
    542 Long Island (Papua New Guinea)|Long Island*
-330710 New Britain* + New Ireland (island)|New Ireland* + Umboi Island|Umboi* + Tabar Group|Tabar* + Tingwon
+330710 New Britain* + New Ireland (island)|New Ireland* + Kimbe + Umboi Island|Umboi* + Tabar Group|Tabar* + Tingwon
 209051 Tingwon
 209050 Kolenusa + Beligila
  26273 Beligila Island
  25891 Kolenusa Island
  11393 Tingwon Island
-328651 New Britain* + New Ireland (island)|New Ireland* + Umboi Island|Umboi* + Tabar Group|Tabar*
+328651 New Britain* + New Ireland (island)|New Ireland* + Kimbe + Umboi Island|Umboi* + Tabar Group|Tabar*
 274287 Tabar Group*
   1978 Simberi Island*
 187485 Tatau Island|Tatau* + Tabar Island|Tabar*
   1302 Tabar Island*
   1209 Tatau Island*
-328465 New Britain* + New Ireland (island)|New Ireland* + Umboi Island|Umboi*
+328465 New Britain* + New Ireland (island)|New Ireland* + Kimbe + Umboi Island|Umboi*
 314242 Umboi Island|Umboi*
 189514 Tolokiwa Island|Tolokiwa*
   2230 Tolokiwa Island*
 189487 Sakar Island|Sakar* + Ritter Island|Ritter*
  32896 Ritter Island*
   2221 Sakar Island*
+156411 Dingen Island
+262226 Tuam + Tamun + Tambiu + Araltamu + Nesup + Sirik + Vassee + Massmass
+251231 Vassee + Massmass
+173541 Massmass Island
+169976 Vassee Island
+262225 Tuam + Tamun + Tambiu + Araltamu + Nesup + Sirik
+239730 Nesup + Sirik
+150902 Sirik Island
+111118 Nesup Island
+262224 Tuam + Tamun + Tambiu + Araltamu
+230962 Tamun + Tambiu + Araltamu
+173241 Araltamu Island
+230961 Tamun + Tambiu
+ 86749 Tambiu Island
+ 78451 Tamun Island
+ 19873 Tuam Island
+279972 Malai + Noru + Nup
+247929 Noru + Nup
+155411 Nup Island
+150090 Noru Island
+ 21174 Malai Island
+105013 Aromot Island
+ 78611 Aronaimutu Island
+233101 Mandok
+ 85809 Mandok Island
+ 93099 Matamalau Island
+ 52869 Galelum Island
    325 Umboi Island*
-326753 New Britain* + New Ireland (island)|New Ireland*
+326753 New Britain* + New Ireland (island)|New Ireland* + Kimbe
+ 55345 Kimbe Island
+325216 New Britain* + New Ireland (island)|New Ireland*
 314274 New Ireland (island)|New Ireland*
 187641 Dyaul Island|Dyaul*
   1270 Dyaul Island*
@@ -3497,7 +3526,27 @@
     96 New Ireland (island)|New Ireland Island*
 324113 New Britain*
   4600 Watom Island*
+ 28447 Wulai Island
 304967 Duke of York Islands*
+213719 Big Pigeon + Pigeon
+118246 Pigeon Island
+ 34743 Big Pigeon Island
+  9767 Makada|Makada Island*
+206470 Kabakon* + Tonwalik + Kerawara*
+ 25803 Kerawara|Kerawara Island*
+206469 Kabakon* + Tonwalik
+ 79064 Tonwalik Island
+ 21524 Kabakon|Kabakon Island*
+ 18380 Mioko Island*
+195099 Ulu (island)|Ulu* + Utuan
+ 99048 
+195098 
+ 29517 Utuan Island
+  6527 Ulu (island)|Ulu Island*
+112325 Mait Unanga Island
+ 55540 Mualim Island*
+ 67601 Ruruan Island
+153801 Mait Iri Island
   2029 Duke of York Island, Papua New Guinea|Duke of York Island*
 258152 Lolobau Island|Lolobau*
   1770 Lolobau Island*
