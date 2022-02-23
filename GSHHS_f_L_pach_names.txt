@@ -1350,12 +1350,17 @@
 338707 Fiji* + Wallis and Futuna* + Tonga*
 328496 Tonga*
 295185 Niua Islands|Niuas*
-272971 Niuatoputapu* + Tafahi*
+272971 Niuatoputapu* + Hungana + Hakautuʻutuʻu + Tafahi*
   9719 Tafahi*
-192321 Niuatoputapu*
+192321 Niuatoputapu* + Hungana + Hakautuʻutuʻu
+156002 Hakautuʻutuʻu Island
+192320 Niuatoputapu* + Hungana
+ 23065 Hungana Island
+  4068 Niuatoputapu|Niuatoputapu Island*
   2049 Niuafoʻou*
 326783 Tongatapu Group|Tongatapu* + Hunga Tonga* + Fonuafo'ou* + Haʻapai* + Vava'u group|Vavaʻu* + ʻAta*
 199575 ʻAta*
+ 11499 ʻAta|ʻAta Island*
 326333 Tongatapu Group|Tongatapu* + Hunga Tonga* + Fonuafo'ou* + Haʻapai* + Vava'u group|Vavaʻu*
 319041 Vava'u group|Vava'u Group*
 198240 Fonualei* + Tokū, Tonga|Tokū*
@@ -1366,27 +1371,152 @@
 316272 Vavaʻu* + Hakaufasi*
 101140 Hakaufasi*
 311323 Vavaʻu*
+135794 Fonuaʻunga Island
+223785 Taula (Tonga)|Taula* + Maninita
+ 94248 Maninita Island
+ 58153 Taula (Tonga)|Taula Island*
+114105 Fatumanga Island
+ 94678 Luatafito Island
+ 30801 Muʻomuʻa Island
+260393 Fonuaʻoneʻone + Fangasito + Luahiapo
+156533 Luahiapo Island
+230675 Fonuaʻoneʻone + Fangasito
+ 81153 Fonuaʻoneʻone Island
+ 77585 Fangasito Island
+ 37804 Fuaʻamotu Island
+ 63592 Totokafonua|Totokafonua Island*
+ 29143 ʻEuakafa Island
+207022 Taunga* + Ngau + Taʻuta + ʻEuaiki + Lekeleka
+165533 Lekeleka Island
+207021 Taunga* + Ngau + Taʻuta + ʻEuaiki
+ 58554 ʻEuaiki Island
+207020 Taunga* + Ngau + Taʻuta
+124193 Taʻuta Island
+207019 Taunga* + Ngau
+100694 Ngau Island
+ 22444 Taunga|Taunga Island*
+115003 Fonualei Island
+113673 Katofanga Island
+201900 Ovaka* + Ovalau (Tonga)|Ovalau* + Moʻunu
+107563 Moʻunu
+201899 Ovaka* + Ovalau (Tonga)|Ovalau*
+ 49061 Ovalau (Tonga)|Ovalau Island*
+ 14643 Ovaka|Ovaka Island*
+257994 Hunga + Luamoko + Foilifuka + Foiata + Luafatu
+134887 Luafatu Island
+257993 Hunga + Luamoko + Foilifuka + Foiata
+157242 
+257992 
+212211 Foilifuka + Foiata
+ 42138 Foiata Island
+ 31923 Foilifuka Island
+194298 Hunga + Luamoko
+ 75439 Luamoko Island
+  5747 Hunga Island
+208308 ʻUmuna + Kenutu* + Faioa
+ 33668 Faioa Island
+208307 ʻUmuna + Kenutu*
+ 30471 Kenutu|Kenutu Island*
+ 24638 ʻUmuna Island
+ 50055 Sisia|Sisia Island*
+259334 Nuapapu + Luaʻofa + Lape + Alinonga + Vakaʻeitu + Kulo + Langitoʻo
+203437 Vakaʻeitu + Kulo + Langitoʻo
+ 51357 Langitoʻo Island
+203436 Vakaʻeitu + Kulo
+156024 Kulo Island
+ 16768 Vakaʻeitu Island
+259333 Nuapapu + Luaʻofa + Lape + Alinonga
+215069 Lape + Alinonga
+165232 Alinonga Island
+215068 Lape
+101176 
+ 37477 Lape Island
+197740 Nuapapu + Luaʻofa
+165908 Luaʻofa Island
+  9316 Nuapapu Island
+202022 Ofu + Mafana
+ 32398 Mafana Island
+ 14807 Ofu Island
+132053 Kiato Island
+ 77779 Lautala Island
+ 93049 Tapana Island
+ 60551 Tuʻungasika Island
+116205 Nuku  Island
+ 29937 ʻOto Island
+ 23320 ʻOloʻua Island
+ 34689 Aʻa Island
+ 94236 Luakapa Island
+196121 Kapa + Nuku
+124616 Nuku Island
+  7558 Kapa Island
+ 65617 Mala Island
+ 37018 Tulie Island
+ 12883 Koloa Island
+ 26192 Tapana Island
+157493 
+ 19517 ʻUtungake Island
+100977 
+165164 
+166804 Lotuma Island
+155545 
+165820 Kolotahi Island
+  1283 Vavaʻu|Vavaʻu Island*
 324851 Tongatapu Group|Tongatapu* + Hunga Tonga* + Fonuafo'ou* + Haʻapai*
 322355 Haʻapai*
 189117 Tofua* + Kao (island)|Kao*
   5110 Kao (island)|Kao*
   2006 Tofua*
-320229 
-294255 
-317748 
-297651 
-291231 
-297650 
-291031 
-194591 
-314668 
-306978 
+320229 Lifuka + Lulunga* + ʻOtu Muʻomuʻa + Tonumeia + Kelefesia
+294255 Tonumeia + Kelefesia
+ 46460 Kelefesia
+283316 Tonumeia
+152319 
+283315 
+250793 
+168118 
+167051
+ 38803 Tonumeia
+317748 Lifuka + Lulunga* + ʻOtu Muʻomuʻa
+297651 ʻOtu Muʻomuʻa Group
+291231 Lalona + Tele-ki-Vavaʻu + Fetokopunga + Tele-ki-Tonga
+ 27287 Tele-ki-Tonga
+254811 Lalona + Tele-ki-Vavaʻu + Fetokopunga
+217531 Tele-ki-Vavaʻu + Fetokopunga
+147891 Fetokopunga
+ 42803 Tele-ki-Vavaʻu
+213915 Lalona
+150209 
+ 35156 Lalona
+297650 Nomuka* + Nomuka iki + Mango (Tonga)|Mango Island* + Fonoifua + Meama + Tanoa + Nukufaiau + Nukutula
+291031 Mango (Tonga)|Mango Island* + Fonoifua + Meama + Tanoa + Nukufaiau + Nukutula
+168026 
+254648 
+254647 Fonoifua + Meama + Tanoa + Nukufaiau + Nukutula
+250614 Nukufaiau + Nukutula
+169214 Nukutula
+166159 Nukufaiau
+217860 Fonoifua + Meama + Tanoa
+170520 Tanoa
+217859 Fonoifua + Meama
+155715 Meama
+ 43486 Fonoifua
+ 21841 Mango (Tonga)|Mango Island*
+194591 Nomuka* + Nomuka iki
+ 25433 Nomuka iki
+  6022 Nomuka|Nomuka Island*
+314668 Lifuka + Lulunga*
+306978 Lulunga|Lulunga Archipelago*
+128792 Tokulu|Tokulu Island*
 306977 
-152149 
+152149 Fonuaika|Fonuaika Island*
 298084 
- 63788 
+ 63788 Putuputua|Putuputua Island*
 291166 
-314667 
+ 45674 Lekeleka|Lekeleka Island*
+291165 
+ 33929 Kotu Island*
+291164 
+314667 Lifuka Group
 205305 
 314666 
 279568 
