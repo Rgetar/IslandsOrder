@@ -1468,41 +1468,41 @@
   2006 Tofua*
 320229 Lifuka + Lulunga* + ʻOtu Muʻomuʻa + Tonumeia + Kelefesia
 294255 Tonumeia + Kelefesia
- 46460 Kelefesia
+ 46460 Kelefesia Island
 283316 Tonumeia
 152319 
 283315 
 250793 
 168118 
 167051
- 38803 Tonumeia
+ 38803 Tonumeia Island
 317748 Lifuka + Lulunga* + ʻOtu Muʻomuʻa
 297651 ʻOtu Muʻomuʻa Group
 291231 Lalona + Tele-ki-Vavaʻu + Fetokopunga + Tele-ki-Tonga
- 27287 Tele-ki-Tonga
+ 27287 Tele-ki-Tonga Island
 254811 Lalona + Tele-ki-Vavaʻu + Fetokopunga
 217531 Tele-ki-Vavaʻu + Fetokopunga
-147891 Fetokopunga
- 42803 Tele-ki-Vavaʻu
+147891 Fetokopunga Island
+ 42803 Tele-ki-Vavaʻu Island
 213915 Lalona
 150209 
- 35156 Lalona
+ 35156 Lalona Island
 297650 Nomuka* + Nomuka iki + Mango (Tonga)|Mango Island* + Fonoifua + Meama + Tanoa + Nukufaiau + Nukutula
 291031 Mango (Tonga)|Mango Island* + Fonoifua + Meama + Tanoa + Nukufaiau + Nukutula
 168026 
 254648 
 254647 Fonoifua + Meama + Tanoa + Nukufaiau + Nukutula
 250614 Nukufaiau + Nukutula
-169214 Nukutula
-166159 Nukufaiau
+169214 Nukutula Island
+166159 Nukufaiau Island
 217860 Fonoifua + Meama + Tanoa
-170520 Tanoa
+170520 Tanoa Island
 217859 Fonoifua + Meama
-155715 Meama
+155715 Meama Island
  43486 Fonoifua
  21841 Mango (Tonga)|Mango Island*
 194591 Nomuka* + Nomuka iki
- 25433 Nomuka iki
+ 25433 Nomuka iki Island
   6022 Nomuka|Nomuka Island*
 314668 Lifuka + Lulunga*
 306978 Lulunga|Lulunga Archipelago*
