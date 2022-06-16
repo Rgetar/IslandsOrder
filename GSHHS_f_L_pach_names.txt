@@ -4122,7 +4122,7 @@
 280718 Palagruža*
 323478 Shetland*
    289 Mainland, Shetland|Mainland Island*
-349744 Japanese Archipelago|Japanese* + Hokkaido* + Kunashir Island|Kunashir* + Okushiri Island|Okushiri* + Koshikijima Islands|Koshikijima* + Rishiri Island|Rishiri* + Rebun Island|Rebun* + Shikotan* + Iturup* + Izu Islands|Izu* + Ōsumi Islands|Ōsumi* + Sado Island|Sado* + Urup* + Chyornye Bratya* + Broutona*
+349744 Japanese Archipelago*
 298611 Uji + Kusagaki islets|Kusagaki*
 290269 Kusagaki islets|Kusagaki Islets*
 293819 Uji Guntō
@@ -4137,7 +4137,7 @@
 191670 Chirpoy*
 295564 Urup*
    240 Urup|Urup Island*
-346801 Japanese Archipelago|Japanese* + Hokkaido* + Kunashir Island|Kunashir* + Okushiri Island|Okushiri* + Koshikijima Islands|Koshikijima* + Rishiri Island|Rishiri* + Rebun Island|Rebun* + Shikotan* + Iturup* + Izu Islands|Izu* + Ōsumi Islands|Ōsumi* + Sado Island|Sado*
+346801 
   5608 Oshima (Hokkaido)|Oshima*
 304221 Zeni-su + Inanba
 124117 Inanba Island
@@ -4146,9 +4146,9 @@
 281914 Zeni-su Rock
 269650 Sado Island|Sado*
    328 Sado Island*
-343540 Japanese Archipelago|Japanese* + Hokkaido* + Kunashir Island|Kunashir* + Okushiri Island|Okushiri* + Koshikijima Islands|Koshikijima* + Rishiri Island|Rishiri* + Rebun Island|Rebun* + Shikotan* + Iturup* + Izu Islands|Izu* + Ōsumi Islands|Ōsumi*
+343540 
 300504 Ōsumi Islands*
-343539 Japanese Archipelago|Japanese* + Hokkaido* + Kunashir Island|Kunashir* + Okushiri Island|Okushiri* + Koshikijima Islands|Koshikijima* + Rishiri Island|Rishiri* + Rebun Island|Rebun* + Shikotan* + Iturup* + Izu Islands|Izu*
+343539 
   6040 Mishima Island, Yamaguchi|Mishima Island*
 305702 Iōjima (Kagoshima)|Iōjima* + Takeshima (Kagoshima)|Takeshima* + Kuroshima (Kagoshima)|Kuroshima*
 192569 Kuroshima (Kagoshima)|Kuroshima*
@@ -4165,40 +4165,53 @@
 235088 Ōnohara Islands*
   1960 Miyake-jima*
 308037 Izu Islands*
-340204 Japanese Archipelago|Japanese* + Hokkaido* + Kunashir Island|Kunashir* + Okushiri Island|Okushiri* + Koshikijima Islands|Koshikijima* + Rishiri Island|Rishiri* + Rebun Island|Rebun* + Shikotan* + Iturup*
+340204 
 196095 Teuri Island|Teuri* + Yagishiri Island|Yagishiri*
   7776 Yagishiri Island*
   7525 Teuri Island*
 302124 Iturup*
    151 Iturup|Iturup Island*
-340202 Japanese Archipelago|Japanese* + Hokkaido* + Kunashir Island|Kunashir* + Okushiri Island|Okushiri* + Koshikijima Islands|Koshikijima* + Rishiri Island|Rishiri* + Rebun Island|Rebun* + Shikotan*
+340202 
 201668 Kojima (Hokkaido)|Kojima*
  25125 Oronoshima
 186239 Shikotan*
    754 Shikotan|Shikotan Island*
-339267 Japanese Archipelago|Japanese* + Hokkaido* + Kunashir Island|Kunashir* + Okushiri Island|Okushiri* + Koshikijima Islands|Koshikijima* + Rishiri Island|Rishiri* + Rebun Island|Rebun*
+339267 
 253964 Nanatsujima islets|Nanatsujima Islets*
 274729 Rishiri Island|Rishiri* + Rebun Island|Rebun*
 188280 Rebun Island|Rebun*
  42336 Todo Island
   1577 Rebun Island*
    931 Rishiri Island*
-338540 Japanese Archipelago|Japanese* + Hokkaido* + Kunashir Island|Kunashir* + Okushiri Island|Okushiri* + Koshikijima Islands|Koshikijima*
+338540 
 194000 Awashima Island, Niigata|Awashima*
 296384 Koshikijima Islands*
-335863 Japanese Archipelago|Japanese* + Hokkaido* + Kunashir Island|Kunashir* + Okushiri Island|Okushiri*
+335863 
 187215 Okushiri Island|Okushiri Island*
   1087 Okushiri Island*
-335862 Japanese Archipelago|Japanese* + Hokkaido* + Kunashir Island|Kunashir*
-316064 Hokkaido* + Kunashir Island|Kunashir*
+335862 
+316064 Hokkaido* + Polonskogo + Oskolki + Tanfiliev + Storozhevoy + Rifovyj + Habomai Islands|Habomai* + Kunashir Island|Kunashir*
 184229 Kunashir Island|Kunashir*
    232 Kunashir Island*
-313604 Hokkaido*
+313604 Hokkaido* + Polonskogo + Oskolki + Tanfiliev + Storozhevoy + Rifovyj + Habomai Islands|Habomai*
 294555 Polonskogo + Oskolki
 281975 Oskolki
 231878 Polonskogo
   4870 Polonskogo Island
+305975 Hokkaido* + Tanfiliev + Storozhevoy + Rifovyj + Habomai Islands|Habomai*
 304429 Habomai Islands|Habomai*
+299830 Hokkaido* + Tanfiliev + Storozhevoy + Rifovyj
+255488 Tanfiliev + Storozhevoy + Rifovyj
+222035 Storozhevoy + Rifovyj
+123464 Rifovyj Island
+ 53359 Storozhevoy Island
+  4366 Tanfiliev Island
+284688 Hokkaido*
+180961 Nakajima Island
+180817 Nakajima Island
+260830 Yururi
+ 12842 Yururi Island
+ 17957 Daikoku Island (Akkeshi)|Daikoku Island*
     26 Hokkaido|Hokkaido Island*
 335089 Japanese Archipelago*
 307582 Iki Island|Iki*
