@@ -3047,6 +3047,7 @@
 298552 Serrana Bank|Serrana* + Roncador Cay|Roncador*
  36173 Roncador Cay*
 290171 Serrana Bank*
+363910 Mapia Atoll*
 297301 San Andrés (island)|San Andrés* + Providencia Island, Colombia|Providencia*
 191321 Providencia Island, Colombia|Providencia*
   3364 Providencia Island, Colombia|Providencia Island*
@@ -3808,6 +3809,25 @@
 350293 Sulawesi* + Seram Island|Seram* + Buru* + Watubela Archipelago|Watubela* + Kai Islands|Kai*
 326430 Seram Island|Seram* + Buru* + Watubela Archipelago|Watubela* + Kai Islands|Kai*
 324841 Kai Islands*
+  2436 Kur Island
+322508 Kai Besar* + Kai Kecil* + Tanimbar Kei + Tayandu|Tayandu Islands* + Taam + Nusreen + Numai
+304827 Tayandu|Tayandu Islands* + Taam + Nusreen + Numai
+278518 Taam + Nusreen + Numai
+202350 Nusreen + Numai
+ 22527 Numai Island
+202349 Nusreen
+ 86355 
+ 15303 Nusreen Island
+  4268 Taam Island
+295179 Tayandu Islands*
+320312 Kai Besar* + Kai Kecil* + Tanimbar Kei
+194065 Tanimbar Kei
+  5510 Tanimbar Kei Island
+317958 Kai Besar* + Kai Kecil*
+269825 Kai Besar*
+   437 Kai Besar|Kai Besar Island*
+314265 Kai Kecil*
+   540 Kai Kecil|Kai Kecil Island*
 326347 Seram Island|Seram* + Buru* + Watubela Archipelago|Watubela*
 307994 Watubela Archipelago*
 324849 Seram Island|Seram* + Buru*
@@ -4018,8 +4038,8 @@
 315276 Tokara Islands*
 232565 Islas Hormigas de Afuera
 193606 King Island (Alaska)|King*
-316280 Onekotan* + Kharimkotan* + Makanrushi* + Shiashkotan* + Ekarma* + Lowuschki + Chirinkotan* + Simushir* + Ketoy* + Rasshua* + Ushishir* + Srednego + Matua (island)|Matua* + Raikoke*
-311425 Simushir* + Ketoy* + Rasshua* + Ushishir* + Srednego + Matua (island)|Matua* + Raikoke*
+316280 Onekotan* + Kharimkotan* + Makanrushi* + Shiashkotan* + Ekarma* + Lowuschki + Chirinkotan* + Middle Kurils
+311425 Middle Kurils
 276923 Matua (island)|Matua* + Raikoke*
   8993 Raikoke*
 189201 Matua (island)|Matua*
@@ -4174,6 +4194,11 @@
 184229 Kunashir Island|Kunashir*
    232 Kunashir Island*
 313604 Hokkaido*
+294555 Polonskogo + Oskolki
+281975 Oskolki
+231878 Polonskogo
+  4870 Polonskogo Island
+304429 Habomai Islands|Habomai*
     26 Hokkaido|Hokkaido Island*
 335089 Japanese Archipelago*
 307582 Iki Island|Iki*
