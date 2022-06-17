@@ -4213,7 +4213,7 @@
  12842 Yururi Island
  17957 Daikoku Island (Akkeshi)|Daikoku Island*
     26 Hokkaido|Hokkaido Island*
-335089 Japanese Archipelago*
+335089 
 307582 Iki Island|Iki*
   1115 Iki Island*
 308546 Shikoku*
