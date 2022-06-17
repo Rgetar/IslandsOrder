@@ -2899,7 +2899,6 @@
 200540 Swan Islands, Honduras|Swan Islands*
  28154 Little Swan Island
  12758 Great Swan Island*
-363918 Pocklington Reef*
 293109 Savage Islands*
 279822 Southwest Group
 279821 Fora Islet|Fora*
@@ -2975,6 +2974,7 @@
 298873 Lucipara Islands|Lucipara* + Penyu Islands|Penyu*
 277531 Penyu Islands*
 293506 Lucipara Islands*
+363918 Pocklington Reef*
 292298 Flinders + West Holmes
  56952 West Holmes Reef
 256810 Flinders Reefs
