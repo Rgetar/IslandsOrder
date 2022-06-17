@@ -1102,7 +1102,10 @@
 350808 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane* + Duke of Gloucester Islands|Duke of Gloucester*
 363913 Duke of Gloucester Islands*
 290117 Hereheretue*
+363915 Anuanurunga* + Nukutepipi* + Anuanuraro*
 363912 Anuanuraro*
+363917 Anuanurunga* + Nukutepipi*
+363916 Nukutepipi*
 363914 Anuanurunga*
 349753 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane*
 322320 Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane*
