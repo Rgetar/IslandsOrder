@@ -1016,13 +1016,13 @@
 103894 Western Rock
 189695 Rapa Iti*
   2327 Rapa Iti|Rapa Iti Island*
-353974 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane* + Hereheretue* + Pitcairn Islands|Pitcairn* + Marquesas Islands|Marquesas* + Southern Cook Islands|Southern Cook* + Tupua'i Islands|Tupua'i* + Palmerston Island|Palmerston* + Southern Line Islands|Southern Line*
+353974 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane* + Duke of Gloucester Islands|Duke of Gloucester* + Pitcairn Islands|Pitcairn* + Marquesas Islands|Marquesas* + Southern Cook Islands|Southern Cook* + Tupua'i Islands|Tupua'i* + Palmerston Island|Palmerston* + Southern Line Islands|Southern Line*
 300733 Southern Line Islands*
 200282 Flint Island|Flint* + Vostok Island|Vostok*
  40554 Vostok Island*
  12396 Flint Island*
 284235 Caroline Island|Caroline*
-353295 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane* + Hereheretue* + Pitcairn Islands|Pitcairn* + Marquesas Islands|Marquesas* + Southern Cook Islands|Southern Cook* + Tupua'i Islands|Tupua'i* + Palmerston Island|Palmerston*
+353295 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane* + Duke of Gloucester Islands|Duke of Gloucester* + Pitcairn Islands|Pitcairn* + Marquesas Islands|Marquesas* + Southern Cook Islands|Southern Cook* + Tupua'i Islands|Tupua'i* + Palmerston Island|Palmerston*
 322357 Southern Cook Islands|Southern Cook* + Tupua'i Islands|Tupua'i* + Palmerston Island|Palmerston*
 290021 Palmerston Island|Palmerston*
 320838 Southern Cook Islands|Southern Cook* + Tupua'i Islands|Tupua'i*
@@ -1053,7 +1053,7 @@
   2070 Mangaia*
 265193 Rarotonga*
   1744 Rarotonga|Rarotonga Island*
-352291 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane* + Hereheretue* + Pitcairn Islands|Pitcairn* + Marquesas Islands|Marquesas*
+352291 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane* + Duke of Gloucester Islands|Duke of Gloucester* + Pitcairn Islands|Pitcairn* + Marquesas Islands|Marquesas*
 317549 Marquesas Islands*
 307967 Southern Marquesas
 188194 Fatu-Hiva* + Motu Nao*
@@ -1091,7 +1091,7 @@
 169618 
 185739 
    604 Nuku Hiva|Nuku Hiva Island*
-351360 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane* + Hereheretue* + Pitcairn Islands|Pitcairn*
+351360 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane* + Duke of Gloucester Islands|Duke of Gloucester* + Pitcairn Islands|Pitcairn*
 313930 Pitcairn Islands*
 233422 Ducie Island|Ducie*
 307364 Henderson Island (Pitcairn Islands)|Henderson* + Pitcairn Island|Pitcairn* + Oeno Island|Oeno*
@@ -1099,8 +1099,10 @@
 292946 Oeno Island|Oeno*
   8632 Pitcairn Island*
   2518 Henderson Island (Pitcairn Islands)|Henderson Island*
-350808 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane* + Hereheretue*
+350808 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane* + Duke of Gloucester Islands|Duke of Gloucester*
+363913 Duke of Gloucester Islands*
 290117 Hereheretue*
+363912 Anuanuraro*
 349753 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane*
 322320 Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane*
 319446 Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane*
