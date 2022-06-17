@@ -2899,6 +2899,7 @@
 200540 Swan Islands, Honduras|Swan Islands*
  28154 Little Swan Island
  12758 Great Swan Island*
+363918 Pocklington Reef*
 293109 Savage Islands*
 279822 Southwest Group
 279821 Fora Islet|Fora*
