@@ -2139,27 +2139,27 @@
 171282 
  22855 Lelu Island*
   1297 Kosrae Island*
-335560 
-334646 
+335560 Senyavin Islands|Senyavin* + Sapwuahfik* + Pingelap* + Mokil Atoll|Mokil* + Chuuk Atoll|Chuuk* + Upper Mortlock Islands|Upper Mortlock* + Hall Islands|Hall* + Fayu Atoll|Fayu* + Namonuito Atoll|Namonuito* + Pattiw* + Nomoi Islands|Nomoi* + Woleai* + Ifalik* + Eauripik* + Faraulep* + Gaferut* + Lamotrek* + Elato* + Olimarao* + Satawal* + Piagailoe* + Pikelot* + Nukuoro* + Minto Reef|Minto* + Oroluk Atoll|Oroluk*
+334646 Chuuk Atoll|Chuuk* + Upper Mortlock Islands|Upper Mortlock* + Hall Islands|Hall* + Fayu Atoll|Fayu* + Namonuito Atoll|Namonuito* + Pattiw* + Nomoi Islands|Nomoi* + Woleai* + Ifalik* + Eauripik* + Faraulep* + Gaferut* + Lamotrek* + Elato* + Olimarao* + Satawal* + Piagailoe* + Pikelot* + Nukuoro* + Minto Reef|Minto* + Oroluk Atoll|Oroluk*
 319755 Minto Reef|Minto* + Oroluk Atoll|Oroluk*
 315660 Oroluk Atoll*
   2208 Minto Reef*
-332442 
+332442 Chuuk Atoll|Chuuk* + Upper Mortlock Islands|Upper Mortlock* + Hall Islands|Hall* + Fayu Atoll|Fayu* + Namonuito Atoll|Namonuito* + Pattiw* + Nomoi Islands|Nomoi* + Woleai* + Ifalik* + Eauripik* + Faraulep* + Gaferut* + Lamotrek* + Elato* + Olimarao* + Satawal* + Piagailoe* + Pikelot* + Nukuoro*
 294486 Nukuoro*
-332287 
-322354 Woleai* + Ifalik* + Eauripik* + Faraulep* + Gaferut* + Lamotrek* + Elato* + Lamolior + Olimarao* + Satawal* + Piagailoe* + Pikelot*
-320228 Lamotrek* + Elato* + Lamolior + Olimarao* + Satawal* + Piagailoe* + Pikelot*
+332287 Chuuk Atoll|Chuuk* + Upper Mortlock Islands|Upper Mortlock* + Hall Islands|Hall* + Fayu Atoll|Fayu* + Namonuito Atoll|Namonuito* + Pattiw* + Nomoi Islands|Nomoi* + Woleai* + Ifalik* + Eauripik* + Faraulep* + Gaferut* + Lamotrek* + Elato* + Olimarao* + Satawal* + Piagailoe* + Pikelot*
+322354 Woleai* + Ifalik* + Eauripik* + Faraulep* + Gaferut* + Lamotrek* + Elato* + Olimarao* + Satawal* + Piagailoe* + Pikelot*
+320228 Lamotrek* + Elato* + Olimarao* + Satawal* + Piagailoe* + Pikelot*
  51864 Pikelot*
-317751 Lamotrek* + Elato* + Lamolior + Olimarao* + Satawal* + Piagailoe*
+317751 Lamotrek* + Elato* + Olimarao* + Satawal* + Piagailoe*
  66013 Piagailoe*
-314676 Lamotrek* + Elato* + Lamolior + Olimarao* + Satawal*
+314676 Lamotrek* + Elato* + Olimarao* + Satawal*
  16384 Satawal*
-311158 Lamotrek* + Elato* + Lamolior + Olimarao*
+311158 Lamotrek* + Elato* + Olimarao*
 216662 Olimarao*
-304033 Lamotrek* + Elato* + Lamolior
-294402 Elato* + Lamolior
+304033 Lamotrek* + Elato*
+294402 Elato*
 225059 Lamolior
-280986 Elato*
+280986 Elato
 254313 Lamotrek*
 315886 Woleai* + Ifalik* + Eauripik* + Faraulep* + Gaferut*
 254867 Faraulep* + Gaferut*
@@ -2170,37 +2170,53 @@
 307097 Woleai* + Ifalik*
 208702 Ifalik*
 298308 Woleai*
-330744 Chuuk Atoll|Chuuk* + Kuop* + Losap* + Nama (island)|Nama* + Hall Islands|Hall* + Fayu Atoll|Fayu* + Namonuito Atoll|Namonuito* + Poluwat* + Pulap* + Pulusuk* + Nomoi Islands|Nomoi*
+330744 Chuuk Atoll|Chuuk* + Upper Mortlock Islands|Upper Mortlock* + Hall Islands|Hall* + Fayu Atoll|Fayu* + Namonuito Atoll|Namonuito* + Pattiw* + Nomoi Islands|Nomoi*
 320275 Nomoi Islands*
 277974 Namoluk*
 317843 
 314362 
 305190 
-329803 Chuuk Atoll|Chuuk* + Kuop* + Losap* + Nama (island)|Nama* + Hall Islands|Hall* + Fayu Atoll|Fayu* + Namonuito Atoll|Namonuito* + Poluwat* + Pulap* + Pulusuk*
-305006 Poluwat* + Pulap* + Pulusuk*
+329803 Chuuk Atoll|Chuuk* + Upper Mortlock Islands|Upper Mortlock* + Hall Islands|Hall* + Fayu Atoll|Fayu* + Namonuito Atoll|Namonuito* + Pattiw*
+305006 Pattiw*
  11061 Pulusuk*
 293826 Poluwat* + Pulap*
 208905 Pulap*
 278879 Poluwat*
-328511 Chuuk Atoll|Chuuk* + Kuop* + Losap* + Nama (island)|Nama* + Hall Islands|Hall* + Fayu Atoll|Fayu* + Namonuito Atoll|Namonuito*
+328511 Chuuk Atoll|Chuuk* + Upper Mortlock Islands|Upper Mortlock* + Hall Islands|Hall* + Fayu Atoll|Fayu* + Namonuito Atoll|Namonuito*
 309930 Namonuito Atoll*
 304295 
 213020 
 294266 
  11696 
-326791 Chuuk Atoll|Chuuk* + Kuop* + Losap* + Nama (island)|Nama* + Hall Islands|Hall* + Fayu Atoll|Fayu*
+326791 Chuuk Atoll|Chuuk* + Upper Mortlock Islands|Upper Mortlock* + Hall Islands|Hall* + Fayu Atoll|Fayu*
 320724 Hall Islands|Hall* + Fayu Atoll|Fayu*
  34079 Fayu Atoll*
 317411 Hall Islands*
 307621 Nomwin*
 315455 Murilo*
-326334 Chuuk Atoll|Chuuk* + Kuop* + Losap* + Nama (island)|Nama*
-300333 Losap* + Nama (island)|Nama*
+326334 Chuuk Atoll|Chuuk* + Upper Mortlock Islands|Upper Mortlock*
+300333 Upper Mortlock Islands*
  19858 Nama (island)|Nama*
 283461 Losap*
-324837 Chuuk Atoll|Chuuk* + Kuop*
-294353 Kuop*
-320721 Chuuk Atoll*
+324837 Chuuk Atoll|Chuuk*
+141904 Uranu Island
+322944 
+220892 Ipis + Fanaik
+142948 Fanaik Island
+ 50521 Ipis Island
+320723 
+300381 
+320722 
+294353 
+320721 
+127290 Fonouk Island
+320720 
+235150 
+318069 
+299266 
+ 45842 Kuop|Feneppi Island*
+292136 
+314247 Chuuk Atoll*
 321560 Senyavin Islands|Senyavin* + Sapwuahfik* + Pingelap* + Mokil Atoll|Mokil*
 277752 Pingelap* + Mokil Atoll|Mokil*
 207186 Mokil Atoll*
