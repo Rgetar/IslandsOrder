@@ -98,6 +98,7 @@
     99 Grande-Terre (Kerguelen)|Grande-Terre*
 274408 Easter Island|Easter* + Isla Salas y Gómez|Salas y Gómez*
 203375 Isla Salas y Gómez|Salas y Gómez*
+ 56048 (ghost island)
  16689 Isla Salas y Gómez*
 186949 Easter Island|Easter*
  77757 Motu Nui*
@@ -212,6 +213,68 @@
 269110 Hawaii (island)|Hawaii*
     77 Hawaii (island)|Hawaii Island*
 296086 Bermuda*
+ 91182 Grace Island, Bermuda|Grace Island*
+296085 
+222152 Darrell's Island, Bermuda|Darrell's* + Burt Island, Warwick, Bermuda|Burt*
+ 74744 Burt Island, Warwick, Bermuda|Burt Island*
+ 53691 Darrell's Island, Bermuda|Darrell's Island*
+296084 
+147565 Long Rock
+271817 
+125183 Hen Island, Bermuda|Hen Island*
+271816 
+113287 Bluck's Island, Bermuda|Bluck's Island*
+271815 
+ 65225 Ports Island, Bermuda|Ports Island*
+271814 
+146950 Five Star Island, Bermuda|Five Star Island*
+271813 
+224312 Paget Island|Paget* + Higgs' Island, Bermuda|Higgs'*
+112872 Higgs' Island, Bermuda|Higgs' Island*
+ 59559 Paget Island*
+271812 
+237550 Charles Island, Bermuda|Charles* + Castle Island, Bermuda|Castle*
+104721 Castle Island, Bermuda|Castle Island*
+102674 Charles Island, Bermuda|Charles Island*
+271811 
+218746 Hawkins Island, Bermuda|Hawkins* + Long Island, Bermuda|Long* + Nelly Island, Bermuda|Nelly*
+ 66685 Nelly Island, Bermuda|Nelly Island*
+218745 Hawkins Island, Bermuda|Hawkins* + Long Island, Bermuda|Long*
+ 57005 Long Island, Bermuda|Long Island*
+ 45412 Hawkins Island, Bermuda|Hawkins Island*
+271810 
+138122 Spectacle Island
+271809 
+227965 Hinson's Island, Bermuda|Hinson's* + Marshall Island, Warwick, Bermuda|Marshall* + Irresistible Island, Bermuda|Irresistible*
+227964 Marshall Island, Warwick, Bermuda|Marshall* + Irresistible Island, Bermuda|Irresistible*
+115332 Irresistible Island, Bermuda|Irresistible Island*
+ 69377 Marshall Island, Warwick, Bermuda|Marshall Island*
+ 47652 Hinson's Island, Bermuda|Hinson's Island*
+271808 
+195287 St. David's Island, Bermuda|St. David's* + Great Oswego Island, Bermuda|Great Oswego* + Nonsuch Island, Bermuda|Nonsuch*
+ 58802 Nonsuch Island, Bermuda|Nonsuch Island*
+195286 St. David's Island, Bermuda|St. David's* + Great Oswego Island, Bermuda|Great Oswego*
+150029 Great Oswego Island, Bermuda|Great Oswego Island*
+  6705 St. David's Island, Bermuda|St. David's Island*
+271807 
+156342 Morgan's Island, Ely's Harbour, Bermuda|Morgan's Island*
+271806 
+197639 St. George's Island, Bermuda|St. George's* + Coney Island, Bermuda|Coney*
+ 84281 Coney Island, Bermuda|Coney Island*
+  9183 St. George's Island, Bermuda|St. George's Island*
+189093 
+ 15517 Ireland Island, Bermuda|Ireland Island*
+189092 
+109317 Agar's Island, Bermuda|Agar's Island*
+189091 
+159748 Bethell's Island, Bermuda|Bethell's Island*
+189090 
+ 92303 Spectacle Island
+189089 
+130765 Bay Island, Bermuda|Bay Island*
+189088 
+109219 White's Island*
+  1989 Bermuda Island*
 292077 Trindade and Martin Vaz*
 259566 Martin Vaz Islands*
  82074 Ilha do Sul
