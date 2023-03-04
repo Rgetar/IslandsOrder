@@ -994,9 +994,13 @@
 304906 Juan Fernández Islands*
   2099 Alejandro Selkirk Island*
 296574 Robinson Crusoe Island|Robinson Crusoe* + Santa Clara Island|Santa Clara*
+ 12605 (ghost island)
 200285 Santa Clara Island|Santa Clara*
  12403 Santa Clara Island*
 189229 Robinson Crusoe Island|Robinson Crusoe*
+115123 Islote Villagra
+140645 Islote Juanango
+167477 Islote El Verdugo
   2061 Robinson Crusoe Island*
 195221 Wake Atoll*
  19749 Peale Island
@@ -1011,6 +1015,7 @@
   9875 Ilhéu Branco*
   7129 Ilhéu Raso*
 190085 Santa Luzia, Cape Verde|Santa Luzia*
+114654 Ilhéu Zinho
   2545 Santa Luzia, Cape Verde|Santa Luzia Island*
 186372 São Vicente, Cape Verde|São Vicente*
 100072 Ilhéu dos Pássaros*
@@ -2202,14 +2207,14 @@
 171282 
  22855 Lelu Island*
   1297 Kosrae Island*
-335560 Senyavin Islands|Senyavin* + Sapwuahfik* + Pingelap* + Mokil Atoll|Mokil* + Chuuk Atoll|Chuuk* + Upper Mortlock Islands|Upper Mortlock* + Hall Islands|Hall* + Fayu Atoll|Fayu* + Namonuito Atoll|Namonuito* + Pattiw* + Nomoi Islands|Nomoi* + Woleai* + Ifalik* + Eauripik* + Faraulep* + Gaferut* + Lamotrek* + Elato* + Olimarao* + Satawal* + Piagailoe* + Pikelot* + Nukuoro* + Minto Reef|Minto* + Oroluk Atoll|Oroluk*
-334646 Chuuk Atoll|Chuuk* + Upper Mortlock Islands|Upper Mortlock* + Hall Islands|Hall* + Fayu Atoll|Fayu* + Namonuito Atoll|Namonuito* + Pattiw* + Nomoi Islands|Nomoi* + Woleai* + Ifalik* + Eauripik* + Faraulep* + Gaferut* + Lamotrek* + Elato* + Olimarao* + Satawal* + Piagailoe* + Pikelot* + Nukuoro* + Minto Reef|Minto* + Oroluk Atoll|Oroluk*
+335560 Pohnpei Islands + Chuuk Islands* + Woleai* + Ifalik* + Eauripik* + Faraulep* + Gaferut* + Lamotrek* + Elato* + Olimarao* + Satawal* + Piagailoe* + Pikelot* + Nukuoro* + Minto Reef|Minto* + Oroluk Atoll|Oroluk*
+334646 Chuuk Islands* + Woleai* + Ifalik* + Eauripik* + Faraulep* + Gaferut* + Lamotrek* + Elato* + Olimarao* + Satawal* + Piagailoe* + Pikelot* + Nukuoro* + Minto Reef|Minto* + Oroluk Atoll|Oroluk*
 319755 Minto Reef|Minto* + Oroluk Atoll|Oroluk*
 315660 Oroluk Atoll*
   2208 Minto Reef*
-332442 Chuuk Atoll|Chuuk* + Upper Mortlock Islands|Upper Mortlock* + Hall Islands|Hall* + Fayu Atoll|Fayu* + Namonuito Atoll|Namonuito* + Pattiw* + Nomoi Islands|Nomoi* + Woleai* + Ifalik* + Eauripik* + Faraulep* + Gaferut* + Lamotrek* + Elato* + Olimarao* + Satawal* + Piagailoe* + Pikelot* + Nukuoro*
+332442 Chuuk Islands* + Woleai* + Ifalik* + Eauripik* + Faraulep* + Gaferut* + Lamotrek* + Elato* + Olimarao* + Satawal* + Piagailoe* + Pikelot* + Nukuoro*
 294486 Nukuoro*
-332287 Chuuk Atoll|Chuuk* + Upper Mortlock Islands|Upper Mortlock* + Hall Islands|Hall* + Fayu Atoll|Fayu* + Namonuito Atoll|Namonuito* + Pattiw* + Nomoi Islands|Nomoi* + Woleai* + Ifalik* + Eauripik* + Faraulep* + Gaferut* + Lamotrek* + Elato* + Olimarao* + Satawal* + Piagailoe* + Pikelot*
+332287 Chuuk Islands* + Woleai* + Ifalik* + Eauripik* + Faraulep* + Gaferut* + Lamotrek* + Elato* + Olimarao* + Satawal* + Piagailoe* + Pikelot*
 322354 Woleai* + Ifalik* + Eauripik* + Faraulep* + Gaferut* + Lamotrek* + Elato* + Olimarao* + Satawal* + Piagailoe* + Pikelot*
 320228 Lamotrek* + Elato* + Olimarao* + Satawal* + Piagailoe* + Pikelot*
  51864 Pikelot*
@@ -2233,7 +2238,7 @@
 307097 Woleai* + Ifalik*
 208702 Ifalik*
 298308 Woleai*
-330744 Chuuk Atoll|Chuuk* + Upper Mortlock Islands|Upper Mortlock* + Hall Islands|Hall* + Fayu Atoll|Fayu* + Namonuito Atoll|Namonuito* + Pattiw* + Nomoi Islands|Nomoi*
+330744 Chuuk Islands*
 320275 Nomoi Islands*
 277974 Namoluk*
 317843 
@@ -2280,7 +2285,7 @@
  45842 Kuop|Feneppi Island*
 292136 
 314247 Chuuk Atoll*
-321560 Senyavin Islands|Senyavin* + Sapwuahfik* + Pingelap* + Mokil Atoll|Mokil*
+321560 Pohnpei Islands
 277752 Pingelap* + Mokil Atoll|Mokil*
 207186 Mokil Atoll*
 209509 Pingelap*
@@ -2344,7 +2349,7 @@
 320197 
  18333 Denis Island*
 318011 
-319957 Yap* + Ngulu Atoll|Ngulu* + Ulithi* + Fais Island|Fais* + Sorol*
+319957 Yap Islands*
 293364 Sorol*
 315896 Yap* + Ngulu Atoll|Ngulu* + Ulithi* + Fais Island|Fais*
 313745 Ulithi* + Fais Island|Fais*
