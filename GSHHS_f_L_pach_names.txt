@@ -2224,26 +2224,56 @@
  16384 Satawal*
 311158 Lamotrek* + Elato* + Olimarao*
 216662 Olimarao*
+112725 Falipi Island
+ 40960 Olimarao Island
 304033 Lamotrek* + Elato*
 294402 Elato*
 225059 Lamolior
+ 63718 Ular Island
+ 61442 Taas Island
 280986 Elato
+280985 Falipi + Oletel + Kari
+248446 Oletel + Kari
+154744 Kari Island
+152961 Oletel Island
+113935 Falipi Island
+ 33969 Elato Island
 254313 Lamotrek*
+220057 Pugue + Falaite
+ 66351 Falaite Island
+ 48456 Pugue Island
+ 23791 Lamotrek Island
 315886 Woleai* + Ifalik* + Eauripik* + Faraulep* + Gaferut*
 254867 Faraulep* + Gaferut*
  54273 Gaferut*
 217510 Faraulep*
+ 65837 Pigue Island
+217509 Eate + Faraulep
+ 44719 Faraulep Island
+ 42719 Eate Island
 313706 Woleai* + Ifalik* + Eauripik*
 223968 Eauripik*
+ 78854 Oao Island
+ 58597 Eauripik Island
 307097 Woleai* + Ifalik*
 208702 Ifalik*
+ 55696 Ella Island
+208701 Imoei + Fallap
+ 26008 Fallap Island
+ 25310 Imoei Island
 298308 Woleai*
 330744 Chuuk Islands*
 320275 Nomoi Islands*
 277974 Namoluk*
 317843 
 314362 
-305190 
+104052 Onupuku Island
+307682 
+305066 Etal Atoll|Etal*
+289089 
+305190 Satawan* + Lukunor*
+294052 Lukunor*
+293879 Satawan*
 329803 Chuuk Atoll|Chuuk* + Upper Mortlock Islands|Upper Mortlock* + Hall Islands|Hall* + Fayu Atoll|Fayu* + Namonuito Atoll|Namonuito* + Pattiw*
 305006 Pattiw*
  11061 Pulusuk*
@@ -2298,6 +2328,42 @@
 307754 Pohnpei*
    612 Pohnpei Island*
 319268 Chesterfield Islands*
+ 49566 Observatory Cay
+317329 
+299662 Bampton Reefs
+ 16008 Bampton Island
+292252 Renard + Skeleton
+257474 Skeleton
+ 54576 
+214106 
+ 49687 
+ 35584 Skeleton Cay
+ 20376 Renard Island
+314419 
+293635 Avon Isles
+ 29081 
+278158 
+ 23731 
+209722 
+ 28317 
+ 27089 
+306885 
+ 24380 
+298106 
+291126 Anchorage + Loop
+210102 Loop
+ 51558 
+ 27787 Loop Islet
+254722 Anchorage Islets
+ 66108 
+254721 
+220861 
+ 63866 
+ 50458 
+257781 Long + Passage
+ 26593 Passage Islet
+257780 Long
+ 14361 Long Island
 304797 Pribilof Islands*
   1495 St. George Island (Alaska)|St. George Island*
 296941 Saint Paul Island (Alaska)|Saint Paul* + Sea Lion + Otter Island (Alaska)|Otter* + Walrus Island (Pribilof Islands)|Walrus*
