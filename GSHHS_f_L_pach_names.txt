@@ -4063,10 +4063,21 @@
 291049 Pulau Sabuda
 349743 New Guinea*
 334586 Louisiade Archipelago*
+275064 Rossel Island|Rossel Islands*
+ 57302 Loa Boloba Island
+186019 Rossel Island|Rossel* + Wule Island|Wule*
+ 19927 Wule Island*
+   684 Rossel Island*
    340 Tagula Island*
 317263 Schouten Islands*
+ 13088 Befondi Island
    169 Biak Island*
 310057 
+277950 Deliverance Island (Queensland)|Deliverance* + Kerr + Turu
+ 46212 Turu Cay
+211649 Deliverance Island (Queensland)|Deliverance* + Kerr
+121214 Kerr Island
+ 30907 Deliverance Island (Queensland)|Deliverance Island*
 322941 Trobriand Islands*
 306093 Kofiau*
   1075 Kofiau|Kofiau Island*
