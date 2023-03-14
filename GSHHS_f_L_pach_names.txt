@@ -835,6 +835,27 @@
    676 Great Barrier Island*
 278361 Aldermen Islands*
  98825 Motunau Island*
+290157 Hen and Chicken Islands*
+270836 Mōtītī Island*
+ 16794 Moutohora Island*
+100095 Karewa Island*
+ 89367 Channel Island
+191728 Kapiti Island|Kapiti* + Tahoramaurea
+101198 Tahoramaurea Island
+  3644 Kapiti Island*
+261805 Rurima Rocks*
+116852 Tokata Island
+233515 Rurima Island|Rurima* + Moutoki
+125889 Moutoki Island
+ 87282 Rurima Island*
+229114 
+256210 Mercury Islands*
+201150 Tiritiri Matangi Island|Tiritiri Matangi*
+ 74342 
+ 13547 Tiritiri Matangi Island*
+ 84067 
+ 81269 
+261930 
 326114 South Island|South* + Stewart Island / Rakiura|Stewart* + Ruapuke Island|Ruapuke*
 315895 Stewart Island / Rakiura|Stewart* + Ruapuke Island|Ruapuke*
 294887 Ruapuke Island|Ruapuke*
@@ -3107,15 +3128,63 @@
  79032 Western Reef
 328079 
  12387 Nauna Island
+282495 Johnston Islands
+238419 Papialou Islands
 327403 
-307025 Lou Island|Lou* + Pam Islands|Pam*
+307025 Lou Island|Lou* + Pam Islands|Pam* + Fedarb + Saint Andrews Islands|Saint Andrews* + San Miguel
+277204 San Miguel Islands
+ 55722 Anobat Island
+277203 Tilianu + Loraine
+236496 Loraine
+208857 Tilianu Atoll
+298370 Lou Island|Lou* + Pam Islands|Pam* + Fedarb + Saint Andrews Islands|Saint Andrews*
+289853 Fedarb + Saint Andrews Islands|Saint Andrews*
+259667 Saint Andrews Islands*
+112547 Ngowui Island
+259666 Waikatu + Paliai + Kumuli
+232209 Paliai + Kumuli
+121140 Kumuli Island
+ 82675 Paliai Island
+214943 Waikatu
+121547 
+ 37249 Waikatu Island
+255976 Fedarb Islands
+291944 Lou Island|Lou* + Pam Islands|Pam*
 259390 Pam Islands*
   4420 Baluan Island*
 190485 Lou Island|Lou*
   2793 Lou Island*
-307907 Rambutyo Island|Rambutyo*
+307907 Rambutyo Island|Rambutyo* + Horno + Tong Island, Papua New Guinea|Tong* + Pak Island|Pak* + Ulunai + Los Reyes
+254352 Los Reyes Islands
+ 92978 Towi Island
+220075 Mbatmanda + Putuli
+ 65556 Putuli Island
+ 48489 Mbatmanda Island
+305569 Rambutyo Island|Rambutyo* + Horno + Tong Island, Papua New Guinea|Tong* + Pak Island|Pak* + Ulunai
+273755 Tong Island, Papua New Guinea|Tong* + Pak Island|Pak* + Ulunai
+194249 Pak Island|Pak* + Ulunai
+ 87585 Ulunai Island
+194248 Pak Island|Pak*
+171144 
+  5703 Pak Island*
+  3765 Tong Island, Papua New Guinea|Tong Island*
+296271 Rambutyo Island|Rambutyo* + Horno
+277047 Horno Islands
+187898 Rambutyo Island|Rambutyo*
   1395 Rambutyo Island*
-
+284490 Saben Islands Reef
+296182 Bipi Island|Bipi* + Sisi + Pahi + Salawat
+241459 Salawat Islands Shoals
+163888 Murray Island
+118981 Balumara Island
+271504 Bipi Island|Bipi* + Sisi + Pahi
+ 67617 Pahi Island
+200030 Bipi Island|Bipi* + Sisi
+ 15322 Sisi Island
+ 12078 Bipi Island*
+297613 
+ 22133 Ponam Island*
+ 45472 Sori Island
    198 Manus Island*
   2862 Uyedineniya Island*
 297961 Serranilla Bank|Serranilla* + Bajo Nuevo Bank|Bajo Nuevo*
@@ -3205,8 +3274,9 @@
  36173 Roncador Cay*
 290171 Serrana Bank*
 363910 Mapia Atoll*
-297301 San Andrés (island)|San Andrés* + Providencia Island, Colombia|Providencia*
-191321 Providencia Island, Colombia|Providencia*
+297301 San Andrés (island)|San Andrés* + Providencia Island, Colombia|Providencia* + Santa Catalina Island (Colombia)|Santa Catalina*
+191321 Providencia Island, Colombia|Providencia* + Santa Catalina Island (Colombia)|Santa Catalina*
+ 15824 Santa Catalina Island (Colombia)|Santa Catalina Island*
   3364 Providencia Island, Colombia|Providencia Island*
 276276 San Andrés (island)|San Andrés*
   2895 San Andrés (island)|San Andrés Island*
@@ -3215,6 +3285,7 @@
   3990 Henrietta Island*
  37740 Browse Island*
 317022 Jamaica (island)|Jamaica*
+225109 Morant Cays*
     73 Jamaica (island)|Jamaica Island*
 303985 Ulleungdo* + Liancourt Rocks|Liancourt*
 236180 Liancourt Rocks*
@@ -3269,10 +3340,47 @@
  23617 East Sister Island (Andaman and Nicobar Islands)|East Sister Island*
  21018 Passage Island (Andaman and Nicobar Islands)|Passage Island*
 193662 North Reef Island (Andaman and Nicobar Islands)|North Reef*
+304182 Ritchie's Archipelago*
+ 68641 Phillspeak Island
+196108 Cinque Islands*
+ 10519 North Cinque Island*
+  7544 South Cinque Island*
+192729 Landfall Island|Landfall* + East Island (Andaman Islands)|East*
+  9916 East Island (Andaman Islands)|East Island*
+  4397 Landfall Island*
+ 11521 West Island (Andaman Islands)|West Island*
+206456 Reef + White Cliff
+ 33975 White Cliff Island
+ 21494 Reef Island
+211671 Twin Islands (Andaman Islands)|Twin Islands*
+ 36269 West Twin Island*
+ 30948 East Twin Island
+ 10973 Boat Island
+192504 Sound Island|Sound* + Oliver
+ 44075 Oliver Island
+  4212 Sound Island*
+197168 Paget Island (Andaman Islands)|Paget* + Point
+ 20897 Point Island
+  8667 Paget Island (Andaman Islands)|Paget Island*
+  9961 Flat Island Wildlife Sanctuary|Flat Island*
+192351 Long Island (Andaman Islands)|Long* + Guitar
+ 14344 Guitar Island
+  4084 Long Island (Andaman Islands)|Long Island*
+  1204 Rutland Island*
+  4587 North Passage Island*
+196655 Interview Island|Interview*
+  1375 Interview Island*
+295551 South Andaman Island|South Andaman*
+   252 South Andaman Island*
+184302 North Andaman Island|North Andaman*
+   247 North Andaman Island*
+  5056 Porlob Island*
+   233 Middle Andaman Island*
 297962 Scorpion Reef*
 185573 Enggano Island|Enggano*
    560 Enggano Island*
 327805 Aru Islands*
+ 11477 Pulau Karang
     94 
 304933 Pelagie Islands*
   7879 Linosa*
@@ -3297,6 +3405,7 @@
  11495 Minna Island (Tarama, Okinawa)|Minna Island*
   3643 Tarama Island*
 320227 Yaeyama Islands*
+  4760 Hateruma|Hateruma Island*
 265729 Maju + Gureda
 196100 Gureda
  40179 
@@ -3361,7 +3470,19 @@
 183980 Tenerife*
    191 Tenerife Island*
 299326 Talaud Islands*
+295201 Nanusa Islands
 305786 Socotra Archipelago*
+187338 Abd al Kuri* + Ka’l Fir’awn
+ 30304 Ka’l Fir’awn
+  1143 Abd al Kuri*
+296291 Socotra* + Sabuniyah + The Brothers
+189779 The Brothers Islands
+  4852 Darsah|Darsah Island*
+  2370 Samhah|Samhah Island*
+277328 Socotra* + Sabuniyah
+208727 Sabuniyah
+ 40174 
+ 25358 Sabuniyah Island
    143 Socotra|Socotra Island*
   1673 Sverdrup Island (Kara Sea)|Sverdrup Island*
  15135 Miangas*
@@ -3435,6 +3556,35 @@
 307954 Grande-Terre* + Basse-Terre Island|Basse-Terre*
    237 Grande-Terre|Grande-Terre Island* + Basse-Terre Island*
 320725 Rat Islands*
+186428 Semisopochnoi Island|Semisopochnoi*
+   821 Semisopochnoi Island*
+318070 
+305751 Kiska*
+  6020 Little Kiska Island*
+   708 Kiska|Kiska Island*
+314204 Amchitka* + Little Sitkin Island|Little Sitkin* + Davidof Island|Davidof* + Lopy + Pyramid Island (Alaska)|Pyramid* + Khvostof Island|Khvostof* + Segula Island|Segula* + Hawadax Island|Hawadax*
+307850 Little Sitkin Island|Little Sitkin* + Davidof Island|Davidof* + Lopy + Pyramid Island (Alaska)|Pyramid* + Khvostof Island|Khvostof* + Segula Island|Segula* + Hawadax Island|Hawadax*
+273104 Hawadax Island|Hawadax*
+  2970 Hawadax Island*
+304821 Little Sitkin Island|Little Sitkin* + Davidof Island|Davidof* + Lopy + Pyramid Island (Alaska)|Pyramid* + Khvostof Island|Khvostof* + Segula Island|Segula*
+190295 Segula Island|Segula*
+  2668 Segula Island*
+296533 Little Sitkin Island|Little Sitkin* + Davidof Island|Davidof* + Lopy + Pyramid Island (Alaska)|Pyramid* + Khvostof Island|Khvostof*
+197893 Davidof Island|Davidof* + Lopy + Pyramid Island (Alaska)|Pyramid* + Khvostof Island|Khvostof*
+ 11594 Khvostof Island*
+197892 Davidof Island|Davidof* + Lopy + Pyramid Island (Alaska)|Pyramid*
+ 51038 Pyramid Island (Alaska)|Pyramid Island*
+197891 Davidof Island|Davidof* + Lopy
+ 45158 Lopy Island
+197890 Davidof Island|Davidof*
+143781 
+197889 
+144405 
+  9516 Davidof Island*
+276478 Little Sitkin Island|Little Sitkin*
+  1826 Little Sitkin Island*
+305532 Amchitka*
+   667 Amchitka|Amchitka Island*
 342934 Greater Antilles*
 332310 Hispaniola* + Navassa Island|Navassa* + Puerto Rico (island)|Puerto Rico* + Spanish Virgin Islands|Spanish Virgin* + Culebra, Puerto Rico|Culebra* + Virgin Islands|Virgin* + Anegada* + Desecheo Island|Desecheo* + Isla de Mona|Mona* + Monito Island|Monito* + Saint Croix*
 330743 Puerto Rico (island)|Puerto Rico* + Spanish Virgin Islands|Spanish Virgin* + Culebra, Puerto Rico|Culebra* + Virgin Islands|Virgin* + Anegada* + Desecheo Island|Desecheo* + Isla de Mona|Mona* + Monito Island|Monito* + Saint Croix*
@@ -3509,6 +3659,29 @@
 299942 Tubbataha Reef*
 317357 Cagayan Islands*
 307141 Balearic Islands*
+297734 Pityusic Islands*
+209288 
+100110 
+ 26334 
+274728 Formentera*
+144223 
+274727 
+202818 S'Espalmador*
+ 15925 S'Espalmador|S'Espalmador Island*
+188281 
+175669 
+  1578 Formentera|Formentera Island*
+   428 Ibiza|Ibiza Island*
+301483 Gymnesian Islands*
+261028 Menorca*
+   367 Menorca|Menorca Island*
+285731 Mallorca* + Dragonera* + Cabrera, Balearic Islands|Cabrera*
+265082 Cabrera, Balearic Islands|Cabrera*
+  4783 Cabrera, Balearic Islands|Cabrera Island*
+267326 Mallorca* + Dragonera*
+ 10398 Dragonera|Dragonera Island*
+183667 Mallorca*
+   142 Mallorca|Mallorca Island*
 336762 Lucayan Archipelago*
 325890 Great Inagua* + Little Inagua* + Caicos Islands|Caicos* + Turks Islands|Turks* + Hogsty Reef|Hogsty*
 215780 Hogsty Reef*
@@ -3534,7 +3707,21 @@
 307716 Damar Island|Damar Islands*
 305110 Maltese archipelago|Maltese Archipelago*
    766 Malta (island)|Malta Island*
-309609 Kirov Islands*
+309609 Kirov Islands|Kirov* + Voronina Island|Voronina*
+  4454 Voronina Island|Voronina Islands*
+300878 Kirov Islands*
+  2928 Kirova Island
+288775 Isachenko + Slozhnyy + Severnyy + Sredniy
+266288 Severnyy + Sredniy
+  5995 Sredniy Island
+196304 Severnyy Island
+  7754 
+  7744 
+274405 Isachenko + Slozhnyy
+189623 Slozhnyy
+  2293 Slozhnyy Island
+187132 Isachenko
+  1057 Isachenko Island
 317333 Les Îles-de-la-Madeleine, Quebec|Les Îles-de-la-Madeleine*
 363297 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Houtman Abrolhos* + Feni Islands|Feni* + Tanga Islands|Tanga* + Green Islands (Papua New Guinea)|Green* + Adele Island (Western Australia)|Adele* + Vitu Islands|Vitu* + Laughlan + Solomon Islands (archipelago)|Solomon* + St Matthias Islands|St Matthias* + Carteret Islands|Carteret*
 296645 Carteret Islands*
@@ -3809,6 +3996,23 @@
 314274 New Ireland (island)|New Ireland*
 187641 Dyaul Island|Dyaul*
   1270 Dyaul Island*
+ 40973 Nusalomon Island
+227218 Nemto Reef
+227217 Nuslik + Lukus
+ 78544 Lukus Island
+ 67340 Nuslik Island
+ 14761 Nemto Island
+ 37645 Neitab Island
+199006 Anelaua + Enalik
+ 82408 Enalik Island
+ 10836 Anelaua Island
+ 24576 Usien Island
+ 21892 Dunung Island
+ 35110 Nusandaul Island
+ 28439 Ungalabu Island
+278073 
+ 22566 Kung Island
+119892 Kullik Island
 294954 New Hanover Island|New Hanover*
    261 New Hanover Island*
     96 New Ireland (island)|New Ireland Island*
@@ -3838,6 +4042,7 @@
   2029 Duke of York Island, Papua New Guinea|Duke of York Island*
 258152 Lolobau Island|Lolobau*
   1770 Lolobau Island*
+ 22531 Urara Island*
     42 New Britain|New Britain Island*
 361566 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia*
 196120 Asia Islands*
@@ -3952,6 +4157,7 @@
      5 Mainland Australia*
 363737 Afro-Eurasia* + Americas*
 274407 La Tortuga Island|La Tortuga*
+  1045 La Tortuga Island*
 313937 Côn Đảo*
 275039 Savu*
 307442 Arkticheskiy Institut Islands|Arkticheskiy Institut*
@@ -4373,6 +4579,31 @@
 335089 
 307582 Iki Island|Iki*
   1115 Iki Island*
+ 84755 Mizunokojima Island
+213698 Futagami + Kofutagami
+101526 Kofutagami Island
+ 34707 Futagami Island
+ 90412 Kuta Island
+ 22753 Aoshima, Ehime|Aoshima Island*
+209995 Kanmurijima* + Kutsujima, Kyoto|Kutsujima*
+ 68731 Kutsujima, Kyoto|Kutsujima Island*
+ 27581 Kanmurijima|Kanmurijima Island*
+ 80876 Shirase Island
+ 26350 Takashima, Shimane|Takashima Island*
+284840 Ibuki island|Ibuki* + Marugami + Mata + Komata
+260421 Marugami + Mata + Komata
+230716 Mata + Komata
+139926 Komata Island
+ 77713 Mata Island
+ 64815 Marugami Island
+ 18088 Ibuki island|Ibuki Island*
+319313 Gotō Islands*
+309122 Ieshima, Hyōgo|Ieshima Islands*
+ 20950 Yurijima Island
+ 41304 Kabutoshima Island
+215039 Aijima + Koaijima
+ 91868 Koaijima Island
+ 37430 Aijima Island
 308546 Shikoku*
     53 Shikoku|Shikoku Island*
 323551 Honshu* + Kyushu*
