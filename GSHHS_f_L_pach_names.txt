@@ -4644,7 +4644,7 @@
 324127 
   4192 Samoylovicha Island
 322465 
-299790 
+299790 Maly Taymyr Island|Maly Taymyr* + Starokadomsky Island|Starokadomsky*
 284819 Starokadomsky Island|Starokadomsky*
   1303 Starokadomsky Island*
 186250 Maly Taymyr Island|Maly Taymyr*
