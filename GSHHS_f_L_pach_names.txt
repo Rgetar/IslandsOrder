@@ -4640,6 +4640,26 @@
 273425 Coats Island|Coats*
 298461 Zubair Group*
 324128 Severnaya Zemlya*
+   548 Schmidt Island*
+324127 
+  4192 Samoylovicha Island
+322465 
+299790 
+284819 Starokadomsky Island|Starokadomsky*
+  1303 Starokadomsky Island*
+186250 Maly Taymyr Island|Maly Taymyr*
+   759 Maly Taymyr Island*
+320855 
+292731 Bolshevik Island|Bolshevik*
+    71 Bolshevik Island*
+317410 
+184161 Pioneer Island (Russia)|Pioneer*
+   215 Pioneer Island (Russia)|Pioneer Island*
+188629 Sedov Archipelago
+266816 Komsomolets Island|Komsomolets*
+    83 Komsomolets Island*
+269046 October Revolution Island|October Revolution*
+    60 October Revolution Island*
   6093 Walrus Island (Southampton Island, Hudson Bay, Nunavut)|Walrus Island*
 198985 Santa Barbara Island|Santa Barbara*
  10798 Santa Barbara Island*
@@ -5140,9 +5160,11 @@
   9332 Tenggol Island*
 184035 Karaginsky Island|Karaginsky*
 299779 Unguja*
+293789 Firnley Islands*
 186721 Samothrace* + Zourafa*
  49457 Zourafa*
    932 Samothrace*
+296063 Heiberg Islands*
 323871 Lesser Sunda Islands*
   2353 Palu'e*
 320915 Sumbawa* + Lombok* + Flores* + Alor Archipelago|Alor*
@@ -5169,6 +5191,9 @@
    119 Lombok Island*
 320181 Sumbawa*
     59 Sumbawa Island*
+194308 Cù Lao Ré volcanic islands|Cù Lao Ré*
+ 25863 Cù-Lao Bai Island
+  5753 Cù-Lao Ré Island
 261113 Anafi*
   2395 Anafi|Anafi Island*
   1033 Atlasov Island*
@@ -5321,6 +5346,7 @@
    200 Bolshoy Begichev Island*
   8832 Farmakonisi*
  11505 Nisyros*
+ 23839 
 316033 Bissagos Islands*
 323856 Java* + Bali* + Madura Island|Madura*
 187495 Panaitan*
@@ -5350,9 +5376,13 @@
  72167 
    202 Bolshoy Shantar Island*
   3709 Naissaar*
+295144 Metundo
+ 10729 Quifuqui Island
+  5797 Metundo Island
 297166 Patmos*
   2526 Patmos|Patmos Island*
 259211 Bird Island Group
+  6268 Sangiang|Sangiang Island*
  41835 Bird Island, Algoa Bay|Bird Island*
 308400 Sakhalin*
     27 Sakhalin|Sakhalin Island*
@@ -5431,15 +5461,21 @@
    287 Hiiumaa|Hiiumaa Island*
 315893 Saaremaa*
    166 Saaremaa|Saaremaa Island*
+289642 Pulau Semakau|Semakau*
+ 18845 Pulau Semakau|Semakau Island*
 296569 Skiathos*
   2134 Skiathos Island*
 320903 Sri Lanka*
     30 Sri Lanka|Sri Lanka Island*
+ 13523 Gelland-Gansena Island
 308434 Sicily*
     49 Sicily|Sicily Island*
 179839 Olkhon Island*
 276935 Hydra (island)|Hydra*
   2038 Hydra (island)|Hydra Island*
+271596 Jurong Island|Jurong*
+275389 Singapore Island|Singapore*
+   443 Singapore Island*
 326424 Africa*
      2 Africa|Mainland Africa*
 255903 Salamis Island|Salamis*
