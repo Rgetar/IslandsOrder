@@ -3558,7 +3558,7 @@
 320725 Rat Islands*
 186428 Semisopochnoi Island|Semisopochnoi*
    821 Semisopochnoi Island*
-318070 
+318070 Amchitka* + Little Sitkin Island|Little Sitkin* + Davidof Island|Davidof* + Lopy + Pyramid Island (Alaska)|Pyramid* + Khvostof Island|Khvostof* + Segula Island|Segula* + Hawadax Island|Hawadax* + Kiska*
 305751 Kiska*
   6020 Little Kiska Island*
    708 Kiska|Kiska Island*
@@ -4110,6 +4110,11 @@
   1295 Moi Island
     66 Yos Sudarso Island*
      7 New Guinea|New Guinea Island*
+318008 Barrow Island (Western Australia)|Barrow* + Montebello Islands|Montebello*
+314288 Montebello Islands*
+271569 Barrow Island (Western Australia)|Barrow*
+   792 Barrow Island (Western Australia)|Barrow Island*
+154180 Bass Pyramid*
 330336 Tasmania*
 305124 King Island (Tasmania)|King Island*
    277 King Island (Tasmania)|King*
@@ -4173,6 +4178,8 @@
 275039 Savu*
 307442 Arkticheskiy Institut Islands|Arkticheskiy Institut*
 188437 Zhokhov Island|Zhokhov* + Vilkitsky Island (East Siberian Sea)|Vilkitsky*
+  7219 Vilkitsky Island (East Siberian Sea)|Vilkitsky Island*
+  1636 Zhokhov Island*
   5424 Middleton Island*
 324146 Ottawa Islands*
 310216 St. Lawrence Island|St. Lawrence*
@@ -4279,9 +4286,23 @@
    123 Buton|Buton Island*
     16 Sulawesi|Sulawesi Island*
 353982 Borneo* + Palawan (island)|Palawan* + Philippines*
+ 20149 Lereklerekan Island
+203202 Pengiki Besar Island|Pengiki Besar* + Pengikik Kecil
+ 36225 Pengikik Kecil Island
+ 16479 Pengiki Besar Island*
+301062 San Miguel Islands
+ 69939 Murik Island
+ 39710 Lumulumu Island
+  8354 Mengalum Island*
+318075 
 311336 Batanes*
 306013 Mapun*
+188537 Babuyan Island|Babuyan*
+  1687 Babuyan Island*
+134134 Sombrero Rocks
 186926 Camiguin de Babuyanes|Camiguin*
+307904 Laut Kecil Islands*
+259322 Apo Reef*
 326108 Cuyo Archipelago*
 317747 South Natuna*
 343550 Philippines*
@@ -4366,6 +4387,7 @@
  10089 Hachijō-kojima*
   1728 Hachijō-jima*
 266466 Kolguyev Island|Kolguyev*
+   114 Kolguyev Island*
 315458 Karimunjawa*
 304423 Islas Marías*
   9312 Peschany Island*
@@ -4406,7 +4428,26 @@
 267301 Mansel Island|Mansel*
  40718 Alboran Island*
  40938 Cayo Gorda*
-319985 New Siberian Islands*
+319985 Anzhu Islands*
+183313 New Siberia*
+ 55609 
+   102 New Siberia|New Siberia Island*
+319984 Kotelny Island|Kotelny* + Zheleznyakov + Neizvestnyye + Belkovsky Island|Belkovsky* + Strizhov + Nanosnyy
+  9743 Nanosnyy Island
+316050 Kotelny Island|Kotelny* + Zheleznyakov + Neizvestnyye + Belkovsky Island|Belkovsky* + Strizhov
+185282 Belkovsky Island|Belkovsky* + Strizhov
+ 15703 Strizhov Island
+   472 Belkovsky Island*
+313678 Kotelny Island|Kotelny* + Zheleznyakov + Neizvestnyye
+  7320 Neizvestnyye Islands
+307538 Kotelny Island|Kotelny* + Zheleznyakov
+194175 Zheleznyakov
+  5627 Zheleznyakov Island
+298590 Kotelny Island|Kotelny*
+194070 Skrytyy
+  5514 Skrytyy Island
+  2830 Matar Island
+    52 Kotelny Island*
  79160 Karang Takarewataya
 258472 Abrolhos Archipelago*
 315276 Tokara Islands*
@@ -4446,6 +4487,12 @@
 278252 Ko Kra*
    308 Akpatok Island*
 285992 Lyakhovsky Islands*
+   310 Maly Lyakhovsky Island*
+266922 Bolshoy Lyakhovsky Island|Bolshoy Lyakhovsky* + Khopto-Terer
+ 46439 Khopto-Terer Island
+183380 Bolshoy Lyakhovsky Island|Bolshoy Lyakhovsky*
+ 39798 
+   111 Bolshoy Lyakhovsky Island*
   3635 Moneron Island*
 291514 Columbretes Islands*
 217408 Sule Skerry* + Sule Stack*
@@ -5140,6 +5187,9 @@
   6034 Syrna (island)|Syrna Island*
 299505 Astypalaia*
   1377 Astypalaia|Astypalaia Island*
+219739 Pulau Pasir + Pulau Munari
+ 75648 Pulau Munari
+ 47681 Pulau Pasir
  11357 Gorgona (Italy)|Gorgona*
 304948 Pontine Islands*
 280437 Palmarola*
@@ -5159,12 +5209,37 @@
 290217 Tenggol Island|Tenggol*
   9332 Tenggol Island*
 184035 Karaginsky Island|Karaginsky*
+   196 Karaginsky Island*
+283780 Yushan Island|Yushan*
+ 83224 Rocher Kusrovie
+291512 Nam Du Islands|Nam Du*
+218437 Umm al Maradim Island|Umm al Maradim* + Qaruh Island|Qaruh*
+ 66899 Qaruh Island*
+ 44754 Umm al Maradim Island*
+282479 Hòn Chuối + Hòn Bương
+234453 Hòn Bương
+105030 
+ 90593 
+ 23311 Hòn Chuối
 299779 Unguja*
 293789 Firnley Islands*
 186721 Samothrace* + Zourafa*
  49457 Zourafa*
    932 Samothrace*
+271901 Dongyin, Lienchiang|Dongyin*
+209166 Zhongkuaidao
+ 20326 Hesselø|Hesselø Island*
+  9195 Astola Island*
+ 14986 Cồn Cỏ|Cồn Cỏ Island*
+271366 Scott Hansen Islands*
+313357 
 296063 Heiberg Islands*
+  4187 Sirri Island*
+190798 Faror Island|Faror* + Little Faror
+ 21352 Little Faror Island
+  3015 Faror Island*
+  5006 Hon Son
+  1598 Morzhovets Island*
 323871 Lesser Sunda Islands*
   2353 Palu'e*
 320915 Sumbawa* + Lombok* + Flores* + Alor Archipelago|Alor*
@@ -5198,6 +5273,7 @@
   2395 Anafi|Anafi Island*
   1033 Atlasov Island*
 308212 Jeju Island|Jeju*
+   206 Jeju Island*
 216110 Ananes*
 275272 Lemnos*
    476 Lemnos Island*
@@ -5231,6 +5307,17 @@
   3405 Vulcano Island*
 189911 Lipari*
   2435 Lipari Island*
+192792 Aur Island|Aur* + Dayang Island|Dayang* + Pinang + Lang
+ 57936 Pulau Lang
+192791 Aur Island|Aur* + Dayang Island|Dayang* + Pinang
+ 49910 Pulau Pinang
+192790 Aur Island|Aur* + Dayang Island|Dayang*
+ 15966 Dayang Island*
+  4428 Aur Island*
+180142 Valaam|Valaam Island*
+  6352 Verkhoturova Island
+314273 Røstlandet*
+  7509 Røstlandet|Røstlandet Island*
 305074 Psara* + Antipsara*
 197015 Antipsara*
   8519 Antipsara|Antipsara Island*
@@ -5246,10 +5333,12 @@
   1630 Santorini*
   1175 Zavyalov Island*
 321336 Hainan*
+    44 Hainan|Hainan Island*
 307714 Kerkennah Islands*
   2114 Gharbi, Tunisia|Gharbi*
 278863 Chergui*
   1360 Chergui|Chergui Island*
+  5898 Pemanggil Island*
 203568 Anydros*
  16947 Anydros|Anydros Island*
 187460 Weh Island|Weh*
@@ -5344,7 +5433,19 @@
 184059 Bolshoy Begichev Island|Bolshoy Begichev* + Maly Begichev Island|Maly Begichev*
   4000 Maly Begichev Island*
    200 Bolshoy Begichev Island*
+ 28427 Diamond Island (Myanmar)|Diamond Island*
   8832 Farmakonisi*
+266204 Seri Buat + Sembilang + Tasu + Mertang Barat + Mertang Tengah + Mertang Timur
+236127 Mertang Barat + Mertang Tengah + Mertang Timur
+143074 Mertang Timur Island
+236126 Mertang Barat + Mertang Tengah
+103637 Mertang Tengah Island
+ 97050 Mertang Barat Island
+196386 Seri Buat + Sembilang + Tasu
+ 81953 Tasu Island
+196385 Seri Buat + Sembilang
+ 11299 Sembilang Island
+  7807 Seri Buat Island
  11505 Nisyros*
  23839 
 316033 Bissagos Islands*
