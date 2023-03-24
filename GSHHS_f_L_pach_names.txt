@@ -4502,10 +4502,11 @@
 317015 Gotland* + Gotska Sandön*
  40243 Jarak Island
 180813 Nabuyongo Island*
-321053 Moresby Island|Moresby*
+321053 Haida Gwaii*
 207013 Saya
 301695 Los Testigos Islands*
 283312 Vozrozhdeniya Island|Vozrozhdeniya*
+179866 Vozrozhdeniya Island*
  48277 Funk Island*
   7550 Komba Island*
 323480 Sabalana Islands|Sabalana* + Tengah Islands|Tengah* + Longkoitang + Bangkobangkoang
@@ -4526,7 +4527,7 @@
  37254 Arpia
  25662 Stamfani
 339266 Belcher Islands*
-  3387 Anholt (Denmark)|Anholt*
+  3387 Anholt (Denmark)|Anholt Island*
 195756 Zabargad Island|Zabargad*
  17488 Rocky Island
   7151 Zabargad Island*
@@ -4684,7 +4685,10 @@
 323479 Mentawai Islands*
 232618 Bogoslof Island|Bogoslof*
  20616 Bogoslof Island*
-273425 Coats Island|Coats*
+273425 Coats Island|Coats* + Bencas
+193924 Bencas
+  5382 Bencas Island
+   106 Coats Island*
 298461 Zubair Group*
 324128 Severnaya Zemlya*
    548 Schmidt Island*
@@ -4913,8 +4917,14 @@
      3 North America|Mainland North America*
 363631 Afro-Eurasia*
 274951 Vilkitsky Island (Kara Sea)|Vilkitsky* + Neupokoyev
-187849 Neupokoyev Island
-189214 Vilkitsky Island (Kara Sea)|Vilkitsky Island*
+187849 Neupokoyev
+ 10126 
+  1372 Neupokoyev Island
+189214 Vilkitsky Island (Kara Sea)|Vilkitsky*
+189213 
+ 58793 
+  2050 
+  1095 Vilkitsky Island (Kara Sea)|Vilkitsky Island*
 298741 Zirku Island|Zirku* + Qarnain + Das Island|Das* + Arzanah + Diynah + Shura Awa
 293080 Arzanah + Diynah + Shura Awa
 279552 Diynah + Shura Awa
@@ -4929,7 +4939,7 @@
  15422 Qarnain Island
   6393 Zirku Island*
 179024 
- 54021 Pulau Bintanah
+ 54021 Bintanah Island
 263195 Bioko*
    197 Bioko|Bioko Island*
 297296 Diomede Islands*
@@ -4949,7 +4959,7 @@
   9756 Lysova Island
   2652 Leontyev Island
   1691 Krestovsky Island
- 16275 Pulau Biawak
+ 16275 Biawak Island
  59540 Sheshan Island*
 317233 Karpathos* + Kasos* + Armathia* + Makronisi + Zaforas* + Mikró Sofráno + Sochás + Karávia + Avgonísi + Divounia + Chamili + Astakidonisia
 314410 Zaforas* + Mikró Sofráno + Sochás + Karávia + Avgonísi + Divounia + Chamili + Astakidonisia
@@ -5019,7 +5029,7 @@
     51 Sardinia|Sardinia Island*
 180748 Tyuleny Island (Caspian Sea)|Tyuleny Island*
  77863 
- 76917 Pulau Lakota
+ 76917 Lakota Island
 308179 Similan Islands*
 322525 Batu Islands*
 277644 Karan + Kurain + Harqus
@@ -5120,7 +5130,8 @@
 304851 Khuriya Muriya Islands*
  10452 Nantha Kyun*
 317226 Nias*
-  9221 Sukun
+   132 Nias|Nias Island*
+  9221 Sukun Island
 227783 Bogskär*
 221192 Alcatraz
 298718 Koh Tang* + Koh Pring*
@@ -5232,8 +5243,10 @@
   9195 Astola Island*
  14986 Cồn Cỏ|Cồn Cỏ Island*
 271366 Scott Hansen Islands*
-313357 
+313357 Heuksando*
+  3133 Heuksando|Heuksando Island*
 296063 Heiberg Islands*
+ 68003 Sabira Island
   4187 Sirri Island*
 190798 Faror Island|Faror* + Little Faror
  21352 Little Faror Island
@@ -5284,6 +5297,9 @@
   3584 Antikythera|Antikythera Island*
 307693 Northern Sporades*
    845 Skyros Island*
+216590 Jana Island|Jana* + Al Juraid
+ 71624 Al Juraid Island
+ 40777 Jana Island*
 310020 Aeolian Islands*
 294689 Filicudi* + Alicudi*
   7742 Alicudi*
@@ -5315,7 +5331,7 @@
  15966 Dayang Island*
   4428 Aur Island*
 180142 Valaam|Valaam Island*
-  6352 Verkhoturova Island
+  6352 Verkhoturov Island
 314273 Røstlandet*
   7509 Røstlandet|Røstlandet Island*
 305074 Psara* + Antipsara*
@@ -5379,6 +5395,9 @@
   2197 Anzersky Island*
 299939 Bolshoy Solovetsky Island|Bolshoy Solovetsky*
    794 Bolshoy Solovetsky Island*
+253449 Bukerebe + Makibwa
+181041 Makibwa Island
+180547 Bukerebe Island
 257514 Zakynthos*
    545 Zakynthos|Zakynthos Island*
 305558 Dodecanese*
@@ -5394,12 +5413,22 @@
    588 Feklistova Island*
 273914 Agathonisi*
   4418 Agathonisi|Agathonisi Island*
+191443 Giglio Island|Giglio*
+  3450 Giglio Island*
+ 12476 Tunda Island
 314375 Sapudi Islands*
   1155 Sapudi Island*
 312845 Syros*
   1528 Syros Island*
+245562 Formiche di Grosseto*
+245561 Formica III + Formica Piccola
+147267 Formica Piccola
+138074 Formica III
+ 74168 Formica Grande
 319980 Bangka Island|Bangka*
     67 Bangka Island*
+193714 Pianosa*
+  5192 Pianosa|Pianosa Island*
 286410 Paxi*
 323710 Banyak Islands*
    833 Tuangku*
@@ -5407,9 +5436,13 @@
 294239 Tyuleniy Archipelago*
   8720 Piperi (island)|Piperi*
 296339 Kamennye Islands*
+272683 Surin Islands*
+228196 Paniki
+ 69955 Paniki Island
 304061 Vis (island)|Vis*
   1465 Vis (island)|Vis Island*
 319977 Shengsi Islands*
+ 11784 Giannutri|Giannutri Island*
 179939 Ogurja Ada*
 311469 Lastovo*
   2351 Lastovo|Lastovo Island*
@@ -5420,12 +5453,16 @@
    736 Sandwip*
  36093 Sommers*
 311134 North Kurils
+ 83322 Pabelokan Island
 324996 Farasan Islands*
    564 Farasan Island*
 308221 Andros*
    574 Andros|Andros Island*
 317062 Hanish Islands*
   1214 Zuqar Island*
+253380 Bumbire + Iroba
+180442 Iroba Island
+180038 Bumbire Island
 275543 Nusa Penida*
    885 Nusa Penida|Nusa Penida Island*
 317042 Jersey*
@@ -5446,12 +5483,20 @@
 196385 Seri Buat + Sembilang
  11299 Sembilang Island
   7807 Seri Buat Island
- 11505 Nisyros*
- 23839 
+241438 Lagnorna + Inre lägnan
+128773 Inre lägnan
+118915 Lagnorna Island
+323905 Lanbi Kyun|Lanbi*
+   889 Lanbi Kyun|Lanbi Island*
+ 11505 Kandeloussa Island
+297630 Mursala Island|Mursala Island*
+  1649 Mursala Island*
+ 23839 Dezhneva Island
 316033 Bissagos Islands*
 323856 Java* + Bali* + Madura Island|Madura*
 187495 Panaitan*
   1216 Panaitan|Panaitan Island*
+319979 Thousand Islands (Indonesia)|Thousand Islands*
 183466 Madura Island|Madura*
    124 Madura Island*
 308297 Java* + Bali*
@@ -5476,6 +5521,7 @@
 184067 Bolshoy Shantar Island|Bolshoy Shantar*
  72167 
    202 Bolshoy Shantar Island*
+ 23739 Blå Jungfrun|Blå Jungfrun Island*
   3709 Naissaar*
 295144 Metundo
  10729 Quifuqui Island
@@ -5484,16 +5530,33 @@
   2526 Patmos|Patmos Island*
 259211 Bird Island Group
   6268 Sangiang|Sangiang Island*
+271082 Nigehörn* + Neuwerk*
+ 11034 Neuwerk|Neuwerk Island*
+194877 Nigehörn*
+ 29787 
+  6310 Nigehörn|Nigehörn Island*
  41835 Bird Island, Algoa Bay|Bird Island*
 308400 Sakhalin*
     27 Sakhalin|Sakhalin Island*
+188731 Sir Bani Yas* + Ghashshah + Ghasha
+117078 Ghasha Island
+188730 Sir Bani Yas* + Ghashshah
+ 33871 Ghashshah Island
+  1780 Sir Bani Yas|Sir Bani Yas Island*
   8727 Atokos*
+304822 Tuscan Archipelago*
+ 94198 Cerboli Island
+ 71439 Palmaiola|Palmaiola Island*
+ 78743 Scoglietto Island
+   801 Elba|Elba Island*
+298967 Pulau Sembilan
 295907 Lesbos*
    219 Lesbos|Lesbos Island*
 323772 Sumatra*
     11 Sumatra|Sumatra Island*
 306262 Skopelos*
   1418 Skopelos|Skopelos Island*
+ 42229 Meloria*
 254793 Symi*
   1885 Symi|Symi Island*
 304559 Fournoi Korseon*
@@ -5502,23 +5565,38 @@
   1382 Ithaca Island*
 295651 Cephalonia*
    344 Cephalonia|Cephalonia Island*
+188484 Changxing Island (Shanghai)|Changxing* + Hengsha Island|Hengsha*
+  2076 Hengsha Island*
+  1656 Changxing Island (Shanghai)|Changxing Island*
 320925 Lingga Archipelago*
 322350 Bintan Island|Bintan* + Barelang*
    265 Bintan Island*
  30432 Stavro Island
+ 31450 Rashshah Island
+189301 Samuila + Mogilnyy
+ 43970 Mogilnyy Island
+  2109 Samuila Island
 263976 Tavşan Islands, Çanakkale|Tavşan Islands*
  18499 Tavşan Adası
 289360 Marmara|Marmara Island*
   1266 Marmara Island*
   4313 Groix|Groix Island*
 284162 Diaporia
+193679 Capri*
+  5163 Capri|Capri Island*
 225964 Yassıada* + Sivriada*
  70507 Sivriada*
  63904 Yassıada*
 252327 Petrokaravo
 175621 Petrokaravo Island
   9328 Proklyatye Islands
+148839 Dämman Island
   7546 Sazan Island*
+ 99793 Kolka Lighthouse*
+310078 Ko Chang*
+   835 Ko Chang|Ko Chang Island*
+315510 Letsok-aw Kyun|Letsok-aw*
+   750 Letsok-aw Kyun|Letsok-aw Island*
   8452 Arkoudi*
  21416 Kelyfos
 219104 Laousses
@@ -5568,15 +5646,42 @@
   2134 Skiathos Island*
 320903 Sri Lanka*
     30 Sri Lanka|Sri Lanka Island*
+ 32339 Furö|Furö Island*
+ 13606 Sii Island
  13523 Gelland-Gansena Island
 308434 Sicily*
     49 Sicily|Sicily Island*
+  1533 Rømø|Rømø Island*
+302222 Vaygach Island|Vaygach*
+   147 Vaygach Island*
+272050 Phlegraean Islands*
+197126 Procida* + Vivara*
+ 29852 Vivara|Vivara Island*
+  8633 Procida|Procida Island*
+  2129 Ischia|Ischia Island*
 179839 Olkhon Island*
+295507 Öland*
+   243 Öland|Öland Island*
+290778 Shokalsky Island|Shokalsky*
+   572 Shokalsky Island*
+307905 Qeshm Island|Qeshm*
+   238 Qeshm Island*
 276935 Hydra (island)|Hydra*
   2038 Hydra (island)|Hydra Island*
+273191 Pangkor Island|Pangkor*
+  3507 Pangkor Island*
+188817 Abu Ali + Al Batinah
+  2578 Al Batinah Island
+188816 Abu Ali
+ 35465 
+  1817 Abu Ali Island
+ 47435 Södra Skallö + Norra Skallö
+  6703 Wasini Island*
 271596 Jurong Island|Jurong*
+146165 Sparviero Island
 275389 Singapore Island|Singapore*
    443 Singapore Island*
+125005 Kargı Adası|Kargı Adası Island*
 326424 Africa*
      2 Africa|Mainland Africa*
 255903 Salamis Island|Salamis*
@@ -5584,6 +5689,8 @@
 183657 Euboea*
    141 Euboea|Euboea Island*
 179835 
+185982 Lefkada*
+   671 Lefkada|Lefkada Island*
 345092 Eurasia*
      1 Eurasia|Mainland Eurasia*
 
