@@ -3655,6 +3655,9 @@
     21 Cuba (island)|Cuba Island*
 326770 Tambelan Archipelago*
 320196 Tanimbar Islands*
+274978 Selaru*
+   607 Selaru|Selaru Island*
+   149 Yamdena|Yamdena Island*
 289596 Diego Ramírez Islands*
 299942 Tubbataha Reef*
 317357 Cagayan Islands*
@@ -3705,6 +3708,7 @@
 328466 
 327994 
 307716 Damar Island|Damar Islands*
+   880 Damar Island*
 305110 Maltese archipelago|Maltese Archipelago*
    766 Malta (island)|Malta Island*
 309609 Kirov Islands|Kirov* + Voronina Island|Voronina*
@@ -4295,18 +4299,63 @@
  39710 Lumulumu Island
   8354 Mengalum Island*
 318075 
-311336 Batanes*
-306013 Mapun*
+311336 Batanes* + Balintang Islands|Balintang*
+277173 Balintang Islands*
+ 23978 Balintang Island*
+308106 Batanes*
+305147 Itbayat Island|Itbayat* + Diogo Island|Diogo* + Mabudis + Siayan Island|Siayan* + Mavulis Island|Mavulis* + Misanga
+279504 Mavulis Island|Mavulis* + Misanga
+ 25807 Misanga Island
+203978 Mavulis Island|Mavulis*
+136857 
+ 17596 Mavulis Island*
+293873 Itbayat Island|Itbayat* + Diogo Island|Diogo* + Mabudis + Siayan Island|Siayan*
+262818 Mabudis + Siayan Island|Siayan*
+207140 Siayan Island|Siayan*
+ 22626 Siayan Island*
+262817 Mabudis
+ 18369 Mabudis Island
+293872 Itbayat Island|Itbayat* + Diogo Island|Diogo*
+279043 Diogo Island|Diogo*
+ 14343 Diogo Island*
+  1540 Itbayat Island*
+296370 Batan Island|Batan* + Sabtang Island|Sabtang* + Ivuhos* + Dequey*
+195655 Sabtang Island|Sabtang* + Ivuhos* + Dequey*
+195654 Ivuhos* + Dequey*
+ 22669 Dequey|Dequey Island*
+  7045 Ivuhos|Ivuhos Island*
+  2595 Sabtang Island*
+276742 
+  1692 Batan Island|Batan*
+306013 Mapun Island|Mapun*
+ 96735 Mambahenauhan Island
+  1711 Mapun Island*
 188537 Babuyan Island|Babuyan*
   1687 Babuyan Island*
 134134 Sombrero Rocks
-186926 Camiguin de Babuyanes|Camiguin*
+186926 Camiguin de Babuyanes|Camiguin* + Pamoctan Island|Pamoctan*
+ 22304 Pamoctan Island*
+   990 Camiguin de Babuyanes|Camiguin Island*
 307904 Laut Kecil Islands*
 259322 Apo Reef*
 326108 Cuyo Archipelago*
 317747 South Natuna*
 343550 Philippines*
 288693 Babuyan Islands*
+266016 Fuga Island|Fuga* + Barit* + Maybag Island|Maybag* + Dalupiri Island (Cagayan)|Dalupiri* + Irao Island|Irao*
+188811 Dalupiri Island (Cagayan)|Dalupiri* + Irao Island|Irao*
+ 45604 Irao Island*
+  1808 Dalupiri Island (Cagayan)|Dalupiri Island*
+196833 Fuga Island|Fuga* + Barit* + Maybag Island|Maybag*
+196832 Barit* + Maybag Island|Maybag*
+ 18062 Maybag Island*
+  8313 Barit|Barit Island*
+  1416 Fuga Island*
+275574 Calayan Island|Calayan* + Panuitan
+ 11806 Panuitan Island
+186628 
+115928 
+   898 Calayan Island*
    647 Siquijor*
 315203 Polillo Islands*
 266057 Homonhon* + Suluan*
@@ -4398,7 +4447,21 @@
 278790 North Rona*
 259226 Danjo Islands
 305529 Babar Islands*
+   408 Babar Island*
 319974 Leeward Antilles*
+315888 Los Roques Archipelago|Los Roques* + La Orchila Island|La Orchila* + Las Aves Archipelago|Las Aves*
+299868 Las Aves Archipelago*
+313712 Los Roques Archipelago|Los Roques* + La Orchila Island|La Orchila*
+276185 La Orchila Island|La Orchila*
+307068 Los Roques Archipelago*
+275457 ABC islands (Leeward Antilles)|ABC islands*
+186148 Bonaire* + Klein Bonaire*
+  6689 Klein Bonaire|Klein Bonaire Island*
+186147 Bonaire*
+   726 Bonaire|Bonaire Island*
+185459 Curaçao* + Klein Curaçao*
+ 17173 Klein Curaçao|Klein Curaçao Island*
+   514 Curaçao|Curaçao Island*
   1213 Chirikof Island*
 206184 El Ikhwa Islands*
 332327 Ryukyu Islands*
