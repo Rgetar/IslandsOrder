@@ -5284,22 +5284,38 @@
   5753 Cù-Lao Ré Island
 261113 Anafi*
   2395 Anafi|Anafi Island*
+277375 Isole Tremiti*
+ 46206 Pianosa Island
+208653 San Domino + San Nicola (island)|San Nicola* + Cretaccio + Capraia
+ 25446 Capraia Island
+208652 San Domino + San Nicola (island)|San Nicola* + Cretaccio
+208651 San Nicola (island)|San Nicola* + Cretaccio
+ 92280 Cretaccio Island
+ 25234 San Nicola (island)|San Nicola Island*
+ 11854 San Domino Island
   1033 Atlasov Island*
 308212 Jeju Island|Jeju*
    206 Jeju Island*
+ 42592 Rondo Island*
 216110 Ananes*
+214651 Ko Tao*
+  3761 Ko Tao|Ko Tao Island*
 275272 Lemnos*
    476 Lemnos Island*
+214651 Koh Rok Islands
 293339 Antikythera*
 282641 
  31577 
 280319 
   3584 Antikythera|Antikythera Island*
+278926 Ko Tao*
+ 12600 Ko Tao|Ko Tao Island*
 307693 Northern Sporades*
    845 Skyros Island*
 216590 Jana Island|Jana* + Al Juraid
  71624 Al Juraid Island
  40777 Jana Island*
+100752 Oyster Island
 310020 Aeolian Islands*
 294689 Filicudi* + Alicudi*
   7742 Alicudi*
@@ -5323,6 +5339,7 @@
   3405 Vulcano Island*
 189911 Lipari*
   2435 Lipari Island*
+ 26680 Unguan|Unguan Island*
 192792 Aur Island|Aur* + Dayang Island|Dayang* + Pinang + Lang
  57936 Pulau Lang
 192791 Aur Island|Aur* + Dayang Island|Dayang* + Pinang
@@ -5339,6 +5356,7 @@
   8519 Antipsara|Antipsara Island*
 293913 Psara*
   2329 Psara|Psara Island*
+ 33350 Katchatheevu|Katchatheevu Island*
 300547 Læsø*
   1279 Læsø|Læsø Island*
 309905 Guernsey*
