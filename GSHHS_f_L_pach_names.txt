@@ -5373,6 +5373,7 @@
 278863 Chergui*
   1360 Chergui|Chergui Island*
   5898 Pemanggil Island*
+  3228 Île d'Yeu*
 203568 Anydros*
  16947 Anydros|Anydros Island*
 187460 Weh Island|Weh*
