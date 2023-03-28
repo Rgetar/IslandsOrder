@@ -3381,6 +3381,60 @@
    560 Enggano Island*
 327805 Aru Islands*
  11477 Pulau Karang
+192226 Enu
+  4004 Enu Island
+ 17024 Babi Island
+133196 Ararkula Island
+296019 Jeudin + Jin + Jeh + Mar
+263158 
+296018 
+271716 Jeh + Mar
+199848 Mar
+106186 
+ 11865 Mar Island
+  6586 Jeh Island
+273952 Jeudin + Jin
+ 44187 
+273951 
+200296 Jin
+163571 
+200295 
+ 34776 
+200294 
+ 28398 
+200293 
+ 14004 
+ 12415 Jin Island
+192879 Jeudin
+  4489 Jeudin Island
+ 46627 Wolil Island
+294673 Lear + Mariri
+271242 Mariri
+ 11196 Mariri Island
+281488 Lear
+  8549 Lear Island
+257083 
+ 15745 Karerei Island
+  3633 Wasir Island
+228888 Maar
+ 27820 Kultubai Utara Island
+ 24929 Toba Island
+264064 Ujir
+  2267 Ujir Island
+196534 Babi
+  7976 Babi Island
+209236 Jedang
+ 26265 Jedang Island
+189267 Wamar
+  2083 Wamar Island
+274396 Wokai
+  1024 Wokai Island
+272567 Penambulai
+  1154 Penambulai Island
+266095 Warilau
+  2185 Warilau Island
+187801 Baun
+  1343 Baun Island
     94 
 304933 Pelagie Islands*
   7879 Linosa*
@@ -3664,7 +3718,7 @@
 197067 Wayanga
  79054 
   8597 Wayanga Island
-188402 
+188402 Molu
   1625 Molu Island
 301477 
  67691 Frinun Blawat Island
@@ -3672,24 +3726,28 @@
 114290 
 265103 
 225881 
-304172 Wuliaru + Selu + Natrool + Nus Nitus + Natraal + Keswu + Wolas + Wutat
+304172 Wuliaru + Selu + Ngivaldepan + Natrool + Nus Nitus + Natraal + Keswu + Wolas + Wutat
 190200 Wutat
  58936 
   2604 Wutat Island
-304171 Wuliaru + Selu + Natrool + Nus Nitus + Natraal + Keswu + Wolas
+304171 Wuliaru + Selu + Ngivaldepan + Natrool + Nus Nitus + Natraal + Keswu + Wolas
 195110 Keswu + Wolas
  23380 Wolas Island
   6546 Keswu Island
-296993 Wuliaru + Selu + Natrool + Nus Nitus + Natraal
+296993 Wuliaru + Selu + Ngivaldepan + Natrool + Nus Nitus + Natraal
  26267 Natraal Island
-274687 Wuliaru + Selu + Natrool + Nus Nitus
+274687 Wuliaru + Selu + Ngivaldepan + Natrool + Nus Nitus
  14005 Nus Nitus Island
-274686 Wuliaru + Selu + Natrool
+274686 Wuliaru + Selu + Ngivaldepan + Natrool
  15458 Natrool Island
-274685 Wuliaru + Selu
+274685 Wuliaru + Selu + Ngivaldepan
  87230 
 274684 
-274683 Selu
+274683 Selu + Ngivaldepan
+274682 
+206900 Ngivaldepan
+ 22177 Ngivaldepan Island
+188265 Selu
   8222 Ngivaldepan Island
   1565 Selu Island
 214596 Wuliaru
@@ -3711,7 +3769,15 @@
 185748 Selaru*
    607 Selaru|Selaru Island*
  32947 Famusan Island
-274057 Nanwaan
+274057 Nanwaan + Itain + Wat Warat + Temar + Kabawa + Karatat
+209056 Kabawa + Karatat
+ 32958 Karatat Island
+ 25904 Kabawa Island
+274056 Nanwaan + Itain + Wat Warat + Temar
+163240 Temar Island
+193593 Nanwaan + Itain + Wat Warat
+ 68644 Wat Warat Island
+193592 Nanwaan + Itain
   8041 Itain Island
   5090 Nanwaan Island
 236566 Fordata
@@ -3725,8 +3791,20 @@
   4275 Mitak Island
 114206 Nuskesse Island
 236697 
-215435 Tandula
- 38234 Tandula Island
+215435 
+ 38234 
+ 61562 Ngla Island
+ 10414 Ngolin Island
+  9470 Tandula Island
+187884 Seira
+  1389 Seira Island
+ 44623 Nuan Island
+ 33000 Tual Island
+  9631 Babuan Island
+186416 Larat
+   815 Larat Island
+197834 Asutubun
+  9428 Asutubun Island
    149 Yamdena|Yamdena Island*
 289596 Diego Ramírez Islands*
 299942 Tubbataha Reef*
@@ -3777,7 +3855,21 @@
 328633 
 328466 
 327994 
-307716 Damar Island|Damar Islands*
+307716 Damar Island|Damar* + Nila Island|Nila* + Serua Island|Serua* + Keki Besar + Teun Island|Teun*
+304828 Nila Island|Nila* + Serua Island|Serua* + Keki Besar + Teun Island|Teun*
+  4389 Teun Island*
+295180 Nila Island|Nila* + Serua Island|Serua* + Keki Besar
+212860 Serua Island|Serua* + Keki Besar
+212859 Keki Besar
+170260 
+ 33113 Keki Besar Island
+  7295 Serua Island*
+273100 Nila Island|Nila*
+ 26264 
+191082 
+ 46227 
+  3205 Nila Island*
+305267 Damar Island|Damar Islands*
    880 Damar Island*
 305110 Maltese archipelago|Maltese Archipelago*
    766 Malta (island)|Malta Island*
@@ -4517,6 +4609,12 @@
 278790 North Rona*
 259226 Danjo Islands
 305529 Babar Islands*
+  4157 Dai Island
+192811 Dawelor + Dawera
+  4505 Dawera Island
+  4439 Dawelor Island
+  2157 Masela Island
+  2291 Wetan Island*
    408 Babar Island*
 319974 Leeward Antilles*
 315888 Los Roques Archipelago|Los Roques* + La Orchila Island|La Orchila* + Las Aves Archipelago|Las Aves*
@@ -4858,10 +4956,24 @@
 191044 Weizhou Island|Weizhou* + Xieyang Island|Xieyang*
  13356 Xieyang Island*
   3183 Weizhou Island*
-308262 Leti Islands|Leti* + Sermata
+308262 Letti Islands|Letti* + Meaterialam + Amoertaun + Meatimiarang + Sermata
 301735 Sermata Islands
-297418 
-274985 Leti Islands*
+  6849 Luang Island
+  6198 Kalapa Island
+  1254 Sermata Island
+297418 Letti Islands|Letti* + Meaterialam + Amoertaun + Meatimiarang
+203350 Meatimiarang
+ 16656 Meatimiarang Island
+297418 Letti Islands*
+297417 Letti Islands|Letti* + Meaterialam + Amoertaun
+208982 Meaterialam + Amoertaun
+ 41061 Amoertaun Island
+ 25766 Meaterialam Island
+274985 Letti Islands*
+  1417 Leti (island)|Leti Island*
+185724 Moa (island)|Moa* + Lakor
+  1264 Lakor Island
+   601 Moa (island)|Moa Island*
 363618 Americas*
  30382 Gasket Island
 202852 San Pedro Mártir Island|San Pedro Mártir*
