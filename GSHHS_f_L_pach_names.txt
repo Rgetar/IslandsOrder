@@ -3525,6 +3525,11 @@
    191 Tenerife Island*
 299326 Talaud Islands*
 295201 Nanusa Islands
+292559 
+  1436 Kabaruang Island
+213251 Salibabu
+  1401 Salibabu Island
+   343 Karakelong|Karakelong Island*
 305786 Socotra Archipelago*
 187338 Abd al Kuri* + Ka’l Fir’awn
  30304 Ka’l Fir’awn
@@ -3539,8 +3544,11 @@
  25358 Sabuniyah Island
    143 Socotra|Socotra Island*
   1673 Sverdrup Island (Kara Sea)|Sverdrup Island*
- 15135 Miangas*
-328507 Riau Archipelago*
+ 15135 Miangas|Miangas Island*
+328507 Natuna Islands*
+276294 Laut
+  2626 Laut Island
+   220 Natuna Besar|Natuna Besar Island*
 324943 Lesser Antilles*
 319211 Saint Kitts* + Nevis* + Sint Eustatius* + Saba* + Montserrat* + Redonda* + Antigua* + Barbuda* + Saint Martin (island)|Saint Martin* + Anguilla* + Saint Barthélemy* + Sombrero, Anguilla|Sombrero*
 317264 Saint Martin (island)|Saint Martin* + Anguilla* + Saint Barthélemy* + Sombrero, Anguilla|Sombrero*
@@ -3708,6 +3716,7 @@
 190560 Cayos Cinco Balas
     21 Cuba (island)|Cuba Island*
 326770 Tambelan Archipelago*
+  2587 Tambelan Island
 320196 Tanimbar Islands*
  18893 Aryama Island
 294942 Molu + Wayanga + Nutkaltur + Maru
@@ -4342,6 +4351,10 @@
   1045 La Tortuga Island*
 313937 Côn Đảo*
 275039 Savu*
+ 30621 Dana Island (Sabu Raijua)|Dana Island*
+185626 Sawu Island|Sawu* + Raijua*
+  2403 Raijua|Raijua Island*
+   573 Sawu Island*
 307442 Arkticheskiy Institut Islands|Arkticheskiy Institut*
 188437 Zhokhov Island|Zhokhov* + Vilkitsky Island (East Siberian Sea)|Vilkitsky*
   7219 Vilkitsky Island (East Siberian Sea)|Vilkitsky Island*
@@ -4754,6 +4767,12 @@
 311663 
 311668 Sabalana Islands*
 301495 Sumba*
+265792 Halura + Kotak + Manggudu
+ 13524 Manggudu Island
+195586 Halura + Kotak
+ 55027 Kotak Island
+  6985 Halura Island
+    74 Sumba|Sumba Island*
 208931 Strofades*
  37254 Arpia
  25662 Stamfani
@@ -4763,7 +4782,17 @@
  17488 Rocky Island
   7151 Zabargad Island*
   1892 San Nicolas Island*
-304030 Romang (island)|Romang*
+304030 Romang (island)|Romang Islands*
+ 10471 Nyata|Nyata Island*
+304029 Romang (island)|Romang* + Mitan + Maopora + Telang
+294373 Maopora + Telang
+202455 Telang
+ 15444 Telang Island
+281200 Maopora
+  5004 Maopora Island
+186825 Romang (island)|Romang* + Mitan
+ 17396 Mitan Island
+   958 Romang (island)|Romang Island*
 224346 Dokan + Totiy
  63042 Pulau Totiy
  59673 Pulau Dokan
@@ -5354,23 +5383,37 @@
     14 Great Britain|Great Britain Island*
 261252 Gageodo*
   4632 Gageodo Island*
-323483 Timor*
-  1615 Kisar*
-321531 Timor* + Semau* + Rote Island|Rote* + Wetar* + Liran* + Atauro Island|Atauro*
-287192 Wetar* + Liran* + Atauro Island|Atauro*
+323483 Timor* + Barat Daya Islands|Barat Daya* + Atauro Island|Atauro* + Kisar*
+  1615 Kisar|Kisar Island*
+321531 Timor* + Barat Daya Islands|Barat Daya* + Atauro Island|Atauro*
+287192 Barat Daya Islands|Barat Daya* + Atauro Island|Atauro*
   1097 Atauro Island*
-267397 Wetar* + Liran*
+267397 Barat Daya Islands*
+267396 Wetar* + Kepulauan Tupis + Reong + Liran*
 206326 Liran*
   3037 Liran|Liran Island*
-183843 Wetar*
+183843 Wetar* + Kepulauan Tupis + Reong
+  9207 Reong Island
+183842 Wetar* + Kepulauan Tupis
+ 58349 Kepulauan Tupis Island
    168 Wetar|Wetar Island*
-319052 Timor* + Semau* + Rote Island|Rote*
+319052 Timor|Timor archipelago*
 316259 Rote Island|Rote*
    260 Rote Island*
-304413 Timor* + Semau*
-275890 Semau*
+304413 Timor* + Jaco Island|Jaco* + Semau* + Kambing + Tabui + Kera + Batek Island|Batek*
+ 56054 Batek Island*
+297233 Timor* + Jaco Island|Jaco* + Semau* + Kambing + Tabui + Kera
+ 38102 Kera Island
+275891 Timor* + Jaco Island|Jaco* + Semau* + Kambing + Tabui
+275890 Semau* + Kambing + Tabui
+ 21225 Tabui Island
+186460 Semau* + Kambing
+ 18301 Kambing Island
    836 Semau|Semau Island*
-182760 Timor*
+182760 Timor* + Jaco Island|Jaco*
+  4779 Jaco Island*
+182759 
+ 33632 
     48 Timor|Timor Island*
 304851 Khuriya Muriya Islands*
  10452 Nantha Kyun*
