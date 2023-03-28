@@ -3655,8 +3655,78 @@
     21 Cuba (island)|Cuba Island*
 326770 Tambelan Archipelago*
 320196 Tanimbar Islands*
-274978 Selaru*
+ 18893 Aryama Island
+294942 Molu + Wayanga + Nutkaltur + Maru
+  3181 Maru Island
+272015 Molu + Wayanga + Nutkaltur
+ 31246 Nutkaltur Island
+272014 Molu + Wayanga
+197067 Wayanga
+ 79054 
+  8597 Wayanga Island
+188402 
+  1625 Molu Island
+301477 
+ 67691 Frinun Blawat Island
+285706 
+114290 
+265103 
+225881 
+304172 Wuliaru + Selu + Natrool + Nus Nitus + Natraal + Keswu + Wolas + Wutat
+190200 Wutat
+ 58936 
+  2604 Wutat Island
+304171 Wuliaru + Selu + Natrool + Nus Nitus + Natraal + Keswu + Wolas
+195110 Keswu + Wolas
+ 23380 Wolas Island
+  6546 Keswu Island
+296993 Wuliaru + Selu + Natrool + Nus Nitus + Natraal
+ 26267 Natraal Island
+274687 Wuliaru + Selu + Natrool + Nus Nitus
+ 14005 Nus Nitus Island
+274686 Wuliaru + Selu + Natrool
+ 15458 Natrool Island
+274685 Wuliaru + Selu
+ 87230 
+274684 
+274683 Selu
+  8222 Ngivaldepan Island
+  1565 Selu Island
+214596 Wuliaru
+  1043 Wuliaru Island
+273634 Laibobar + Unggar + Wurmali
+ 21703 Wurmali Island
+194408 Laibobar + Unggar
+ 17919 Unggar Island
+  5847 Laibobar Island
+ 40142 Sukler Island
+ 38936 Nu Kaha Island
+196488 Matakus + Nustabun
+ 68565 Nustabun Island
+  7931 Matakus Island
+274978 Selaru* + Nu Yanat + Adana
+ 37364 Adana Island
+274977 Selaru* + Nu Yanat
+ 21746 Nu Yanat Island
+185748 Selaru*
    607 Selaru|Selaru Island*
+ 32947 Famusan Island
+274057 Nanwaan
+  8041 Itain Island
+  5090 Nanwaan Island
+236566 Fordata
+  2446 Fordata Island
+273636 Angwarmase
+  5836 Angwarmase Island
+205339 Mes + Kore
+ 27928 Kore Island
+ 19587 Mes Island
+192588 Mitak
+  4275 Mitak Island
+114206 Nuskesse Island
+236697 
+215435 Tandula
+ 38234 Tandula Island
    149 Yamdena|Yamdena Island*
 289596 Diego Ramírez Islands*
 299942 Tubbataha Reef*
