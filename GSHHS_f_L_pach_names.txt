@@ -4233,6 +4233,26 @@
  81492 Bedout Island*
 360791 Australia (continent)|Australia* + Halmahera*
 334012 Halmahera*
+317750 Obi Islands*
+   170 Obi (island)|Obi Island*
+334011 
+295171 Gebe*
+  1078 Gebe|Gebe Island*
+332321 
+295189 Kayoa*
+315205 Morotai*
+   178 Morotai|Morotai Island*
+188155 Makian* + Moti Island|Moti*
+  3339 Moti Island*
+  1513 Makian|Makian Island*
+295339 Tidore* + Ternate Island|Ternate*
+270774 Ternate Island|Ternate*
+  1347 Ternate Island*
+187527 Tidore*
+  1225 Tidore|Tidore Island*
+305043 Bacan Islands*
+   204 Bacan Island*
+    54 Halmahera|Halmahera Island*
 360790 Australia (continent)|Australia*
  61312 Pulau Ayawi
 291049 Pulau Sabuda
@@ -4268,12 +4288,14 @@
 323276 Raja Ampat Islands*
    153 Waigeo Island*
 121288 Pulau Loslos
- 56900 Yef Danga
-157197 Pulau Bodo
 311106 Yapen*
    176 Yapen Island*
  64979 Pulau Jerief
 248742 Kri Batanta
+187166 Adi Island|Adi*
+  1070 Adi Island*
+ 56900 Yef Danga
+157197 Pulau Bodo
 297066 Batanta*
    506 Batanta Island*
 300204 Salawati*
@@ -4435,7 +4457,7 @@
 307849 Tukangbesi Islands*
   1703 Una-Una*
 266377 Manui
-321082 Taliabu* + Mangole Island|Mangole* + Sanana Island|Sanana*
+321082 Sula Islands*
   3378 
 319693 
 192596 
@@ -5542,7 +5564,7 @@
   5006 Hon Son
   1598 Morzhovets Island*
 323871 Lesser Sunda Islands*
-  2353 Palu'e*
+  2353 Palu'e|Palu'e Island*
 320915 Sumbawa* + Lombok* + Flores* + Alor Archipelago|Alor*
 320914 Flores* + Alor Archipelago|Alor*
 311128 Alor Archipelago*
@@ -5604,6 +5626,9 @@
 311174 Lombok*
    119 Lombok Island*
 320181 Sumbawa*
+  5045 Medang Island*
+  1055 Sangeang Island*
+   631 Moyo Island*
     59 Sumbawa Island*
 194308 Cù Lao Ré volcanic islands|Cù Lao Ré*
  25863 Cù-Lao Bai Island
