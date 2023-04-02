@@ -4227,6 +4227,7 @@
   7557 Pulau Fani
 360976 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor*
 293779 Numfor*
+   620 Numfor|Numfor Island*
 360975 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu*
 314205 Ayu Islands*
 360974 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout*
@@ -4263,6 +4264,89 @@
 186019 Rossel Island|Rossel* + Wule Island|Wule*
  19927 Wule Island*
    684 Rossel Island*
+ 11485 East Island, Papua New Guinea|East Island*
+293861 Bonvouloir Islands*
+ 17237 Hastings Island (Papua New Guinea)|Hastings Island*
+279185 Strathord Islands*
+ 57587 North Island
+279184 Strathord + Amanuta + Middle
+243791 Amanuta + Middle
+133395 Middle Island
+129282 Amanuta Island
+205244 Strathord
+123630 (unnamed)
+ 19443 Strathord Island
+113117 Manuga Reef
+232403 Daloloia Group*
+105792 Bunora Island
+ 83310 Sarupai Island
+313139 Conflict Group*
+ 28281 Lunn Island*
+309881 Panasesa Island|Panasesa* + Tupit + Tubinagurm + Lutmatavi + Panaboal + Ginara + Irai + Kisa + Auriroa Island|Auriroa* + Muniara + Panarakuum Island|Panarakuum* + Panarakiim Motina + Panamaiia + Tarapaniian + Panaiiaii + Itamarina
+163453 Itamarina Island
+301137 Panasesa Island|Panasesa* + Tupit + Tubinagurm + Lutmatavi + Panaboal + Ginara + Irai + Kisa + Auriroa Island|Auriroa* + Muniara + Panarakuum Island|Panarakuum* + Panarakiim Motina + Panamaiia + Tarapaniian + Panaiiaii
+282037 Panamaiia + Tarapaniian + Panaiiaii
+240127 Tarapaniian + Panaiiaii
+142730 Panaiiaii Island
+112946 Tarapaniian Island
+ 79285 Panamaiia Island
+301136 Panasesa Island|Panasesa* + Tupit + Tubinagurm + Lutmatavi + Panaboal + Ginara + Irai + Kisa + Auriroa Island|Auriroa* + Muniara + Panarakuum Island|Panarakuum* + Panarakiim Motina
+263604 Auriroa Island|Auriroa* + Muniara + Panarakuum Island|Panarakuum* + Panarakiim Motina
+223929 Panarakuum Island|Panarakuum* + Panarakiim Motina
+223928 Panarakiim Motina
+ 28823 Panarakuum Island*
+207070 Auriroa Island|Auriroa* + Muniara
+ 48030 Muniara Island
+ 22509 Auriroa Island*
+289164 Panasesa Island|Panasesa* + Tupit + Tubinagurm + Lutmatavi + Panaboal + Ginara + Irai + Kisa
+ 67690 Kisa Island
+289163 Panasesa Island|Panasesa* + Tupit + Tubinagurm + Lutmatavi + Panaboal + Ginara + Irai
+ 17978 Irai Island*
+289162 Panasesa Island|Panasesa* + Tupit + Tubinagurm + Lutmatavi + Panaboal + Ginara
+209240 Panaboal + Ginara
+ 68593 Ginara Island
+ 26278 Panaboal Island
+263377 Panasesa Island|Panasesa* + Tupit + Tubinagurm + Lutmatavi
+226673 Tubinagurm + Lutmatavi
+226672 Lutmatavi
+ 75932 
+ 65839 Lutmatavi Island
+ 45471 Tubinagurm Island
+263376 Panasesa Island|Panasesa* + Tupit
+263375 Tupit
+236692 
+106649 
+ 99186 
+223513 
+131248 
+ 57405 Tupit Island
+208324 Panasesa Island|Panasesa*
+154879 
+ 24682 Panasesa Island*
+285044 Renard Islands*
+154085 Epoko Island
+285043 Kimuta + Niva Beno + Topuna + Pana Roran + Baiwa + Oreia + Nirut
+215786 Oreia + Nirut
+114647 Nirut Island
+ 39006 Oreia Island
+261350 Kimuta + Niva Beno + Topuna + Pana Roran + Baiwa
+232152 Pana Roran + Baiwa
+156677 Baiwa Island
+ 82485 Pana Roran Island
+261349 Kimuta + Niva Beno + Topuna
+232679 Niva Beno + Topuna
+232678 Topuna
+156853 
+ 84326 Topuna Island
+ 29848 Niva Beno Island
+199626 Kimuta
+ 89724 
+ 11563 Kimuta Island
+299337 
+258588 Misima Islands
+   834 Misima Island*
+314193 
+  4031 Yeina Island*
    340 Tagula Island*
 317263 Schouten Islands*
  13088 Befondi Island
