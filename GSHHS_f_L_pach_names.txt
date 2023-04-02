@@ -5397,7 +5397,7 @@
 183842 Wetar* + Kepulauan Tupis
  58349 Kepulauan Tupis Island
    168 Wetar|Wetar Island*
-319052 Timor|Timor archipelago*
+319052 Timor|Timor Archipelago*
 316259 Rote Island|Rote*
    260 Rote Island*
 304413 Timor* + Jaco Island|Jaco* + Semau* + Kambing + Tabui + Kera + Batek Island|Batek*
@@ -5425,7 +5425,7 @@
 298718 Koh Tang* + Koh Pring*
 293065 Koh Pring*
 265053 Koh Tang*
-  5259 Montecristo*
+  5259 Montecristo|Montecristo Island*
 293357 Velopoula + Falkonera*
  18628 Falkonera*
 280250 
@@ -5546,17 +5546,55 @@
 320915 Sumbawa* + Lombok* + Flores* + Alor Archipelago|Alor*
 320914 Flores* + Alor Archipelago|Alor*
 311128 Alor Archipelago*
-269554 Pantar*
+  9175 Tereweng Island
+311127 Alor Island|Alor* + Kapas + Kepa + Sika + Ternate + Buaya + Pantar* + Pura Island|Pura* + Kangge + Kambing + Rusa + Batang + Lapang
+198065 Batang + Lapang
+ 11295 Lapang Island
+  9739 Batang Island
+303461 Alor Island|Alor* + Kapas + Kepa + Sika + Ternate + Buaya + Pantar* + Pura Island|Pura* + Kangge + Kambing + Rusa
+  5075 Rusa Island
+286323 Alor Island|Alor* + Kapas + Kepa + Sika + Ternate + Buaya + Pantar* + Pura Island|Pura* + Kangge + Kambing
+269554 Pantar* + Pura Island|Pura* + Kangge + Kambing
+ 13674 Kambing Island
+184851 Pantar* + Pura Island|Pura* + Kangge
+  4435 Kangge Island
+184850 Pantar* + Pura Island|Pura*
+  2939 Pura Island*
+184849 Pantar*
+133386 
    359 Pantar|Pantar Island*
-286322 Alor Island|Alor*
+286322 Alor Island|Alor* + Kapas + Kepa + Sika + Ternate + Buaya
+198095 Ternate + Buaya
+ 13660 Buaya Island
+  9765 Ternate Island
+267240 Alor Island|Alor* + Kapas + Kepa + Sika
+ 25989 Sika Island
+267239 Alor Island|Alor* + Kapas + Kepa
+ 29728 Kepa Island
+267238 Alor Island|Alor* + Kapas
+132062 Kapas Island
+183957 Alor Island|Alor*
+ 85946 
+183956 
+ 82636 
    184 Alor Island*
 319727 Flores*
-190715 Banta
+195190 Pemana Islands*
+ 41015 Pemana Kecil Island
+  6619 Pemana Besar Island
+190715 Banta + Tukoh Rada
+ 85300 Tukoh Rada Island
   2957 Banta Island
+  5238 Ende Island
+ 98037 Nuha Beleng Island
+123135 Toko Toko Island
+  8243 Babi Island (Flores)|Babi Island*
+156401 Nisaleme Island
 305761 Komodo (island)|Komodo*
    636 Komodo (island)|Komodo Island*
    255 Lembata|Lembata Island*
-   820 Solor*
+   820 Solor|Solor Island*
+  3985 Mules Island*
 185247 Adonara*
    457 Adonara Island*
 186469 Rinca*
@@ -5971,10 +6009,14 @@
    243 Öland|Öland Island*
 290778 Shokalsky Island|Shokalsky*
    572 Shokalsky Island*
+ 16167 Mosey Island
 307905 Qeshm Island|Qeshm*
    238 Qeshm Island*
 276935 Hydra (island)|Hydra*
   2038 Hydra (island)|Hydra Island*
+254663 Ayon Island|Ayon*
+  9795 Ryyanranot Island
+   193 Ayon Island*
 273191 Pangkor Island|Pangkor*
   3507 Pangkor Island*
 188817 Abu Ali + Al Batinah
