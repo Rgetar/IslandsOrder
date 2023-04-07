@@ -4421,15 +4421,43 @@
 330052 Misool*
    188 Misool Island*
   2558 Bagabag (Papua New Guinea)|Bagabag Island*
+111742 Roswar
+  1319 Roswar Island
+193789 Walis + Tarawai
+  8748 Tarawai Island
+  5266 Walis Island
+  3338 Anggrameos Island*
+106318 Yefyal Island
 185569 Karkar Island|Karkar*
    557 Karkar Island*
+193224 Kumamba Islands
+  8481 Armo Island
+  4782 Liki Island
+191151 Sayang + Ai
+ 22172 Ai Island
+  3244 Sayang Island
+188322 Manam Motu|Manam* + Boisa
+ 17416 Boisa Island
+  1591 Manam Motu|Manam Island*
 317025 D'Entrecasteaux Islands*
 323276 Raja Ampat Islands*
    153 Waigeo Island*
-121288 Pulau Loslos
-311106 Yapen*
+296848 Mios Num*
+  1504 Mios Num|Mios Num Island*
+311106 Yapen Islands*
    176 Yapen Island*
+305299 Engineer Islands*
+257572 Nuakata Island|Nuakata*
+  5313 Nuakata Island*
+190955 Moora Islands
+  5412 Nutorutomorya Island
+190954 Ratewo + Utaina
+ 39143 Utaina Island
+  3118 Ratewo Island
  64979 Pulau Jerief
+195663 Karas Islands
+  2071 Karas Island*
+121288 Pulau Loslos
 248742 Kri Batanta
 187166 Adi Island|Adi*
   1070 Adi Island*
