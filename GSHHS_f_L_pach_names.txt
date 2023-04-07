@@ -4475,9 +4475,31 @@
 350293 Sulawesi* + Seram Island|Seram* + Buru* + Watubela Archipelago|Watubela* + Kai Islands|Kai*
 326430 Seram Island|Seram* + Buru* + Watubela Archipelago|Watubela* + Kai Islands|Kai*
 324841 Kai Islands*
+304535 Kur + Kaimeer + Tengah + Bui + Manggur + Woning + Fadol
+296100 Manggur + Woning + Fadol
+ 18832 Fadol Island
+271323 Manggur + Woning
+ 34297 Woning Island
+198841 Manggur
+131227 
+198840 
+110639 
+198839 
+131357 
+198838 
+111111 
+198837 
+ 56624 
+ 10638 Manggur Island
+294903 Kur + Kaimeer + Tengah + Bui
+272153 Kaimeer + Tengah + Bui
+ 27843 Bui Island
+197356 Kaimeer + Tengah
+ 32362 Tengah Island
+  8916 Kaimeer Island
   2436 Kur Island
-322508 Kai Besar* + Kai Kecil* + Tanimbar Kei + Tayandu|Tayandu Islands* + Taam + Nusreen + Numai
-304827 Tayandu|Tayandu Islands* + Taam + Nusreen + Numai
+322508 Kai Kecil* + Kai Besar* + Tanimbar Kei + Tayandu Islands|Tayandu*
+304827 Tayandu Islands*
 278518 Taam + Nusreen + Numai
 202350 Nusreen + Numai
  22527 Numai Island
@@ -4485,20 +4507,49 @@
  86355 
  15303 Nusreen Island
   4268 Taam Island
-295179 Tayandu Islands*
-320312 Kai Besar* + Kai Kecil* + Tanimbar Kei
+295179 Walir + Heniar + Waralneu + Tayando + Ree + Reeyanat
+204019 Ree + Reeyanat
+ 73429 Reeyanat Island
+ 17654 Ree Island
+295178 Walir + Heniar + Waralneu + Tayando
+273107 Tayando
+  2960 Tayando Island
+295177 Walir + Heniar + Waralneu
+ 65323 Waralneu Island
+273097 Walir + Heniar
+246532 
+156981 
+142781 
+273096 
+ 10116 Heniar Island
+273095 Walir
+  3216 Walir Island
+320312 Kai Kecil* + Kai Besar* + Tanimbar Kei
 194065 Tanimbar Kei
   5510 Tanimbar Kei Island
-317958 Kai Besar* + Kai Kecil*
+317958 Kai Kecil* + Kai Besar*
 269825 Kai Besar*
+ 20184 Nuhu Yananhu Island
    437 Kai Besar|Kai Besar Island*
 314265 Kai Kecil*
    540 Kai Kecil|Kai Kecil Island*
 326347 Seram Island|Seram* + Buru* + Watubela Archipelago|Watubela*
 307994 Watubela Archipelago*
+ 67201 Uran Island
+307993 Kesui + Watubela + Igar + Baam + Teor (island)|Teor* + Kurkap
+ 96969 Kurkap Island
+305680 Kesui + Watubela + Igar + Baam + Teor (island)|Teor*
+  3494 Teor (island)|Teor Island*
+297299 Kesui + Watubela + Igar + Baam
+ 14229 Baam Island
+276266 Kesui + Watubela + Igar
+ 51626 Igar Island
+190594 Kesui + Watubela
+  9284 Watubela Island
+  2868 Kesui Island
 324849 Seram Island|Seram* + Buru*
 286146 Buru*
-  1705 Ambelau*
+  1705 Ambelau|Ambelau Island*
     89 Buru|Buru Island*
 322351 Seram Island|Seram*
 120922 Pulau Madorang
