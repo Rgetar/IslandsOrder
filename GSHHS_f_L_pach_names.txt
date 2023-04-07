@@ -4421,7 +4421,8 @@
 330052 Misool*
    188 Misool Island*
   2558 Bagabag (Papua New Guinea)|Bagabag Island*
-111742 Roswar
+187743 Roswar
+111742 
   1319 Roswar Island
 193789 Walis + Tarawai
   8748 Tarawai Island
