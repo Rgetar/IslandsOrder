@@ -3300,12 +3300,22 @@
 296369 Ulleungdo*
   1685 Ulleungdo|Ulleungdo Island*
 304554 Senkaku Islands*
- 67775 Taisho Jima*
-294889 
+ 67775 Taisho Jima|Taisho Island*
+294889 Uotsuri* + Tobise + Minamikojima* + Kitakojima* + Okinokitaiwa + Okinominamiiwa + Kuba Jima|Kuba*
 204022 Kuba Jima|Kuba*
 116832 
- 17660 Kuba Jima*
-272166 
+ 17660 Kuba Jima|Kuba Island*
+272166 Uotsuri* + Tobise + Minamikojima* + Kitakojima* + Okinokitaiwa + Okinominamiiwa
+216295 Okinokitaiwa + Okinominamiiwa
+111680 Okinominamiiwa Island
+ 40113 Okinokitaiwa Island
+272165 Uotsuri* + Tobise + Minamikojima* + Kitakojima*
+209331 Minamikojima* + Kitakojima*
+ 29025 Kitakojima|Kitakojima Island*
+ 26409 Minamikojima|Minamikojima Island*
+197333 Uotsuri* + Tobise
+ 52714 Tobise Island
+  8890 Uotsuri|Uotsuri Island*
 307952 Gannett + Price + Bylund + East + Hixson + South Hixson + Frederick Reefs|Frederick* + Saumarez Reefs|Saumarez*
 307951 Frederick Reefs|Frederick* + Saumarez Reefs|Saumarez*
 305555 Saumarez Reefs*
@@ -4238,14 +4248,55 @@
    620 Numfor|Numfor Island*
 360975 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu*
 314205 Ayu Islands*
+ 87107 Moff Island
+306638 Pulau Ayu|Ayu* + Reni Island|Reni* + Rutum + Pulau Kanobe|Kanobe* + Abidon
+300083 Reni Island|Reni* + Rutum + Pulau Kanobe|Kanobe* + Abidon
+207726 Abidon
+134391 
+ 23614 Abidon Island
+283725 Reni Island|Reni* + Rutum + Pulau Kanobe|Kanobe*
+261682 Pulau Kanobe|Kanobe*
+ 26840 Pulau Kanobe|Kanobe Island*
+207536 Reni Island|Reni* + Rutum
+ 36574 Rutum Island
+ 23302 Reni Island*
+257725 Pulau Ayu|Ayu*
+  6784 Pulau Ayu|Ayu Island*
 360974 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout*
  81492 Bedout Island*
 360791 Australia (continent)|Australia* + Halmahera*
 334012 Halmahera*
 317750 Obi Islands*
+296173 Lawin + Waringer + Laliola + Kekeh + Pisang
+197817 Pisang
+112490 
+  9401 Pisang Island
+271239 Lawin + Waringer + Laliola + Kekeh
+199368 Kekeh
+ 75595 
+ 11284 Kekeh Island
+199440 Lawin + Waringer + Laliola
+ 36739 Pulau Laliola
+199439 Lawin + Waringer
+ 18630 Pulau Waringer
+ 11356 Lawin Island
+  2463 Tobalai Island
+191137 Gomumu
+  3233 Gomumu Island
+277414 Bisa (island)|Bisa* + Tapa
+  2950 Tapa Island
+206663 Bisa (island)|Bisa*
+   966 Bisa (island)|Bisa Island*
+193816 Belangbelang
+  5296 Belangbelang Island
+188706 Obilatu
+  1769 Obilatu Island
+  5193 Malamala Island
    170 Obi (island)|Obi Island*
 334011 
 295171 Gebe*
+273108 Yu
+  2990 Yu Island
   1078 Gebe|Gebe Island*
 332321 
 295189 Kayoa*
