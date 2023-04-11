@@ -4492,6 +4492,83 @@
  17416 Boisa Island
   1591 Manam Motu|Manam Island*
 317025 D'Entrecasteaux Islands*
+201159 Uama + Tewara
+ 21263 Tewara Island
+ 13559 Uama Island
+317024 Fergusson Island|Fergusson* + Goodenough Island|Goodenough* + Dobu Island|Dobu* + Normanby Island (Papua New Guinea)|Normanby* + Duchess + Sanaroa Island|Sanaroa* + Siata + Sunday + Amphlett
+309867 Amphlett Islands
+280273 Wata + Apuo + Toiyana + Kabona + Wawasi
+ 62253 Wawasi Island
+280272 Wata + Apuo + Toiyana + Kabona
+246521 Apuo + Toiyana + Kabona
+143765 Kabona Island
+246520 Apuo + Toiyana
+151314 Toiyana Island
+142725 Apuo Island
+ 29853 Wata Island
+301153 Wawiwa + Yabwaia + Belobeloia + Bialao + Tuboa + Piatana + Noapoi + Kolaio + Tkala + Watota + Chalata + Wagabu + Wamena + Urasi
+294902 Wamena + Urasi
+ 10457 Urasi Island
+272139 Wamena
+151792 
+197271 
+144904 
+197270 
+ 78821 
+  8818 Wamena Island
+289153 Wawiwa + Yabwaia + Belobeloia + Bialao + Tuboa + Piatana + Noapoi + Kolaio + Tkala + Watota + Chalata + Wagabu
+282366 Watota + Chalata + Wagabu
+ 39467 Wagabu Island
+282365 Watota + Chalata
+ 82655 Chalata Island
+251262 Watota
+251261 
+171890 
+170166 
+ 10382 Watota Island
+289152 Wawiwa + Yabwaia + Belobeloia + Bialao + Tuboa + Piatana + Noapoi + Kolaio + Tkala
+263310 Tuboa + Piatana + Noapoi + Kolaio + Tkala
+263309 Piatana + Noapoi + Kolaio + Tkala
+170795 Tkala Island
+223494 Piatana + Noapoi + Kolaio
+ 97700 Kolaio Island
+223493 Piatana + Noapoi
+ 83450 Noapoi Island
+ 57337 Piatana Island
+ 24395 Tuboa Island
+196675 Wawiwa + Yabwaia + Belobeloia + Bialao
+ 87862 Bialao Island
+196674 Wawiwa + Yabwaia + Belobeloia
+ 66149 Belobeloia Island
+196673 Wawiwa + Yabwaia
+196672 Yabwaia
+142892 
+  8142 Yabwaia Island
+  5736 Wawiwa Island
+311660 Fergusson Island|Fergusson* + Goodenough Island|Goodenough* + Dobu Island|Dobu* + Normanby Island (Papua New Guinea)|Normanby* + Duchess + Sanaroa Island|Sanaroa* + Siata + Sunday
+151272 Sunday Island
+307915 Fergusson Island|Fergusson* + Goodenough Island|Goodenough* + Dobu Island|Dobu* + Normanby Island (Papua New Guinea)|Normanby* + Duchess + Sanaroa Island|Sanaroa* + Siata
+131699 Siata Island
+307914 Fergusson Island|Fergusson* + Goodenough Island|Goodenough* + Dobu Island|Dobu* + Normanby Island (Papua New Guinea)|Normanby* + Duchess + Sanaroa Island|Sanaroa*
+276765 Sanaroa Island|Sanaroa*
+  2131 Sanaroa Island*
+305629 Fergusson Island|Fergusson* + Goodenough Island|Goodenough* + Dobu Island|Dobu* + Normanby Island (Papua New Guinea)|Normanby* + Duchess
+ 54894 Duchess Island
+305628 Fergusson Island|Fergusson* + Goodenough Island|Goodenough* + Dobu Island|Dobu* + Normanby Island (Papua New Guinea)|Normanby*
+295921 Normanby Island (Papua New Guinea)|Normanby*
+ 14626 Ubuia Island
+   314 Normanby Island (Papua New Guinea)|Normanby Island*
+305627 Fergusson Island|Fergusson* + Goodenough Island|Goodenough* + Dobu Island|Dobu*
+271071 Dobu Island|Dobu*
+  6299 Dobu Island*
+295509 Fergusson Island|Fergusson* + Goodenough Island|Goodenough*
+269627 Goodenough Island|Goodenough*
+   366 Goodenough Island*
+295508 Fergusson Island|Fergusson*
+ 41167 Lawa Island
+270112 
+ 70575 
+   248 Fergusson Island*
 323276 Raja Ampat Islands*
    153 Waigeo Island*
 296848 Mios Num*
