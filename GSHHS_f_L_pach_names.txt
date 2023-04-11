@@ -4342,15 +4342,15 @@
  83310 Sarupai Island
 313139 Conflict Group*
  28281 Lunn Island*
-309881 Panasesa Island|Panasesa* + Tupit + Tubinagurm + Lutmatavi + Panaboal + Ginara + Irai + Kisa + Auriroa Island|Auriroa* + Muniara + Panarakuum Island|Panarakuum* + Panarakiim Motina + Panamaiia + Tarapaniian + Panaiiaii + Itamarina
+309881 Panasesa Island|Panasesa* + Tupit + Tubinagurm + Lutmatavi + Panaboal + Ginara + Irai Island|Irai* + Kisa + Auriroa Island|Auriroa* + Muniara + Panarakuum Island|Panarakuum* + Panarakiim Motina + Panamaiia + Tarapaniian + Panaiiaii + Itamarina
 163453 Itamarina Island
-301137 Panasesa Island|Panasesa* + Tupit + Tubinagurm + Lutmatavi + Panaboal + Ginara + Irai + Kisa + Auriroa Island|Auriroa* + Muniara + Panarakuum Island|Panarakuum* + Panarakiim Motina + Panamaiia + Tarapaniian + Panaiiaii
+301137 Panasesa Island|Panasesa* + Tupit + Tubinagurm + Lutmatavi + Panaboal + Ginara + Irai Island|Irai* + Kisa + Auriroa Island|Auriroa* + Muniara + Panarakuum Island|Panarakuum* + Panarakiim Motina + Panamaiia + Tarapaniian + Panaiiaii
 282037 Panamaiia + Tarapaniian + Panaiiaii
 240127 Tarapaniian + Panaiiaii
 142730 Panaiiaii Island
 112946 Tarapaniian Island
  79285 Panamaiia Island
-301136 Panasesa Island|Panasesa* + Tupit + Tubinagurm + Lutmatavi + Panaboal + Ginara + Irai + Kisa + Auriroa Island|Auriroa* + Muniara + Panarakuum Island|Panarakuum* + Panarakiim Motina
+301136 Panasesa Island|Panasesa* + Tupit + Tubinagurm + Lutmatavi + Panaboal + Ginara + Irai Island|Irai* + Kisa + Auriroa Island|Auriroa* + Muniara + Panarakuum Island|Panarakuum* + Panarakiim Motina
 263604 Auriroa Island|Auriroa* + Muniara + Panarakuum Island|Panarakuum* + Panarakiim Motina
 223929 Panarakuum Island|Panarakuum* + Panarakiim Motina
 223928 Panarakiim Motina
@@ -4358,9 +4358,9 @@
 207070 Auriroa Island|Auriroa* + Muniara
  48030 Muniara Island
  22509 Auriroa Island*
-289164 Panasesa Island|Panasesa* + Tupit + Tubinagurm + Lutmatavi + Panaboal + Ginara + Irai + Kisa
+289164 Panasesa Island|Panasesa* + Tupit + Tubinagurm + Lutmatavi + Panaboal + Ginara + Irai Island|Irai* + Kisa
  67690 Kisa Island
-289163 Panasesa Island|Panasesa* + Tupit + Tubinagurm + Lutmatavi + Panaboal + Ginara + Irai
+289163 Panasesa Island|Panasesa* + Tupit + Tubinagurm + Lutmatavi + Panaboal + Ginara + Irai Island|Irai*
  17978 Irai Island*
 289162 Panasesa Island|Panasesa* + Tupit + Tubinagurm + Lutmatavi + Panaboal + Ginara
 209240 Panaboal + Ginara
@@ -4402,11 +4402,179 @@
 199626 Kimuta
  89724 
  11563 Kimuta Island
-299337 
+299337 Duperre Islands|Duperre* + Jomard Islands|Jomard* + Duchateau Islands|Duchateau* + Montemont Islands|Montemont*
+255123 Duchateau Islands|Duchateau* + Montemont Islands|Montemont*
+ 93266 Montemont Islands*
+218684 Duchateau Islands*
+218683 Pana Rura Wara + Kukuluba
+ 56250 Kukuluba Island
+ 45274 Pana Rura Wara Island
+ 26226 Pana Bobai Ana Island
+292560 Duperre Islands|Duperre* + Jomard Islands|Jomard*
+208784 Jomard Islands*
+ 71424 Panarairai Island*
+ 25430 Pana Waipona Island
+258124 Duperre Islands*
+229332 Panapwa + Awanagamwana
+111284 Awanagamwana Island
+ 73395 Panapwa Island
+212971 Punawan + Siva + Pananimunimu
+ 55018 Pananimunimu Island
+212970 Punawan + Siva
+ 67794 Siva Island
+ 33316 Punawan Island
+326328 
 258588 Misima Islands
+216422 Managun + Gigira
+112336 Gigira Island
+ 40399 Managun Island
+186458 Misima Island|Misima*
+112668 
    834 Misima Island*
-314193 
+324150 
+314193 Deboyne Islands|Deboyne* + East Deboyne Islands|East Deboyne* + Rerihol + Torlesse Islands|Torlesse*
+276972 Torlesse Islands*
+130130 
+276971 
+ 98480 
+276970 Pananiu + Bonna Bonnawan + Tinolan + Rerihol
+207345 Tinolan + Rerihol
+ 62695 Rerihol Island
+ 22934 Tinolan Island
+208229 Pananiu + Bonna Bonnawan
+ 49470 Bonna Bonnawan Island
+208228 Pananiu
+165490 
+ 24525 Pananiu Island
+314192 Deboyne Islands|Deboyne* + East Deboyne Islands|East Deboyne* + Rerihol
+ 51302 Rerihol Island
+306649 Deboyne Islands|Deboyne* + East Deboyne Islands|East Deboyne*
+301165 East Deboyne Islands*
+236623 Pana Sagu Sagu + Redlick + Mabui
+236622 Redlick + Mabui
+112352 Mabui Island
+ 98983 Redlick Islets
+ 47131 Pana Sagu Sagu Island
+301164 Basses + Bushy + Leiga
+105825 Leiga Island
+289113 Basses + Bushy
+239923 Bushy Islets
+263177 Basses Islands
+ 42302 Gumai An Island
+225229 Kamata + Basses + Aba Evara + Isu Raua Raua
+112794 Isu Raua Raua Island
+225228 Kamata + Basses + Aba Evara
+ 68984 Aba Evara Island
+225227 Kamata + Basses
+ 93277 Basses Island
+ 61833 Kamatal Island
+299932 Deboyne Islands*
+236618 Nibub
+133445 
+ 98960 Nibub Island
+299931 Panaeati Island|Panaeati* + Pana Uya Wana + Panapompom Islands|Panapompom* + Losai + Rara + Passage
+285324 Rara + Passage
+236429 
+261062 
+ 60472 
+261061 
+229303 Passage
+ 73273 Passage Island
+ 24051 Rara Island
+270956 Panaeati Island|Panaeati* + Pana Uya Wana + Panapompom Islands|Panapompom* + Losai
+156294 Losai Island
+270955 Panaeati Island|Panaeati* + Pana Uya Wana + Panapompom Islands|Panapompom*
+194628 Panapompom Islands*
+ 38178 Nivani Island
+  6067 Panapompom Island
+190518 Panaeati Island|Panaeati* + Pana Uya Wana
+ 37194 Pana Uya Wana Island
+  2808 Panaeati Island*
+322504 
+155573 Tawa Tawa Mal Reef
+320308 
   4031 Yeina Island*
+317967 
+ 55947 Panaman Island
+314336 
+ 48442 Sibumbum Island
+314335 
+293806 Panasia* + Pana Vara Vara + Nasakoli + Ehiki + No Ina
+ 88099 No Ina Island
+278953 Panasia* + Pana Vara Vara + Nasakoli + Ehiki
+151751 Ehiki Island
+200342 Panasia* + Pana Vara Vara + Nasakoli
+154633 Nasakoli Island
+200341 Panasia* + Pana Vara Vara
+ 27900 Pana Vara Vara Island
+ 12484 Panasia|Panasia Island*
+307867 
+ 23097 Pana Rora Island*
+307866 
+282851 Sloss Islands*
+234984 Rara
+171145 
+ 92553 Rara Island
+ 61437 Pana Roba Island
+307865 
+304460 Motorina Island|Motorina* + Ululina + Ninan + Venariwa Island|Venariwa* + Panua Keikeisa + Pana Udu Udi + Toloi Awa + Gulewa Island|Gulewa* + Tobaiam + Sibumbum + Utian Island|Utian* + Pana Tatoni + Saru Nom Nom + Spire
+ 88269 Spire Islets
+295299 Motorina Island|Motorina* + Ululina + Ninan + Venariwa Island|Venariwa* + Panua Keikeisa + Pana Udu Udi + Toloi Awa + Gulewa Island|Gulewa* + Tobaiam + Sibumbum + Utian Island|Utian* + Pana Tatoni + Saru Nom Nom
+227411 Pana Tatoni + Saru Nom Nom
+106234 Saru Nom Nom Island
+ 67820 Pana Tatoni Island
+295298 Motorina Island|Motorina* + Ululina + Ninan + Venariwa Island|Venariwa* + Panua Keikeisa + Pana Udu Udi + Toloi Awa + Gulewa Island|Gulewa* + Tobaiam + Sibumbum + Utian Island|Utian*
+202538 Utian Island|Utian*
+152185 
+ 15543 Utian Island*
+295297 Motorina Island|Motorina* + Ululina + Ninan + Venariwa Island|Venariwa* + Panua Keikeisa + Pana Udu Udi + Toloi Awa + Gulewa Island|Gulewa* + Tobaiam + Sibumbum
+277080 Pana Udu Udi + Toloi Awa + Gulewa Island|Gulewa* + Tobaiam + Sibumbum
+209091 Gulewa Island|Gulewa* + Tobaiam + Sibumbum
+172782 Sibumbum Island
+209090 Gulewa Island|Gulewa* + Tobaiam
+112369 Tobaiam Island
+ 25975 Gulewa Island*
+208316 Pana Udu Udi + Toloi Awa
+ 70075 Toloi Awa Island
+ 24661 Pana Udu Udi Island
+270937 Motorina Island|Motorina* + Ululina + Ninan + Venariwa Island|Venariwa* + Panua Keikeisa
+ 71671 Panua Keikeisa Island
+194651 Motorina Island|Motorina* + Ululina + Ninan + Venariwa Island|Venariwa*
+ 25411 Venariwa Island*
+194650 Motorina Island|Motorina* + Ululina + Ninan
+ 48097 Ninan Island
+194649 Motorina Island|Motorina* + Ululina
+ 23917 Ululina Island
+  6090 Motorina Island*
+304656 
+292531 
+ 54156 Laiwan Island
+292530 
+256972 
+ 13529 Pana Numara|Pana Numara Island*
+ 19934 Bonna Wan Island
+ 12177 Bobo Eina Island*
+  6699 Bagaman Island*
+304655 Vanatinai + Nimoa Island|Nimoa* + Hei Wok + Osasai + Calvados Chain|Calvados*
+304654 Calvados Chain*
+  2816 Pana Wina Island*
+  1635 Pana Tinani|Pana Tinani Island*
+269774 Vanatinai + Nimoa Island|Nimoa* + Hei Wok + Osasai
+ 54881 Osasai Island
+269773 Vanatinai + Nimoa Island|Nimoa* + Hei Wok
+197943 Nimoa Island|Nimoa* + Hei Wok
+155156 Hei Wok Islet
+  9582 Nimoa Island*
+184750 Vanatinai Islands
+ 23074 Iyen Island*
+184749 Tagula Island|Tagula* + Boboa + Venama
+124241 
+184748 
+ 98839 
+184747 
+ 30173 Venama Island
+184746 Tagula Island|Tagula* + Boboa
+120832 Boboa Island
    340 Tagula Island*
 317263 Schouten Islands*
  13088 Befondi Island
