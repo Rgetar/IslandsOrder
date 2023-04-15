@@ -4547,17 +4547,68 @@
  23917 Ululina Island
   6090 Motorina Island*
 304656 
-292531 
+292531 Bagaman Island|Bagaman* + Bobo Eina Island|Bobo Eina* + Gilia Island|Gilia* + Aurobu + Bonna Wan + Pana Numara* + Yaruman + Panangaribu + Nunuan + Pana Kuba + Leiga + Panantanian + Mabneian + Laiwan
  54156 Laiwan Island
-292530 
-256972 
+292530 Bagaman Island|Bagaman* + Bobo Eina Island|Bobo Eina* + Gilia Island|Gilia* + Aurobu + Bonna Wan + Pana Numara* + Yaruman + Panangaribu + Nunuan + Pana Kuba + Leiga + Panantanian + Mabneian
+256972 Pana Numara* + Yaruman + Panangaribu + Nunuan + Pana Kuba + Leiga + Panantanian + Mabneian
+ 34278 Mabneian Island
+256971 Pana Numara* + Yaruman + Panangaribu + Nunuan + Pana Kuba + Leiga + Panantanian
+ 23626 Panantanian Island
+256970 Pana Numara* + Yaruman + Panangaribu + Nunuan + Pana Kuba + Leiga
+226705 Pana Kuba + Leiga
+123880 Leiga Island
+ 65966 Pana Kuba Island
+256969 Pana Numara* + Yaruman + Panangaribu + Nunuan
+213954 Panangaribu + Nunuan
+ 58717 Nunuan Island
+ 35250 Panangaribu Island
+201143 Pana Numara* + Yaruman
+ 36140 Yaruman Island
+201142 Pana Numara*
+ 68623 
  13529 Pana Numara|Pana Numara Island*
+271624 Bagaman Island|Bagaman* + Bobo Eina Island|Bobo Eina* + Gilia Island|Gilia* + Aurobu + Bonna Wan
  19934 Bonna Wan Island
+200119 Bagaman Island|Bagaman* + Bobo Eina Island|Bobo Eina* + Gilia Island|Gilia* + Aurobu
+106286 Aurobu Island
+200118 Bagaman Island|Bagaman* + Bobo Eina Island|Bobo Eina* + Gilia Island|Gilia*
+200117 Bobo Eina Island|Bobo Eina* + Gilia Island|Gilia*
+ 41131 Gilia Island*
+200116 Bobo Eina Island|Bobo Eina*
+154162 
  12177 Bobo Eina Island*
   6699 Bagaman Island*
 304655 Vanatinai + Nimoa Island|Nimoa* + Hei Wok + Osasai + Calvados Chain|Calvados*
 304654 Calvados Chain*
+  8405 Sabari Island*
+295001 Pana Tinani + Pana Wina Island|Pana Wina* + Hemenahei Island|Hemenahei* + Yakimoan + Kuwanak Island|Kuwanak* + Taifaur + Gigila + Waia + Einamu + Pana Krusima
+ 15152 Pana Krusima Island
+295000 Pana Tinani + Pana Wina Island|Pana Wina* + Hemenahei Island|Hemenahei* + Yakimoan + Kuwanak Island|Kuwanak* + Taifaur + Gigila + Waia + Einamu
+272412 Kuwanak Island|Kuwanak* + Taifaur + Gigila + Waia + Einamu
+131007 Einamu Island
+272411 Kuwanak Island|Kuwanak* + Taifaur + Gigila + Waia
+203713 Gigila + Waia
+ 92658 Waia Island
+ 17176 Gigila Island
+197888 Kuwanak Island|Kuwanak* + Taifaur
+ 31878 Taifaur Island
+  9515 Kuwanak Island*
+276208 Pana Tinani + Pana Wina Island|Pana Wina* + Hemenahei Island|Hemenahei* + Yakimoan
+190522 Pana Wina Island|Pana Wina* + Hemenahei Island|Hemenahei* + Yakimoan
+ 39030 Yakimoan Island
+190521 Pana Wina Island|Pana Wina* + Hemenahei Island|Hemenahei*
+  5320 Hemenahei Island*
   2816 Pana Wina Island*
+188436 Pana Tinani Islands
+ 14177 Wanim Island*
+188435 Pana Tinani* + Pana Winao + Heva Isi
+ 48201 Heva Isi Island
+188434 Pana Tinani* + Pana Winao
+155171 
+188433 
+129203 Pana Winao Island
+188432 
+ 80521 
   1635 Pana Tinani|Pana Tinani Island*
 269774 Vanatinai + Nimoa Island|Nimoa* + Hei Wok + Osasai
  54881 Osasai Island
