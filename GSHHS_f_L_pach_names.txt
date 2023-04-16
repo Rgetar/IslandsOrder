@@ -4629,6 +4629,7 @@
    340 Tagula Island*
 317263 Schouten Islands*
  13088 Befondi Island
+306870 Padaido Islands*
    169 Biak Island*
 310057 Marshall Bennett Islands*
 304320 Egum Atoll
@@ -4658,7 +4659,16 @@
 191323 Kitava* + Uratu
 113448 Uratu Island
   3368 Kitava|Kitava Island*
+266102 Tuma + Boingi + Kadai + Buriwadi
+ 25122 Buriwadi Island
+197001 Tuma + Boingi + Kadai
+ 28711 Kadai Island
+197000 Tuma + Boingi
+ 24691 Boingi Island
+  8490 Tuma Island
   2204 Kaileuna|Kaileuna Island*
+ 10906 Muwo Island
+  8595 Bomapau Island
   3535 Vakuta|Vakuta Island*
    718 Kiriwina|Kiriwina Island*
 306093 Kofiau*
