@@ -4047,6 +4047,20 @@
    139 Santa Isabel Island*
 363123 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Houtman Abrolhos* + Feni Islands|Feni* + Tanga Islands|Tanga* + Green Islands (Papua New Guinea)|Green* + Adele Island (Western Australia)|Adele* + Vitu Islands|Vitu* + Laughlan
 280307 Laughlan Islands
+280306 Bukulan + Wasimu
+ 57074 Wasimu Island
+239856 Bukulan
+239855 
+113045 
+239854 
+121848 
+111689 
+ 54079 Bukulan Island
+200813 Budelun + Wabomat
+ 20331 Wabomat Island
+200812 Budelun
+153316 
+ 13076 Budelun Island
 363122 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Houtman Abrolhos* + Feni Islands|Feni* + Tanga Islands|Tanga* + Green Islands (Papua New Guinea)|Green* + Adele Island (Western Australia)|Adele* + Vitu Islands|Vitu*
 308250 Vitu Islands*
 190289 Unea Island|Unea*
@@ -4756,7 +4770,9 @@
 186127 Kiriwina* + Vakuta*
   3535 Vakuta|Vakuta Island*
    718 Kiriwina|Kiriwina Island*
-306093 Kofiau*
+306093 Kofiau* + Boo Islands|Boo*
+285348 Boo Islands*
+299068 Kofiau*
   1075 Kofiau|Kofiau Island*
   4973 Turnagain Island (Queensland)|Turnagain Island*
 273111 Schouten Islands (Papua New Guinea)|Schouten Islands*
@@ -4785,6 +4801,35 @@
 113269 
 330052 Misool*
    188 Misool Island*
+309947 Wari Islands
+258575 Kosmann
+ 80019 
+216445 
+ 56290 
+ 40448 Kosmann Island
+304285 Wari Island|Wari* + East + Kera Kera + Mamaramamaweino + Lebrun Islands|Lebrun* + Quessant Island|Quessant* + Sable + Stuers Islands|Stuers* + Imbert
+278026 Quessant Island|Quessant* + Sable + Stuers Islands|Stuers* + Imbert
+ 45399 Imbert Island
+278025 Quessant Island|Quessant* + Sable + Stuers Islands|Stuers*
+ 41885 Stuers Islands
+ 41885 Stuers Islands*
+211318 Quessant Island|Quessant* + Sable
+153784 Sable Island
+ 30182 Quessant Island*
+295341 Wari Island|Wari* + East + Kera Kera + Mamaramamaweino + Lebrun Islands|Lebrun*
+219135 Lebrun Islands*
+120909 
+ 46305 Rika Rika Island
+271096 Wari Island|Wari* + East + Kera Kera + Mamaramamaweino
+ 64448 Mamaramamaweino Island
+199221 Wari Island|Wari* + East + Kera Kera
+ 64327 Kera Kera Island
+199220 Wari Island|Wari* + East
+170460 
+199219 
+173431 East Islet
+ 11085 Wari Island*
+ 34043 Waironi Island
   2558 Bagabag (Papua New Guinea)|Bagabag Island*
 187743 Roswar
 111742 
@@ -4796,9 +4841,26 @@
 106318 Yefyal Island
 185569 Karkar Island|Karkar*
    557 Karkar Island*
+259614 Dumoulin Islands (Louisiade)|Dumoulin Islands*
+242203 Ana Karu Karua
+242202 
+155765 
+121752 
+ 45475 Ana Karu Karua Island
+214919 Baiiri
+ 93984 
+214918 
+171359 
+ 37211 Baiiri Island
 193224 Kumamba Islands
   8481 Armo Island
   4782 Liki Island
+246301 Gumatabu + Laisopi + Kwailua
+131401 Kwailua Island
+246300 Gumatabu + Laisopi
+155239 Laisopi Island
+141529 Gumatabu Island
+ 54315 Idihi Island
 191151 Sayang + Ai
  22172 Ai Island
   3244 Sayang Island
@@ -4877,6 +4939,7 @@
   6299 Dobu Island*
 295509 Fergusson Island|Fergusson* + Goodenough Island|Goodenough*
 269627 Goodenough Island|Goodenough*
+ 15320 Wagifa Island*
    366 Goodenough Island*
 295508 Fergusson Island|Fergusson*
  41167 Lawa Island
