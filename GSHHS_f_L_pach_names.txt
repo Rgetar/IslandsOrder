@@ -4701,15 +4701,15 @@
 207915 Kawa + Matagu
  61915 Matagu Island
  23988 Kawa Island
-317776 Kiriwina* + Vakuta* + Bomapau + Muwo + Kaileuna* + Iaga + Nanauli + Tuma + Boingi + Kadai + Buriwadi + Kuyau + Munuwata + Gilua + Labi + Nakwaba + Nubiam + Kibu + Simlindon + Lulima + Nuarguta + Silipwaka + Simsim + Wagalasa + Kitava* + Uratu
+317776 
 191323 Kitava* + Uratu
 113448 Uratu Island
   3368 Kitava|Kitava Island*
-315201 Kiriwina* + Vakuta* + Bomapau + Muwo + Kaileuna* + Iaga + Nanauli + Tuma + Boingi + Kadai + Buriwadi + Kuyau + Munuwata + Gilua + Labi + Nakwaba + Nubiam + Kibu + Simlindon + Lulima + Nuarguta + Silipwaka + Simsim + Wagalasa
+315201 
 217623 Simsim + Wagalasa
  47846 Wagalasa Island
  43004 Simsim Island
-310080 Kiriwina* + Vakuta* + Bomapau + Muwo + Kaileuna* + Iaga + Nanauli + Tuma + Boingi + Kadai + Buriwadi + Kuyau + Munuwata + Gilua + Labi + Nakwaba + Nubiam + Kibu + Simlindon + Lulima + Nuarguta + Silipwaka
+310080 
 256922 Simlindon + Lulima + Nuarguta + Silipwaka
 233516 Silipwaka
  98451 
