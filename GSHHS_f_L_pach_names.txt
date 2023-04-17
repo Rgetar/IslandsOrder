@@ -4950,11 +4950,13 @@
    153 Waigeo Island*
 296848 Mios Num*
   1504 Mios Num|Mios Num Island*
+ 10857 Nau Island
 311106 Yapen Islands*
    176 Yapen Island*
 305299 Engineer Islands*
 257572 Nuakata Island|Nuakata*
   5313 Nuakata Island*
+296107 Mamboor Islands
 190955 Moora Islands
   5412 Nutorutomorya Island
 190954 Ratewo + Utaina
@@ -4964,13 +4966,23 @@
 195663 Karas Islands
   2071 Karas Island*
 121288 Pulau Loslos
+  9318 Dauan Island*
 248742 Kri Batanta
 187166 Adi Island|Adi*
   1070 Adi Island*
+196346 Talbot Islands*
+  1706 Boigu Island (Queensland)|Boigu Island*
  56900 Yef Danga
 157197 Pulau Bodo
+187807 Saibai Island|Saibai*
+  1345 Saibai Island*
 297066 Batanta*
    506 Batanta Island*
+  5051 Yef Yop Island
+  3417 Kurudu Island*
+190288 Bristow + Daru Island|Daru*
+  4291 Daru Island*
+  2661 Bristow Island
 300204 Salawati*
    221 Salawati Island*
 268973 Yos Sudarso* + Moi + Komoran*
