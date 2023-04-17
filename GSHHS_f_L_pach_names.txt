@@ -4948,9 +4948,48 @@
    248 Fergusson Island*
 323276 Raja Ampat Islands*
    153 Waigeo Island*
+214380 Indi + Aibai
+110104 Aibai Island
+ 36091 Indi Island
+261851 Kerei + Nuta Barita + Kumbur
+120133 Kumbur Island
+233426 Kerei + Nuta Barita
+163587 Nuta Barita Island
+ 86981 Kerei Island
+218675 Tami Islands*
+122620 Wonam Island
+218674 Tami
+ 61381 
+ 45261 Tami Island
 296848 Mios Num*
   1504 Mios Num|Mios Num Island*
+ 48332 Coutance Island
+259202 Laseinie Islands
+244560 
+133864 
+132521 
+216800 Dawson + Keaawan
+216799 Keaawan
+ 83625 
+ 41257 Keaawan Island
+ 16984 Dawson Island
+202753 Bentley Islands
+ 18231 Mudge Island
+ 15834 Anagusa|Anagusa Island*
+248800 Hardman Islands*
+203772 Yef Kelimala + Yef Karawatu
+ 25414 Yef Karawatu Island
+203771 Yef Kelimala
+ 65200 
+ 17277 Yef Kelimala Island
+259442 Hull + Blakeney + Grace
+119136 Grace Island
+215296 Hull + Blakeney
+ 43799 Blakeney Island
+ 37950 Hull Island
  10857 Nau Island
+ 64771 Venu Island
+ 62314 Grange Island
 311106 Yapen Islands*
    176 Yapen Island*
 305299 Engineer Islands*
