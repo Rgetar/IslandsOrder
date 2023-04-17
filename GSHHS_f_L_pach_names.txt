@@ -4656,9 +4656,86 @@
 121214 Kerr Island
  30907 Deliverance Island (Queensland)|Deliverance Island*
 322941 Trobriand Islands*
+236734 
+320358 
+313914 Lusancay Islands
+281677 Konokonowana + Gabwina + Kanapu + Gwadarab
+ 67818 Gwadarab Island
+243500 Konokonowana + Gabwina + Kanapu
+113567 Kanapu Island
+243499 Konokonowana + Gabwina
+243498 Gabwina
+141495 
+128200 Gabwina Island
+ 92865 Konokonowana Island
+307330 Kawa + Matagu + Nauria + Nukuana + Lifaba
+140684 
+298850 
+246424 Lifaba
+155135 
+142127 Lifaba Island
+293361 Kawa + Matagu + Nauria + Nukuana
+293360 Nukuana
+154829 
+293359 
+132919 
+293358 
+280255 
+105914 
+246491 
+132723 
+246490 
+154632 
+142533 
+281462 
+153696 
+244751 
+ 88963 
+244750 
+244749 
+164007 
+133671 
+106591 Nukuana Island
+207916 Kawa + Matagu + Nauria
+ 39834 Nauria Island
+207915 Kawa + Matagu
+ 61915 Matagu Island
+ 23988 Kawa Island
+317776 Kiriwina* + Vakuta* + Bomapau + Muwo + Kaileuna* + Iaga + Nanauli + Tuma + Boingi + Kadai + Buriwadi + Kuyau + Munuwata + Gilua + Labi + Nakwaba + Nubiam + Kibu + Simlindon + Lulima + Nuarguta + Silipwaka + Simsim + Wagalasa + Kitava* + Uratu
 191323 Kitava* + Uratu
 113448 Uratu Island
   3368 Kitava|Kitava Island*
+315201 Kiriwina* + Vakuta* + Bomapau + Muwo + Kaileuna* + Iaga + Nanauli + Tuma + Boingi + Kadai + Buriwadi + Kuyau + Munuwata + Gilua + Labi + Nakwaba + Nubiam + Kibu + Simlindon + Lulima + Nuarguta + Silipwaka + Simsim + Wagalasa
+217623 Simsim + Wagalasa
+ 47846 Wagalasa Island
+ 43004 Simsim Island
+310080 Kiriwina* + Vakuta* + Bomapau + Muwo + Kaileuna* + Iaga + Nanauli + Tuma + Boingi + Kadai + Buriwadi + Kuyau + Munuwata + Gilua + Labi + Nakwaba + Nubiam + Kibu + Simlindon + Lulima + Nuarguta + Silipwaka
+256922 Simlindon + Lulima + Nuarguta + Silipwaka
+233516 Silipwaka
+ 98451 
+ 87290 Silipwaka Island
+256921 Simlindon + Lulima + Nuarguta
+213717 Lulima + Nuarguta
+ 79987 Nuarguta Island
+ 34740 Lulima Island
+209717 Simlindon
+ 93090 
+ 27083 Simlindon Island
+310079 Kiriwina* + Vakuta* + Bomapau + Muwo + Kaileuna* + Iaga + Nanauli + Tuma + Boingi + Kadai + Buriwadi + Kuyau + Munuwata + Gilua + Labi + Nakwaba + Nubiam + Kibu
+ 51544 Kibu Island
+304407 Kiriwina* + Vakuta* + Bomapau + Muwo + Kaileuna* + Iaga + Nanauli + Tuma + Boingi + Kadai + Buriwadi + Kuyau + Munuwata + Gilua + Labi + Nakwaba + Nubiam
+259493 Kuyau + Munuwata + Gilua + Labi + Nakwaba + Nubiam
+ 33582 Nubiam Island
+259492 Kuyau + Munuwata + Gilua + Labi + Nakwaba
+214874 Labi + Nakwaba
+131678 Nakwaba Island
+ 37096 Labi Island
+209340 Kuyau + Munuwata + Gilua
+209339 Munuwata + Gilua
+121028 Gilua Island
+ 26427 Munuwata Island
+ 15395 Kuyau Island
+304406 Kiriwina* + Vakuta* + Bomapau + Muwo + Kaileuna* + Iaga + Nanauli + Tuma + Boingi + Kadai + Buriwadi
 266102 Tuma + Boingi + Kadai + Buriwadi
  25122 Buriwadi Island
 197001 Tuma + Boingi + Kadai
@@ -4666,9 +4743,17 @@
 197000 Tuma + Boingi
  24691 Boingi Island
   8490 Tuma Island
+297237 Kiriwina* + Vakuta* + Bomapau + Muwo + Kaileuna* + Iaga + Nanauli
+ 88116 Nanauli Island
+297236 Kiriwina* + Vakuta* + Bomapau + Muwo + Kaileuna* + Iaga
+ 93098 Iaga Island
+275832 Kiriwina* + Vakuta* + Bomapau + Muwo + Kaileuna*
   2204 Kaileuna|Kaileuna Island*
+275831 Kiriwina* + Vakuta* + Bomapau + Muwo
  10906 Muwo Island
+186128 Kiriwina* + Vakuta* + Bomapau
   8595 Bomapau Island
+186127 Kiriwina* + Vakuta*
   3535 Vakuta|Vakuta Island*
    718 Kiriwina|Kiriwina Island*
 306093 Kofiau*
