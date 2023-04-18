@@ -5010,10 +5010,15 @@
 187166 Adi Island|Adi*
   1070 Adi Island*
 196346 Talbot Islands*
+ 13052 Moimi Island
+196345 Boigu Island (Queensland)|Boigu* + Aubussi
+196344 Aubussi
+  7770 Aubussi Island
   1706 Boigu Island (Queensland)|Boigu Island*
  56900 Yef Danga
 157197 Pulau Bodo
 187807 Saibai Island|Saibai*
+  6065 Kaumag Island
   1345 Saibai Island*
 297066 Batanta*
    506 Batanta Island*
@@ -5022,8 +5027,90 @@
 190288 Bristow + Daru Island|Daru*
   4291 Daru Island*
   2661 Bristow Island
+  4896 Panjang Island
+277299 Lasanga
+  4917 Lasanga Island
+  1676 Morigio Island
+189118 Kairiru + Muschu
+  2345 Muschu Island
+  2007 Kairiru Island
+  6573 Satu Island
+279324 Sumogi
+  2882 Sumogi Island
+272552 Kiwai Island|Kiwai*
+   630 Kiwai Island*
+296066 Purutu Island|Purutu* + Aibinio + Wabuda Island|Wabuda* + Wariura + Gebaro + Sobuwabuda + Umuda
+276186 Umuda
+ 15016 
+189736 
+  3403 
+  2344 Umuda Island
+271999 Purutu Island|Purutu* + Aibinio + Wabuda Island|Wabuda* + Wariura + Gebaro + Sobuwabuda
+  2142 Sobuwabuda Island
+271998 Purutu Island|Purutu* + Aibinio + Wabuda Island|Wabuda* + Wariura + Gebaro
+  7067 
+271997 
+192893 Gebaro
+  1986 Gebaro Island
+271996 Purutu Island|Purutu* + Aibinio + Wabuda Island|Wabuda* + Wariura
+ 38183 
+271995 
+189573 Wariura
+  2259 Wariura Island
+271994 Purutu Island|Purutu* + Aibinio + Wabuda Island|Wabuda*
+ 11571 
+271993 
+197215 
+186575 
+  1485 Wabuda Island*
+186574 Purutu Island|Purutu* + Aibinio
+  1440 Aibinio Island
+   875 Purutu Island*
+  1539 Amutu Besar Island
+273323 Samarai Islands*
+209598 Kaiti + Kato Katoa + Kitai Bai Island|Kitai Bai*
+209597 Kato Katoa + Kitai Bai Island|Kitai Bai*
+ 60324 Kitai Bai Island*
+ 26866 Kato Katoa Island
+ 10723 Kaiti Island
+273322 
+105504 Beika Island
+273321 
+202962 Igwali Island|Igwali* + Kui Island|Kui*
+ 43829 Kui Island*
+ 16137 Igwali Island*
+273320 
+111640 Bwanadalu Island
+273319 
+187774 
+ 23497 Katukatuwe Island
+187773 
+  9985 Buiari Island*
+187772 Basilaki Islands
+104899 
+187771 
+133303 
+  1328 Basilaki Island*
+273318 
+ 21134 Dinana Island*
+273317 
+ 14687 Populai Island*
+273316 
+191196 
+  3273 Sariba Island*
+187903 
+  1398 Sideia Island*
+  4923 Yule Island*
+188048 Kok Dua + Kok Tiga + Siput
+ 14198 Siput Island
+188047 Kok Dua + Kok Tiga
+  1488 Kok Tiga Island
+  1463 Kok Dua Island
 300204 Salawati*
    221 Salawati Island*
+276476 Roon
+  1879 Roon Island
+  1425 Uapumba Island
 268973 Yos Sudarso* + Moi + Komoran*
 184878 Komoran*
    368 Komoran Island*
