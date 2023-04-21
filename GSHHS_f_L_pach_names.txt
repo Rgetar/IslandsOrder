@@ -11,10 +11,10 @@
 136692 Isolda Rock
   1798 Gough Island*
 295007 Tristan da Cunha*
-272290 Inaccessible Island|Inaccessible* + Nightingale Islands*
+272290 Inaccessible Island|Inaccessible* + Nightingale Islands|Nightingale*
 198660 Nightingale Islands*
  55924 Stoltenhoff Island*
-198659 Nightingale Island* + Middle Island, Tristan da Cunha|Middle Island*
+198659 Nightingale Island|Nightingale* + Middle Island, Tristan da Cunha|Middle*
  54528 Middle Island, Tristan da Cunha|Middle Island*
  10380 Nightingale Island*
 192103 Inaccessible Island|Inaccessible*
@@ -3351,8 +3351,10 @@
   5202 Preparis Island*
 295200 Coco Islands*
 276829 North Sentinel Island|North Sentinel*
- 15332 South Sentinel Island|South Sentinel*
+  2160 North Sentinel Island*
+ 15332 South Sentinel Island*
 292627 Little Andaman Group*
+   349 Little Andaman Island*
 207727 The Sisters (Andaman and Nicobar Islands)|The Sisters*
  57737 West Sister Island (Andaman and Nicobar Islands)|West Sister Island*
  23617 East Sister Island (Andaman and Nicobar Islands)|East Sister Island*
@@ -4081,7 +4083,9 @@
  92118 
   1975 Garove Island
 363121 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Houtman Abrolhos* + Feni Islands|Feni* + Tanga Islands|Tanga* + Green Islands (Papua New Guinea)|Green* + Adele Island (Western Australia)|Adele*
+ 70353 Tideway Reef
  50615 Swain Reefs
+ 33471 Barnett Patches
  11827 Adele Island (Western Australia)|Adele Island*
 219504 Raine Island|Raine* + Jukes
  98747 Jukes Reef
@@ -4121,7 +4125,16 @@
   3343 Babase Island*
   1521 Ambitle Island*
 362383 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir* + Houtman Abrolhos*
+280749 Yatala Reef
+281411 Stanley + Bowden
+106535 Bowden Reef
+244688 Stanley Reef
+144584 
+244687 
+135004 
+133338 
 317458 Houtman Abrolhos*
+235137 
  83190 Bramble Cay*
 362107 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark* + Lihir Group|Lihir*
 304970 Lihir Group*
@@ -4136,6 +4149,37 @@
  14041 Mali Island
    864 Lihir Island*
 362003 Australia (continent)|Australia* + Halmahera* + Bedout Island|Bedout* + Ayu Islands|Ayu* + Numfor* + Asia Islands|Asia* + Bismarck Archipelago|Bismarck* + Woodlark Island|Woodlark*
+319177 Capricorn and Bunker Group*
+ 34779 Lady Elliot Island*
+317316 Capricorn Islands|Capricorn* + Bunker
+289957 Bunker Group
+221028 Hoskyn Islands*
+ 95850 East Hoskyn
+ 50881 West Hoskyn
+255313 Fairfax Islands|Fairfax* + Lady Musgrave Island|Lady Musgrave*
+ 52413 Lady Musgrave Island*
+218299 Fairfax Islands*
+109687 West Fairfax
+ 44471 East Fairfax
+314427 Capricorn Islands*
+ 68536 One Tree Island (Queensland)|One Tree Island*
+306803 North West Island|North West* + Tryon Island|Tryon* + Wreck Island|Wreck* + Broomfield + Wilson Island (Queensland)|Wilson* + North Reef Island|North Reef* + eron Island (Queensland)|Heron* + Masthead Island|Masthead* + Erskine Island|Erskine*
+214531 Masthead Island|Masthead* + Erskine Island|Erskine*
+ 95771 Erskine Island*
+ 36458 Masthead Island*
+300168 North West Island|North West* + Tryon Island|Tryon* + Wreck Island|Wreck* + Broomfield + Wilson Island (Queensland)|Wilson* + North Reef Island|North Reef* + eron Island (Queensland)|Heron*
+283660 Wreck Island|Wreck* + Broomfield + Wilson Island (Queensland)|Wilson* + North Reef Island|North Reef* + eron Island (Queensland)|Heron*
+ 50064 Heron Island (Queensland)|Heron Island*
+261740 Wreck Island|Wreck* + Broomfield + Wilson Island (Queensland)|Wilson* + North Reef Island|North Reef*
+108256 North Reef Island*
+233281 Wreck Island|Wreck* + Broomfield + Wilson Island (Queensland)|Wilson*
+233280 Broomfield + Wilson Island (Queensland)|Wilson*
+ 90758 Wilson Island (Queensland)|Wilson Island*
+ 86453 Broomfield Cay
+ 57707 Wreck Island*
+204401 North West Island|North West* + Tryon Island|Tryon*
+ 51273 Tryon Island*
+ 18186 North West Island*
 320189 Woodlark Island|Woodlark* + Alcester Island|Alcester*
 196522 Alcester Islands
  43941 Tokona Island
@@ -5131,11 +5175,51 @@
 319047 Furneaux Group*
    246 Flinders Island*
     31 Tasmania|Tasmania Island*
+113629 Tijou Reef
+231114 Dugong
+ 93900 
+ 78898 Dugong Island
+292930 Young Rocks
+255832 Tongue + Opal
+107480 Opal Reef
+222779 Tongue Reef
+ 63025 
+ 55340 
+214107 Round Island
+232772 Sandbanks National Park|Sandbanks*
 276910 Dorre Island|Dorre* + Bernier Island|Bernier*
 250601 Bernier Island|Bernier*
   2297 Bernier Island*
 189161 Dorre Island|Dorre*
   2025 Dorre Island*
+271632 Hogan Group*
+253010 Boundary Islet|Boundary* + Seal
+253009 Seal
+179339 
+178595 Seal Rock
+161361 Boundary Islet*
+271631 Hogan Island|Hogan* + Long Islet (Tasmania)|Long* + Twin Islets|Twin* + Round + East Island (Tasmania)|East*
+ 63782 East Island (Tasmania)|East Island*
+199586 Hogan Island|Hogan* + Long Islet (Tasmania)|Long* + Twin Islets|Twin* + Round
+168062 Round Islet
+199585 Hogan Island|Hogan* + Long Islet (Tasmania)|Long* + Twin Islets|Twin*
+152173 Twin Islets*
+199584 Hogan Island|Hogan* + Long Islet (Tasmania)|Long*
+161824 
+199583 
+ 48460 Long Islet (Tasmania)|Long Islet*
+ 11503 Hogan Island*
+278991 Greenly Island (South Australia)|Greenly* + Rocky Island (south)|Rocky*
+ 32800 Rocky Island (south)|Rocky Island*
+200490 Greenly Island (South Australia)|Greenly*
+ 73625 
+ 12699 Greenly Island (South Australia)|Greenly Island*
+126037 Alarm Reef
+294006 Curtis Group*
+293239 Gambier Islands (South Australia)|Gambier Islands*
+ 94162 Womer Cay
+211804 Holbourne
+294988 Salisbury Island (Western Australia)|Salisbury*
 323870 Moa Island (Queensland)|Moa*
    977 Moa Island (Queensland)|Moa Island*
 315457 Kangaroo Island|Kangaroo*
