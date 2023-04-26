@@ -5272,7 +5272,9 @@
 185626 Sawu Island|Sawu* + Raijua*
   2403 Raijua|Raijua Island*
    573 Sawu Island*
-307442 Arkticheskiy Institut Islands|Arkticheskiy Institut*
+307442 Arkticheskiy Institut Islands|Arkticheskiy Institut* + Izvestiy TSIK Islands|Izvestiy TSIK*
+298462 Izvestiy TSIK Islands*
+273230 Arkticheskiy Institut Islands*
 188437 Zhokhov Island|Zhokhov* + Vilkitsky Island (East Siberian Sea)|Vilkitsky*
   7219 Vilkitsky Island (East Siberian Sea)|Vilkitsky Island*
   1636 Zhokhov Island*
@@ -5282,9 +5284,9 @@
 293608 Phú Quý*
 201700 Halul Island|Halul*
 297652 La Blanquilla Island|La Blanquilla*
-354944 Borneo* + Palawan (island)|Palawan* + Philippines* + Sulawesi* + Seram Island|Seram* + Buru* + Watubela Archipelago|Watubela* + Kai Islands|Kai*
-350293 Sulawesi* + Seram Island|Seram* + Buru* + Watubela Archipelago|Watubela* + Kai Islands|Kai*
-326430 Seram Island|Seram* + Buru* + Watubela Archipelago|Watubela* + Kai Islands|Kai*
+354944 Malay Archipelago*
+350293 Wallacea*
+326430 Maluku Islands*
 324841 Kai Islands*
 304535 Kur + Kaimeer + Tengah + Bui + Manggur + Woning + Fadol
 296100 Manggur + Woning + Fadol
@@ -5484,6 +5486,7 @@
 326108 Cuyo Archipelago*
 317747 South Natuna*
 343550 Philippines*
+ 64036 Seco Island
 288693 Babuyan Islands*
 266016 Fuga Island|Fuga* + Barit* + Maybag Island|Maybag* + Dalupiri Island (Cagayan)|Dalupiri* + Irao Island|Irao*
 188811 Dalupiri Island (Cagayan)|Dalupiri* + Irao Island|Irao*
@@ -5499,11 +5502,25 @@
 186628 
 115928 
    898 Calayan Island*
+202929 Maniguin Island|Maniguin*
+ 16089 Maniguin Island*
+196463 Balesin Island|Balesin*
+  7907 Balesin Island*
+ 66459 Tanguingui Island (Cebu)|Tanguingui Island*
+306470 Tahau
+210275 Bolod Islands
+ 34848 East Bolod Island
+ 28077 West Bolod Island
+  3524 Maestro de Campo|Maestro de Campo Island*
+121831 
    647 Siquijor|Siquijor Island*
 315203 Polillo Islands*
+   386 Polillo Island*
 266057 Homonhon* + Suluan*
 196742 Suluan*
+  8223 Suluan Island*
 187815 Homonhon*
+  1349 Homonhon Island*
 330747 Mindanao* + Sulu Archipelago|Sulu*
 324989 Sulu Archipelago*
 327800 Mindanao*
