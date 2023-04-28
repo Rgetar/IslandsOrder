@@ -5392,6 +5392,9 @@
  72876 Pulau Koon
  36663 Pulau Grogas
 280997 Pulau Nukus
+187287 Kelang* + Babi
+  6134 Babi Island
+  1118 Kelang|Kelang Island*
     55 Seram Island*
 349082 Sulawesi*
 258145 Masalima Islands
@@ -5521,22 +5524,87 @@
   8223 Suluan Island*
 187815 Homonhon*
   1349 Homonhon Island*
+316399 Laparan Group
 330747 Mindanao* + Sulu Archipelago|Sulu*
 324989 Sulu Archipelago*
+201278 Sibago + Langil
+ 13914 Langil Island
+ 13721 Sibago Island
+324988 Jolo island|Jolo* + Teomabal + Pangutaran + Tapul + Tubalubac + Tawi-Tawi + Basilan
+322006 Basilan Group
+   258 Basilan Island*
+324987 Jolo island|Jolo* + Teomabal + Pangutaran + Tapul + Tubalubac + Tawi-Tawi
+324986 Tawi-Tawi Group
+ 14514 Kakatan Island
+323875 
+308036 
+323874 
+310031 
+320896 
+311909 
+319759 
+   401 Tawi-Tawi Island*
+321353 Jolo island|Jolo* + Teomabal + Pangutaran + Tapul + Tubalubac
+204131 Tubalubac
+ 17809 Tubalubac Island
+319942 Jolo island|Jolo* + Teomabal + Pangutaran + Tapul
+316398 Tapul Group
+298950 
+316397 
+190385 Lugus, Sulu|Lugus* + Tapul*
+ 98128 
+190384 
+190383 Tapul*
+ 58690 
+  2722 Tapul|Tapul Island*
+  2514 Lugus, Sulu|Lugus Island*
+311780 Siasi* + Lapac
+189890 Lapac
+  2427 Lapac Island
+301103 Siasi*
+  1675 Siasi|Siasi Island*
+319941 Jolo island|Jolo* + Teomabal + Pangutaran
+313899 Pangutaran Group
+  1424 Pangutaran|Pangutaran Island*
+319940 Jolo island|Jolo* + Teomabal
+194136 Teomabal
+  5577 Teomabal Island
+316104 Jolo group
+   329 Jolo island*
 327800 Mindanao*
+189947 Sarangani Islands*
+189946 Sarangani Island|Sarangani* + Olanivan
+ 46644 Olanivan Island
+  2465 Sarangani Island*
+  1943 Balut Island*
+186296 Camiguin* + Mantigue*
+ 98354 Mantigue Island*
+   773 Camiguin Island*
+311339 Siargao* + Bucas Grande*
+301462 Bucas Grande*
+  1183 Bucas Grande Island*
+305164 Siargao*
+   530 Siargao Island*
+295700 Dinagat Islands*
+   347 Dinagat Island*
+  2905 Talikud Island
+231354 Samal Island|Samal*
+   751 Samal Island*
     24 Mindanao|Mindanao Island*
 336474 Luzon* + Samar* + Leyte* + Mindoro* + Masbate Island|Masbate* + Negros Island|Negros* + Cebu* + Bohol* + Panay*
 328632 Negros Island|Negros* + Cebu* + Bohol* + Panay*
 185411 Sibuyan Island|Sibuyan*
    500 Sibuyan Island*
-313293 Bantayan Island|Bantayan*
+274688 Romblon Islands*
+  1559 Romblon Island*
+313293 Bantayan Islands*
   1263 Bantayan Island*
 269604 Tablas Island|Tablas*
    375 Tablas Island*
 316039 Panay*
 294974 Guimaras*
    422 Guimaras Island*
-    69 Panay|Panay Island*
+    69 Panay Island*
 319745 Negros Island|Negros* + Cebu* + Bohol*
 319743 Cebu* + Bohol*
 315641 Bohol*
@@ -5572,6 +5640,8 @@
 334838 Palawan (island)|Palawan*
     68 Palawan (island)|Palawan Island*
 342931 Borneo*
+289068 Sibutu Islands*
+  1353 Sibutu Island*
      8 Borneo|Borneo Island*
 188243 Pantelleria*
   1555 Pantelleria|Pantelleria Island*
@@ -6158,10 +6228,12 @@
     29 Banks Island*
 329681 Victoria Island (Canada)|Victoria*
     13 Victoria Island (Canada)|Victoria Island*
+324227 Tierra del Fuego*
+    33 Isla Grande de Tierra del Fuego*
 338557 Baffin Island|Baffin*
     10 Baffin Island*
 302012 Marajó*
-    69 Marajó|Marajó Island*
+    39 Marajó|Marajó Island*
 287141 Revillagigedo Island|Revillagigedo*
    159 Revillagigedo Island*
 301309 Vancouver Island|Vancouver*
