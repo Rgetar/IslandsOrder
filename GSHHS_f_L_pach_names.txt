@@ -3455,7 +3455,7 @@
   2185 Warilau Island
 187801 Baun
   1343 Baun Island
-    94 
+    94 Tanahbesar* + Kola Island|Kola* + Kobroor* + Maikoor* + Koba Island|Koba* + Trangan*
 304933 Pelagie Islands*
   7879 Linosa*
 294745 Lampedusa* + Lampione*
@@ -5484,7 +5484,21 @@
 186926 Camiguin de Babuyanes|Camiguin* + Pamoctan Island|Pamoctan*
  22304 Pamoctan Island*
    990 Camiguin de Babuyanes|Camiguin Island*
-307904 Laut Kecil Islands*
+307904 Laut Kecil Islands|Laut Kecil* + Marabatua
+200267 Kepulauan Marabatua
+ 40188 Danauwan Island
+200266 Marabatuan + Barat + Payungpayungan
+ 46691 Payungpayungan Island
+200265 Marabatuan + Barat
+ 92202 Barat Island
+ 12366 Marabatuan Island
+305593 Laut Kecil Islands*
+  6659 Kadapongan Island
+297345 Matasiri + Kalambau
+246798 Kalambau
+  4821 Kalambau Island
+276203 Matasiri
+  2802 Matasiri Island
 259322 Apo Reef*
 326108 Cuyo Archipelago*
 317747 South Natuna*
@@ -5510,7 +5524,7 @@
 196463 Balesin Island|Balesin*
   7907 Balesin Island*
  66459 Tanguingui Island (Cebu)|Tanguingui Island*
-306470 Tahau
+306470 Pearl Bank
 210275 Bolod Islands
  34848 East Bolod Island
  28077 West Bolod Island
@@ -5524,6 +5538,7 @@
   8223 Suluan Island*
 187815 Homonhon*
   1349 Homonhon Island*
+ 24441 Aliguay Island*
 316399 Laparan Group
 330747 Mindanao* + Sulu Archipelago|Sulu*
 324989 Sulu Archipelago*
@@ -5991,7 +6006,7 @@
 323477 Simeulue*
   6759 Menshikov Island*
 291297 Lougheed Island|Lougheed*
-164568 
+164568 Etna Bank
  43390 Berhala Island (Malacca Strait)|Berhala Island*
  65325 Kalogeroi (islets)|Kalogeroi*
 288906 Jemur Island|Jemur*
