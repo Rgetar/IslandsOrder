@@ -5541,6 +5541,33 @@
  24441 Aliguay Island*
 316399 Laparan Group
 330747 Mindanao* + Sulu Archipelago|Sulu*
+286408 Dammai + Singaan + Dasaan + Bambannan + Lahat-Lahat + Mamanoc + Bilangan + Walan
+ 35771 Walan Island
+286407 Dammai + Singaan + Dasaan + Bambannan + Lahat-Lahat + Mamanoc + Bilangan
+278819 Bambannan + Lahat-Lahat + Mamanoc + Bilangan
+244728 Bilangan
+ 61396 
+244727 
+244726 
+153038 
+133523 
+ 38920 Bilangan Island
+278818 Bambannan + Lahat-Lahat + Mamanoc
+ 25406 Mamanoc Island
+200785 Bambannan + Lahat-Lahat
+ 70702 
+200784 
+ 55565 Lahat-Lahat Island
+ 13035 Bambannan Island
+266409 Dammai + Singaan + Dasaan
+202136 Singaan + Dasaan
+ 22257 Dasaan Island
+ 14969 Singaan Island
+196519 Dammai
+  7958 Dammai Island
+260098 Datubato Islands
+ 23021 Selinog Island*
+204466 Sulade Island
 324989 Sulu Archipelago*
 201278 Sibago + Langil
  13914 Langil Island
@@ -5592,19 +5619,72 @@
  46644 Olanivan Island
   2465 Sarangani Island*
   1943 Balut Island*
+278237 Lajanosa + Mamon + Antokon + Anajauan
+ 20449 Anajauan Island
+209326 Lajanosa + Mamon + Antokon
+209325 Mamon + Antokon
+ 79726 Antokon Island
+ 26392 Mamon Island
+ 15418 Lajanosa Island
 186296 Camiguin* + Mantigue*
  98354 Mantigue Island*
    773 Camiguin Island*
+273258 Bongo
+  3557 Bongo Island
+128787 Pandilusan Island
+ 25673 Halian Island
+193977 Gibusong Island|Gibusong* + Little Gibusong
+ 24444 Little Gibusong Island
+  5433 Gibusong Island*
+197875 Manalipa Island|Manalipa* + Little Manalipa
+ 81766 Little Manalipa Island
+  9494 Manalipa Island*
+207277 Tumalutap + Sinunug
+ 51697 Sinunug Island
+ 22831 Tumalutap Island
+214396 Sumilon
+105089 
+ 36108 Sumilon Island
+224051 Murcielagos Island|Murcielagos* + Bayangan
+112263 Bayangan Island
+ 58831 Murcielagos Island*
 311339 Siargao* + Bucas Grande*
 301462 Bucas Grande*
   1183 Bucas Grande Island*
 305164 Siargao*
    530 Siargao Island*
+ 51574 Paniguian Island
+227169 Nagubat Island|Nagubat* + Dijut
+ 83739 Dijut Rock
+ 67192 Nagubat Island*
+228031 Bayasa Islands
+104775 
+ 69533 
+ 68163 Basul Island
+129354 
+ 26006 Auqui Island
+199841 Great Santa Cruz Island|Great Santa Cruz* + Little Santa Cruz Island|Little Santa Cruz*
+ 27587 Little Santa Cruz Island*
+ 11858 Great Santa Cruz Island*
 295700 Dinagat Islands*
    347 Dinagat Island*
+ 36919 Buluan Island
+211177 Ligid Islands
+ 82235 Little Liguid Island
+ 29910 Big Liguid Island
   2905 Talikud Island
+ 19528 Lapinigan Island
+276016 Sacol*
+  2396 Sacol Island*
+  9047 Tictabon Island
+  4599 Hinatuan Island
 231354 Samal Island|Samal*
    751 Samal Island*
+  7888 Igat Island
+186590 Olutanga*
+   884 Olutanga Island*
+  4623 Condona Island
+ 14891 Kabo Island, Philippines|Kabo Island*
     24 Mindanao|Mindanao Island*
 336474 Luzon* + Samar* + Leyte* + Mindoro* + Masbate Island|Masbate* + Negros Island|Negros* + Cebu* + Bohol* + Panay*
 328632 Negros Island|Negros* + Cebu* + Bohol* + Panay*
