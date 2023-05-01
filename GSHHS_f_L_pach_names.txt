@@ -5688,17 +5688,110 @@
     24 Mindanao|Mindanao Island*
 336474 Luzon* + Samar* + Leyte* + Mindoro* + Masbate Island|Masbate* + Negros Island|Negros* + Cebu* + Bohol* + Panay*
 328632 Negros Island|Negros* + Cebu* + Bohol* + Panay*
-185411 Sibuyan Island|Sibuyan*
+293815 Carnaza Island|Carnaza* + Maria + Manocmanoc + Gato Island|Gato*
+ 91933 Gato Island*
+278978 Carnaza Island|Carnaza* + Maria + Manocmanoc
+244617 Manocmanoc
+114315 
+244616 
+133116 
+132902 Manocmanoc Island
+200455 Carnaza Island|Carnaza* + Maria
+ 91386 Maria Island
+ 12649 Carnaza Island*
+ 51307 Baliguian Island*
+203830 Carlota Island|Carlota* + Isabel Island (Philippines)|Isabel*
+ 17937 Isabel Island (Philippines)|Isabel Island*
+ 17386 Carlota Island*
+ 16952 Pamilacan Island*
+185411 Sibuyan Island|Sibuyan* + Cresta De Gallo
+ 45531 Cresta De Gallo Island
    500 Sibuyan Island*
+291976 Banton Island|Banton* + Polloc + Bantoncillo Island|Bantoncillo* + Gakot + Simara + Kamiligan
+191570 Simara + Kamiligan
+123190 Kamiligan Island
+  3540 Simara Island
+259284 Banton Island|Banton* + Polloc + Bantoncillo Island|Bantoncillo* + Gakot
+215176 Bantoncillo Island|Bantoncillo* + Gakot
+123957 Gakot Rock
+ 37685 Bantoncillo Island*
+190608 Banton Island|Banton* + Polloc
+ 93230 Polloc Island
+  2876 Banton Island|Banton*
+  8080 Batbatan Island
+114045 
+  4410 Kinatarkan|Kinatarkan Island*
 274688 Romblon Islands*
+ 10712 Cobrador Island
+188257 Romblon Island|Romblon* + Ginablan + Alfonso XIII + Bang-og + Logbon + Alad
+  9796 Alad Island
+188256 Romblon Island|Romblon* + Ginablan + Alfonso XIII + Bang-og + Logbon
+106281 
+188255 
+ 17011 Logbon Island
+188254 Romblon Island|Romblon* + Ginablan + Alfonso XIII + Bang-og
+ 76602 Bang-og Island
+188253 Romblon Island|Romblon* + Ginablan + Alfonso XIII
+ 88845 Alfonso XIII Island
+188252 Romblon Island|Romblon* + Ginablan
+120639 Ginablan Island
   1559 Romblon Island*
 313293 Bantayan Islands*
   1263 Bantayan Island*
 269604 Tablas Island|Tablas*
    375 Tablas Island*
 316039 Panay*
+298238 Islas de Gigantes*
+ 80664 Colebra Island*
+  2923 Carabao Island, Romblon|Carabao Island*
+ 15627 Nabunot Island*
+ 22103 Talunan-an Island*
+ 18405 Olotayan Island
 294974 Guimaras*
    422 Guimaras Island*
+270684 Igbon Island|Igbon* + Bulubadiangan Island|Bulubadiangan* + Danao-Danao Island|Danao-Danao* + Agho Island|Agho* + Malangabang* + Chico Island (Iloilo)|Chico* + Botlog Island|Botlog*
+ 30096 Botlog Island*
+270683 Igbon Island|Igbon* + Bulubadiangan Island|Bulubadiangan* + Danao-Danao Island|Danao-Danao* + Agho Island|Agho* + Malangabang* + Chico Island (Iloilo)|Chico*
+199821 Malangabang* + Chico Island (Iloilo)|Chico*
+113791 Chico Island (Iloilo)|Chico Island*
+ 11817 Malangabang Island*
+195017 Igbon Island|Igbon* + Bulubadiangan Island|Bulubadiangan* + Danao-Danao Island|Danao-Danao* + Agho Island|Agho*
+ 55081 Agho Island*
+195016 Igbon Island|Igbon* + Bulubadiangan Island|Bulubadiangan* + Danao-Danao Island|Danao-Danao*
+ 46037 Danao-Danao Island*
+195015 Igbon Island|Igbon* + Bulubadiangan Island|Bulubadiangan*
+ 35295 Bulubadiangan Island*
+  6453 Igbon Island*
+  4470 Tagubanhan Island*
+193596 Sicogon* + Tumaguin*
+ 50110 Tumaquin Island*
+  5094 Sicogon Island*
+255486 Bayas Islets*
+222021 Manipulon Island|Manipulon* + Magosipal Islet|Magosipal*
+ 74003 Magosipal Islet*
+ 53330 Manipulon Island*
+206590 Bayas Island|Bayas*
+131571 
+ 21684 Bayas Island*
+193840 Boracay*
+  5308 Boracay Island*
+215356 Calagnaan Island|Calagnaan*
+  3319 Calagnaan Island*
+194572 Binuluangan* + Tabugon
+ 24711 Tabugon Island
+  6003 Binuluangan Island*
+257115 Concepcion Islands*
+ 29079 Sombrero Island (Iloilo)|Sombrero Island*
+257114 Pan de Azucar Island (Iloilo)|Pan de Azucar* + Tago Island|Tago* + Bag-o Isi Island|Bag-o Isi* + Magaisi Chico + Naborot
+ 58166 Naborot Island
+257113 Pan de Azucar Island (Iloilo)|Pan de Azucar* + Tago Island|Tago* + Bag-o Isi Island|Bag-o Isi* + Magaisi Chico
+213451 Bag-o Isi Island|Bag-o Isi* + Magaisi Chico
+ 87868 Magaisi Chico Island
+ 34259 Bag-o Isi Island*
+192194 Pan de Azucar Island (Iloilo)|Pan de Azucar* + Tago Island|Tago*
+  7242 Tago Island*
+  3989 Pan de Azucar Island (Iloilo)|Pan de Azucar Island*
+  9310 Binanan Island
     69 Panay Island*
 319745 Negros Island|Negros* + Cebu* + Bohol*
 319743 Cebu* + Bohol*
