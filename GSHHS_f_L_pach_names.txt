@@ -5532,6 +5532,12 @@
 121831 
    647 Siquijor|Siquijor Island*
 315203 Polillo Islands*
+  1993 Jomalig Island*
+272940 Patnanungan Island|Patnanungan* + Palasan
+192394 Palasan
+  4111 Palasan Island
+187969 Patnanungan Island|Patnanungan*
+  1432 Patnanungan Island*
    386 Polillo Island*
 266057 Homonhon* + Suluan*
 196742 Suluan*
@@ -5670,8 +5676,8 @@
    347 Dinagat Island*
  36919 Buluan Island
 211177 Ligid Islands
- 82235 Little Liguid Island
- 29910 Big Liguid Island
+ 82235 Little Ligid Island
+ 29910 Big Ligid Island
   2905 Talikud Island
  19528 Lapinigan Island
 276016 Sacol*
@@ -5763,9 +5769,12 @@
  35295 Bulubadiangan Island*
   6453 Igbon Island*
   4470 Tagubanhan Island*
+122980 Bocot Island*
 193596 Sicogon* + Tumaguin*
  50110 Tumaquin Island*
   5094 Sicogon Island*
+104761 Bag-o Abo Island*
+ 40155 Magalumbi Island*
 255486 Bayas Islets*
 222021 Manipulon Island|Manipulon* + Magosipal Islet|Magosipal*
  74003 Magosipal Islet*
@@ -5777,6 +5786,8 @@
   5308 Boracay Island*
 215356 Calagnaan Island|Calagnaan*
   3319 Calagnaan Island*
+ 83323 Pangalan Islet*
+133109 Nilidlaran Island
 194572 Binuluangan* + Tabugon
  24711 Tabugon Island
   6003 Binuluangan Island*
@@ -5791,13 +5802,20 @@
 192194 Pan de Azucar Island (Iloilo)|Pan de Azucar* + Tago Island|Tago*
   7242 Tago Island*
   3989 Pan de Azucar Island (Iloilo)|Pan de Azucar Island*
+ 76717 Malaiya Island
   9310 Binanan Island
+ 92371 Lacdian Island
     69 Panay Island*
 319745 Negros Island|Negros* + Cebu* + Bohol*
+ 30259 Balicasag Island
 319743 Cebu* + Bohol*
 315641 Bohol*
+  1468 Panglao Island*
    140 Bohol Island*
 307078 Cebu*
+301071 Olango Island Group*
+  5191 Olango Island*
+  1876 Mactan Island*
    125 Cebu island*
 313202 Negros Island|Negros*
     64 Negros Island*
@@ -5807,6 +5825,17 @@
 257457 Ticao Island|Ticao*
    637 Ticao Island*
    150 Masbate Island*
+298344 Caluya Islands*
+ 14054 Sibolon Island*
+289899 
+255862 
+276293 Sibay + Caluya Island|Caluya* + Sibato
+190573 Caluya Island|Caluya* + Sibato
+ 12779 Sibato Island
+190572 Caluya Island|Caluya*
+173354 
+  2848 Caluya Island*
+  2266 Sibay Island
 300894 Burias (island)|Burias*
    529 Burias (island)|Burias Island*
 299941 Lubang Islands*
@@ -5814,18 +5843,80 @@
 305440 Marinduque*
    309 Marinduque Island*
 296987 Camotes Islands*
+  2556 Ponson Island*
+274963 Poro Island|Poro* + Pacijan Island|Pacijan* + Tulang Island|Tulang*
+ 24097 Tulang Island*
+187859 
+132590 
+187858 
+  1419 Pacijan Island*
+  1381 Poro Island*
 315297 Mindoro*
+291230 Semirara Island|Semirara*
+  1945 Semirara Island*
     78 Mindoro Island*
 328477 Luzon* + Samar* + Leyte*
 325851 Samar* + Leyte*
+  2625 Capul Island*
+284962 Maripipi Island|Maripipi*
+  2837 Maripipi Island*
+  2921 Dalupiri Island (Samar)|Dalupiri Island*
+190302 Batag
+  2674 Batag Island
+190073 Buad Island|Buad*
+  2533 Buad Island*
+273507 Daram Island|Daram*
+  1388 Daram Island*
 286175 Leyte*
+   466 Biliran Island*
+   857 Panaon Island*
     97 Leyte Island*
 303786 Samar*
+  3807 Calicoan Island*
+190426 Laoang + Darahasan
+  9782 Darahasan Island
+  2753 Laoang Island
     65 Samar Island*
 328476 Luzon*
+  3896 Cagbalete Island*
+295583 Catanduanes*
+   236 Catanduanes Island*
+  3946 Verde Island*
+  7747 Hermana Mayor Island
+276351 Maricaban Island|Maricaban*
+  2712 Maricaban Island*
+180154 Taal Island*
+188728 Rapu-rapu Island|Rapu-rapu*
+  1777 Rapu-rapu Island*
+180139 Talim Island*
+   896 Alabat Island*
+188093 Batan Island, Albay|Batan*
+  1475 Batan Island, Albay|Batan Island*
+295352 Quinalasag
+  2550 Quinalasag Island
+  3356 San Miguel Island (Philippines)|San Miguel Island*
+  1672 Cabarruyan Island*
+188565 Cagraray*
+  1702 Cagraray Island*
     22 Luzon|Luzon Island*
 343337 Borneo* + Palawan (island)|Palawan*
 334838 Palawan (island)|Palawan*
+320835 Calamian Islands*
+298503 Culion Island|Culion*
+   561 Culion Island*
+276658 Coron Island|Coron*
+  1661 Coron Island*
+   297 Busuanga Island*
+307977 Balabac Island|Balabac*
+   646 Balabac Island*
+307619 Linapacan Island|Linapacan*
+  1326 Linapacan Island*
+275058 Dumaran Island|Dumaran*
+   633 Dumaran Island*
+290652 Bugsuk Island|Bugsuk* + Pandanan
+  2380 Pandanan Island
+  1215 Bugsuk Island*
+  2087 Maytiguid Island
     68 Palawan (island)|Palawan Island*
 342931 Borneo*
 289068 Sibutu Islands*
