@@ -5846,7 +5846,7 @@
   2556 Ponson Island*
 274963 Poro Island|Poro* + Pacijan Island|Pacijan* + Tulang Island|Tulang*
  24097 Tulang Island*
-187859 
+187859 Poro Island|Poro* + Pacijan Island|Pacijan*
 132590 
 187858 
   1419 Pacijan Island*
@@ -6353,7 +6353,7 @@
   1138 Buckingham Island*
 270048 Graham Island (Nunavut)|Graham*
    242 Graham Island (Nunavut)|Graham Island*
-332222 Melville Island (Northwest Territories and Nunavut)|Melville* + Prince Patrick Island|Prince Patrick* + Mackenzie King Island|Mackenzie King* + Brock Island|Brock* + Eglinton Island|Eglinton* + Borden Island|Borden* + Emerald Isle (Northwest Territories)|Emerald* + Fitzwilliam Owen Island|Fitzwilliam Owen* + Eight Bears Island|Eight Bears* + Byam Martin Island|Byam Martin*
+332222 Parry Islands*
 184400 Byam Martin Island|Byam Martin*
    269 Byam Martin Island*
 330885 Melville Island (Northwest Territories and Nunavut)|Melville* + Prince Patrick Island|Prince Patrick* + Mackenzie King Island|Mackenzie King* + Brock Island|Brock* + Eglinton Island|Eglinton* + Borden Island|Borden* + Emerald Isle (Northwest Territories)|Emerald* + Fitzwilliam Owen Island|Fitzwilliam Owen* + Eight Bears Island|Eight Bears*
@@ -6399,6 +6399,9 @@
    872 Santa Catalina Island (California)|Santa Catalina Island*
 297544 Guafo Island|Guafo*
    911 Guafo Island*
+291162 Cayo Cinco Palos
+212956 Laje de Santos
+313971 
 307493 Islas de la Bahía|Bay Islands*
 288856 Utila*
   2159 Utila Island*
@@ -6415,7 +6418,11 @@
    452 Isla de los Estados*
 316484 Nottingham Island|Nottingham* + Salisbury Island (Nunavut)|Salisbury*
 305142 Salisbury Island (Nunavut)|Salisbury*
+   342 Salisbury Island (Nunavut)|Salisbury Island*
 311750 Nottingham Island|Nottingham*
+211433 Fraser Island (Nunavut)|Fraser*
+  2819 Fraser Island (Nunavut)|Fraser Island*
+   244 Nottingham Island*
 362958 Greenland* + Queen Elizabeth Islands|Queen Elizabeth* + Ellef Ringnes Island|Ellef Ringnes* + King Christian Island|King Christian*
 203718 
 362772 
@@ -6423,23 +6430,155 @@
 184949 King Christian Island|King Christian*
    389 King Christian Island*
 308426 Ellef Ringnes Island|Ellef Ringnes*
+  1248 Thor Island (Nunavut)|Thor Island*
+  2289 
     70 Ellef Ringnes Island*
 362660 Greenland* + Queen Elizabeth Islands|Queen Elizabeth*
-187243 
+187243 Lowther Island|Lowther* + Garrett Island (Nunavut)|Garrett*
+  4848 Garrett Island (Nunavut)|Garrett Island*
+  1096 Lowther Island*
 362659 
+270417 Meighen Island|Meighen* + Perley
+194403 Perley
+  5841 Perley Island
+184559 Meighen Island|Meighen*
+   307 Meighen Island*
+362658 
+317102 Amund Ringnes Island|Amund Ringnes* + Haig-Thomas Island|Haig-Thomas* + Cornwall Island (Nunavut)|Cornwall*
+286370 Cornwall Island (Nunavut)|Cornwall*
+   177 Cornwall Island (Nunavut)|Cornwall Island*
+314606 Amund Ringnes Island|Amund Ringnes* + Haig-Thomas Island|Haig-Thomas*
+  1833 Haig-Thomas Island*
+310171 Amund Ringnes Island|Amund Ringnes*
+   110 Amund Ringnes Island*
+362384 
+  2554 Bontekoe Island
+362338 
+173884 
+362337 
+   618 Coburg Island*
+362005 
+ 14895 
+361937 
 329037 Queen Elizabeth Islands*
+296719 Fay Islands*
+327855 
+  3476 Baring Island
+327854 
+ 23200 Des Voeux Island*
+326546 
 324836 Bathurst Island (Nunavut)|Bathurst* + Cornwallis Island (Nunavut)|Cornwallis*
+  9026 Houston Stewart Island*
+324835 
+ 15992 Seymour Island (Nunavut)|Seymour Island*
+324834 
+   910 Griffith Island (Nunavut)|Griffith Island*
+322943 
+  7006 Somerville Island
+320784 
+  7452 Baker Island
+320783 
+190210 Crozier
+ 16742 
+  2609 Crozier Island
+320782 
+  8842 Browne Island*
+320781 
+133135 Ikkaguaq Island
+317413 
+191015 Milne
+  3153 Milne Island
+317412 
 303657 Cornwallis Island (Nunavut)|Cornwallis*
+297384 Little Cornwallis Island|Little Cornwallis*
+   551 Little Cornwallis Island*
     95 Cornwallis Island (Nunavut)|Cornwallis Island*
 315453 Bathurst Island (Nunavut)|Bathurst*
+  3767 Truro Island*
+220453 Cheyne Islands*
+ 75157 North Island
+220452 Middle + South
+100984 South Island
+ 49453 Middle Island
+296584 Helena Island|Helena* + Berkeley Islands|Berkeley*
+276911 Berkeley Islands*
+  2023 Sherard Osborn Island
+185866 Helena Island|Helena*
+   640 Helena Island*
+196597 Neal Islands
+184445 Cameron Island|Cameron*
+   281 Cameron Island*
+295714 Île Vanier|Vanier* + Massey Island|Massey* + Île Marc|Marc* + Pauline + Alexander Island (Nunavut)|Alexander*
+185294 Alexander Island (Nunavut)|Alexander*
+   475 Alexander Island (Nunavut)|Alexander Island*
+270586 Île Vanier|Vanier* + Massey Island|Massey* + Île Marc|Marc* + Pauline
+  9057 Île Pauline
+270585 Île Vanier|Vanier* + Massey Island|Massey* + Île Marc|Marc*
+185494 Massey Island|Massey* + Île Marc|Marc*
+  1982 Île Marc*
+   524 Massey Island*
+184421 Île Vanier|Vanier*
+   274 Île Vanier*
+196251 Kalivik
+  7693 Kalivik Island
+  5767 Ricards Island
+  8702 Wood Island
+272673 Bradford
+  3630 Bradford Island
+  1590 
+  8474 
+199716 
+  7262 
+  3888 Loney Island
     57 Bathurst Island (Nunavut)|Bathurst Island*
-326545 Ellesmere Island|Ellesmere* + Axel Heiberg Island|Axel Heiberg* + Devon Island|Devon*
+326545 Ellesmere Island|Ellesmere* + Sverdrup Islands|Sverdrup* + Devon Island|Devon*
+271021 Hyde Parker Island|Hyde Parker* + Mists + John Barrow Island|John Barrow*
+  6887 John Barrow Island*
+194927 Hyde Parker Island|Hyde Parker* + Mists
+ 13504 Isle of Mists
+  6380 Hyde Parker Island*
+325829 
+276792 Baillie-Hamilton Island|Baillie-Hamilton* + Dundas Island (Nunavut)|Dundas* + Margaret Island (Nunavut)|Margaret*
+189216 Dundas Island (Nunavut)|Dundas* + Margaret Island (Nunavut)|Margaret*
+  5622 Margaret Island (Nunavut)|Margaret Island*
+  2058 Dundas Island (Nunavut)|Dundas Island*
+   697 Baillie-Hamilton Island*
+325828 
+188939 Table Island|Table* + Exmouth Island|Exmouth* + Ekins Island|Ekins*
+  6762 Ekins Island*
+188938 Table Island|Table* + Exmouth Island|Exmouth*
+  6946 Exmouth Island*
+  1893 Table Island*
+323618 
+ 21894 Orne Island
+321559 
+ 19359 Sounding Island
+321558 
 319855 Devon Island|Devon*
+189893 Crescent Island (Nunavut)|Crescent*
+  2430 Crescent Island (Nunavut)|Crescent Island*
+191759 Spit Island|Spit*
+  3674 Spit Island*
+198353 Fairholme Island|Fairholme* + Kerr + Toms
+198352 Kerr + Toms
+ 42280 Toms Island
+ 10025 Kerr Island
+  6999 Fairholme Island*
+  5041 Princess Royal Island (Nunavut)|Princess Royal Island*
+  9388 
+  5270 Pioneer Island (Nunavut)|Pioneer Island*
+  9651 Dyer Island
     32 Devon Island*
-321557 Ellesmere Island|Ellesmere* + Axel Heiberg Island|Axel Heiberg*
-311473 Axel Heiberg Island|Axel Heiberg*
+321557 Ellesmere Island|Ellesmere* + Sverdrup Islands|Sverdrup*
+311473 Sverdrup Islands*
+  1189 Bjarnason Island*
+  1584 Ulvingen Island*
     37 Axel Heiberg Island*
 319173 Ellesmere Island|Ellesmere*
+   663 Stor Island*
+ 14163 Hat Island (Sverdrup Islands)|Hat Island*
+   419 North Kent Island*
+
     15 Ellesmere Island*
 361936 Greenland*
      6 Greenland|Greenland Island*
