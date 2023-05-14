@@ -6668,11 +6668,63 @@
 276486 Qallunaat Island|Qallunaat*
   1818 Qallunaat Island*
   1444 Tuttorqortooq Island*
+256229 Lynn Island|Lynn*
+   816 Lynn Island*
+  2912 Karrat Island
+184991 Hendrik Island|Hendrik*
+   399 Hendrik Island*
+299753 Milne Land* + Danmark Island|Danmark* + Storo (Greenland)|Storo*
+   867 Storo (Greenland)|Storo Island*
+284805 Milne Land* + Danmark Island|Danmark*
+284804 
+259564 
+259562 Danmark Island|Danmark*
+  1541 Danmark Island*
+   136 Milne Land|Milne Land Island*
 288712 Danske Islands*
+  2282 Elison Island
+  3360 Carl Heger Island
+312746 Traill Island|Traill* + Geographical Society Island|Geographical Society* + Ymer Island|Ymer*
+   173 Ymer Island*
+270144 Geographical Society Island|Geographical Society*
+   208 Geographical Society Island*
+   146 Traill Island*
+  1142 Ella Island*
+280145 Saqqarlersuaq Island|Saqqarlersuaq* + Kullorsuaq Island|Kullorsuaq*
+  3895 Kullorsuaq Island*
+247834 Saqqarlersuaq Island|Saqqarlersuaq*
+  2544 Saqqarlersuaq Island*
+296720 Qaarsorsuatsiaq Island|Qaarsorsuatsiaq*
+  3222 Qaarsorsuatsiaq Island*
 275921 Gamma Island (Greenland)|Gamma*
    787 Gamma Island (Greenland)|Gamma Island*
 298951 Upernivik Island|Upernivik*
    461 Upernivik Island*
+  7142 Ulla Island
+301610 Qeqertarsuaq Island (Nuuk)|Qeqertarsuaq* + Qoornuup Qeqertarsua Island|Qoornuup Qeqertarsua* + Sermitsiaq Island|Sermitsiaq*
+285752 Qoornuup Qeqertarsua Island|Qoornuup Qeqertarsua* + Sermitsiaq Island|Sermitsiaq*
+283122 Sermitsiaq Island|Sermitsiaq*
+  1570 Sermitsiaq Island*
+265374 Qoornuup Qeqertarsua Island|Qoornuup Qeqertarsua*
+   979 Qoornuup Qeqertarsua Island*
+186141 Qeqertarsuaq Island (Nuuk)|Qeqertarsuaq*
+   722 Qeqertarsuaq Island (Nuuk)|Qeqertarsuaq Island*
+186535 Hazenland*
+   861 Hazenland Island*
+187167 Sabine Island|Sabine*
+  1071 Sabine Island*
+261440 Koldewey Islands*
+   426 Store Koldewey|Store Koldewey Island*
+278118 East Jensen Island|East Jensen* + Borup Island|Borup*
+  1009 Borup Island*
+209467 East Jensen Island|East Jensen*
+   997 East Jensen Island*
+316098 Tuttutooq
+   886 Tuttutooq Island
+293194 Qeqertarssdaq*
+   778 Qeqertarssdaq|Qeqertarssdaq Island*
+   570 Sverdrup Island (Greenland)|Sverdrup Island*
+   235 Nares Land|Nares Land Island*
      6 Greenland|Greenland Island*
 197671 Grey Goose Island|Grey Goose*
   9232 Grey Goose Island*
