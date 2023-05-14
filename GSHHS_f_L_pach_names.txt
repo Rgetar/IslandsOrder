@@ -7108,7 +7108,7 @@
 219739 Pulau Pasir + Pulau Munari
  75648 Pulau Munari
  47681 Pulau Pasir
- 11357 Gorgona (Italy)|Gorgona*
+ 11357 Gorgona (Italy)|Gorgona Island*
 304948 Pontine Islands*
 280437 Palmarola*
  14958 Palmarola|Palmarola Island*
@@ -7153,13 +7153,44 @@
 313357 Heuksando*
   3133 Heuksando|Heuksando Island*
 296063 Heiberg Islands*
+289929 Qizhou Liedao Islands
  68003 Sabira Island
   4187 Sirri Island*
 190798 Faror Island|Faror* + Little Faror
  21352 Little Faror Island
   3015 Faror Island*
-  5006 Hon Son
+311457 Abu 'Isa + Dahrat ed Dak Hillat + Miyum + Darraka + Dahrat Ghab + Ed Domesh Shesh + Hagar + Dahrat `Abid + Sha`ab Loka + Karam Masamirit + Loka + Dibsel
+292090 Sha`ab Loka + Karam Masamirit + Loka + Dibsel
+259526 Karam Masamirit + Loka + Dibsel
+214704 Loka + Dibsel
+ 41555 Dibsel Island
+ 36814 Loka Island
+209061 Karam Masamirit
+ 89794 Karam Masamirit Island
+ 25912 
+ 16131 Sha`ab Loka Reef
+308186 Abu 'Isa + Dahrat ed Dak Hillat + Miyum + Darraka + Dahrat Ghab + Ed Domesh Shesh + Hagar + Dahrat `Abid
+215918 Hagar + Dahrat `Abid
+ 45797 Dahrat `Abid Island
+ 39270 Hagar Islands
+305266 Abu 'Isa + Dahrat ed Dak Hillat + Miyum + Darraka + Dahrat Ghab + Ed Domesh Shesh
+ 30470 Ed Domesh Shesh Island
+293582 Abu 'Isa + Dahrat ed Dak Hillat + Miyum + Darraka + Dahrat Ghab
+ 24439 Dahrat Ghab Island
+293581 Abu 'Isa + Dahrat ed Dak Hillat + Miyum + Darraka
+ 24805 Darraka Island
+278732 Abu 'Isa + Dahrat ed Dak Hillat + Miyum
+ 61547 Miyum Island
+203250 Abu 'Isa + Dahrat ed Dak Hillat
+ 40424 Dahrat ed Dak Hillat Island
+ 16540 Abu 'Isa Island
+  5006 Hon Son Island
+206704 South Twin + North Twin
+ 33005 North Twin Island
+ 21862 South Twin Island
   1598 Morzhovets Island*
+260125 Haiyang
+  3527 Haiyang Island
 323871 Lesser Sunda Islands*
   2353 Palu'e|Palu'e Island*
 320915 Sumbawa* + Lombok* + Flores* + Alor Archipelago|Alor*
@@ -7227,9 +7258,35 @@
   1055 Sangeang Island*
    631 Moyo Island*
     59 Sumbawa Island*
+259586 Aqrab + Karb
+ 80868 Karb Islands
+215032 Aqrab Islands
+315659 Talla Talla Saqir + Talla Talla Kebir + Tamarshira + Barr Musa Saghir + Barr Musa Kabir + Burkut + Z̧ahrat 'Asīs + Sayl `Ada Kabir
+278680 Sayl `Ada Kabir
+204628 
+ 24397 Sayl `Ada Kabir Island
+ 18590 
+202996 
+ 23337 
+ 16182 
+315658 Talla Talla Saqir + Talla Talla Kebir + Tamarshira + Barr Musa Saghir + Barr Musa Kabir + Burkut + Z̧ahrat 'Asīs
+ 29975 Z̧ahrat 'Asīs Island
+312842 Talla Talla Saqir + Talla Talla Kebir + Tamarshira + Barr Musa Saghir + Barr Musa Kabir + Burkut
+202581 Barr Musa Kabir + Burkut
+ 53605 Burkut Island
+ 15616 Barr Musa Kabir Island
+309904 Talla Talla Saqir + Talla Talla Kebir + Tamarshira + Barr Musa Saghir
+ 21355 Barr Musa Saghir Island
+301159 Talla Talla Saqir + Talla Talla Kebir + Tamarshira
+ 28582 Tamarshira Island
+289194 Talla Talla Saqir + Talla Talla Kebir
+263354 Talla Talla Kebir
+ 10849 Talla Talla Kebir Island
+  6386 Talla Talla Saqir Island
 194308 Cù Lao Ré volcanic islands|Cù Lao Ré*
  25863 Cù-Lao Bai Island
   5753 Cù-Lao Ré Island
+117558 Jabuka (island)|Jabuka Island*
 261113 Anafi*
   2395 Anafi|Anafi Island*
 277375 Isole Tremiti*
