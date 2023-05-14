@@ -6423,9 +6423,9 @@
 211433 Fraser Island (Nunavut)|Fraser*
   2819 Fraser Island (Nunavut)|Fraser Island*
    244 Nottingham Island*
-362958 Greenland* + Queen Elizabeth Islands|Queen Elizabeth* + Coburg Island|Coburg* + Bontekoe + Amund Ringnes Island|Amund Ringnes* + Haig-Thomas Island|Haig-Thomas* + Cornwall Island (Nunavut)|Cornwall* + Meighen Island|Meighen* + Perley + Lowther Island|Lowther* + Garrett Island (Nunavut)|Garrett* + Ellef Ringnes Island|Ellef Ringnes* + King Christian Island|King Christian* + Henrik Krøyer Holme*
+362958 Greenland* + Queen Elizabeth Islands|Queen Elizabeth* + Coburg Island|Coburg* + Bontekoe + Amund Ringnes Island|Amund Ringnes* + Haig-Thomas Island|Haig-Thomas* + Cornwall Island (Nunavut)|Cornwall* + Meighen Island|Meighen* + Lowther Island|Lowther* + Garrett Island (Nunavut)|Garrett* + Ellef Ringnes Island|Ellef Ringnes* + King Christian Island|King Christian* + Henrik Krøyer Holme*
 203718 Henrik Krøyer Holme*
-362772 Greenland* + Queen Elizabeth Islands|Queen Elizabeth* + Coburg Island|Coburg* + Bontekoe + Amund Ringnes Island|Amund Ringnes* + Haig-Thomas Island|Haig-Thomas* + Cornwall Island (Nunavut)|Cornwall* + Meighen Island|Meighen* + Perley + Lowther Island|Lowther* + Garrett Island (Nunavut)|Garrett* + Ellef Ringnes Island|Ellef Ringnes* + King Christian Island|King Christian*
+362772 Greenland* + Queen Elizabeth Islands|Queen Elizabeth* + Coburg Island|Coburg* + Bontekoe + Amund Ringnes Island|Amund Ringnes* + Haig-Thomas Island|Haig-Thomas* + Cornwall Island (Nunavut)|Cornwall* + Meighen Island|Meighen* + Lowther Island|Lowther* + Garrett Island (Nunavut)|Garrett* + Ellef Ringnes Island|Ellef Ringnes* + King Christian Island|King Christian*
 313599 Ellef Ringnes Island|Ellef Ringnes* + King Christian Island|King Christian*
 184949 King Christian Island|King Christian*
    389 King Christian Island*
@@ -6433,15 +6433,14 @@
   1248 Thor Island (Nunavut)|Thor Island*
   2289 
     70 Ellef Ringnes Island*
-362660 Greenland* + Queen Elizabeth Islands|Queen Elizabeth* + Coburg Island|Coburg* + Bontekoe + Amund Ringnes Island|Amund Ringnes* + Haig-Thomas Island|Haig-Thomas* + Cornwall Island (Nunavut)|Cornwall* + Meighen Island|Meighen* + Perley + Lowther Island|Lowther* + Garrett Island (Nunavut)|Garrett*
+362660 Greenland* + Queen Elizabeth Islands|Queen Elizabeth* + Coburg Island|Coburg* + Bontekoe + Amund Ringnes Island|Amund Ringnes* + Haig-Thomas Island|Haig-Thomas* + Cornwall Island (Nunavut)|Cornwall* + Meighen Island|Meighen* + Lowther Island|Lowther* + Garrett Island (Nunavut)|Garrett*
 187243 Lowther Island|Lowther* + Garrett Island (Nunavut)|Garrett*
   4848 Garrett Island (Nunavut)|Garrett Island*
   1096 Lowther Island*
-362659 Greenland* + Queen Elizabeth Islands|Queen Elizabeth* + Coburg Island|Coburg* + Bontekoe + Amund Ringnes Island|Amund Ringnes* + Haig-Thomas Island|Haig-Thomas* + Cornwall Island (Nunavut)|Cornwall* + Meighen Island|Meighen* + Perley
-270417 Meighen Island|Meighen* + Perley
+362659 Greenland* + Queen Elizabeth Islands|Queen Elizabeth* + Coburg Island|Coburg* + Bontekoe + Amund Ringnes Island|Amund Ringnes* + Haig-Thomas Island|Haig-Thomas* + Cornwall Island (Nunavut)|Cornwall* + Meighen Island|Meighen*
+270417 Meighen Island|Meighen*
 194403 Perley
   5841 Perley Island
-184559 Meighen Island|Meighen*
    307 Meighen Island*
 362658 Greenland* + Queen Elizabeth Islands|Queen Elizabeth* + Coburg Island|Coburg* + Bontekoe + Amund Ringnes Island|Amund Ringnes* + Haig-Thomas Island|Haig-Thomas* + Cornwall Island (Nunavut)|Cornwall*
 317102 Amund Ringnes Island|Amund Ringnes* + Haig-Thomas Island|Haig-Thomas* + Cornwall Island (Nunavut)|Cornwall*
@@ -6636,8 +6635,44 @@
    546 Illorsuit Island*
 187473 John Murray Island|John Murray*
   1206 John Murray Island*
-289069 Schnauder Island|Schnauder*
+307687 Norske Islands|Norske* + Franske Islands|Franske*
+304959 Franske Islands*
+274460 Norske Islands*
+289069 Schnauder Island|Schnauder* + Achton Friis Islands|Achton Friis*
+263240 Achton Friis Islands*
+  6102 Achton Friis Island
+275729 Schnauder Island|Schnauder*
    948 Schnauder Island*
+  1473 Stephenson Island (Greenland)|Stephenson Island*
+296566 Saunders Island (Greenland)|Saunders* + Wolstenholme Island|Wolstenholme*
+276811 Wolstenholme Island|Wolstenholme*
+  2218 Wolstenholme Island*
+  1458 Saunders Island (Greenland)|Saunders Island*
+311466 Amdrup
+  3073 Amdrup Island
+273861 Uummannaq Island|Uummannaq*
+  4693 Uummannaq Island*
+  1128 Princess Dagmar Island*
+  1917 Little Pendulum Island*
+  2268 Castle Island (Greenland)|Castle Island*
+  2631 Franklin Island (Greenland)|Franklin Island*
+272343 Salliaruseq Island|Salliaruseq*
+  1338 Salliaruseq Island*
+189099 Lockwood Island|Lockwood*
+  1994 Lockwood Island*
+  3170 Jackson Island
+  3340 Luigi Amadeo Island
+307887 Appat Island|Appat*
+   920 Appat Island*
+313847 Tuttorqortooq Island|Tuttorqortooq* + Qallunaat Island|Qallunaat*
+276486 Qallunaat Island|Qallunaat*
+  1818 Qallunaat Island*
+  1444 Tuttorqortooq Island*
+288712 Danske Islands*
+275921 Gamma Island (Greenland)|Gamma*
+   787 Gamma Island (Greenland)|Gamma Island*
+298951 Upernivik Island|Upernivik*
+   461 Upernivik Island*
      6 Greenland|Greenland Island*
 197671 Grey Goose Island|Grey Goose*
   9232 Grey Goose Island*
