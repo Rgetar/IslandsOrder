@@ -1694,6 +1694,10 @@
 246548 Nanuku
  23996 Namena Lala*
 279651 Yanuca
+ 13682 Kia Island
+192978 Yadua + Yadua Tabu*
+ 25955 Yadua Tabu|Yadua Tabu Island*
+  4564 Yadua Island
 297209 Taveuni* + Viubani + Korolevu + Qamea* + Laucala* + Matagi Island|Matagi*
 276075 Qamea* + Laucala* + Matagi Island|Matagi*
  20009 Matagi Island*
@@ -1708,14 +1712,131 @@
 185314 
 156268 
    478 Taveuni|Taveuni Island*
-   105 Vanua Levu*
+  1612 Rabi Island*
+  5294 Yaqaga Island
+297051 Nadogo + Vatuki + Nakuci + Oadrau + Nukuira
+197306 Nukuira
+ 93220 
+  8865 Nukuira Island
+297050 Nadogo + Vatuki + Nakuci + Oadrau
+156550 Oadrau Island
+274035 Nadogo + Vatuki + Nakuci
+107764 Nakuci Island
+193393 Nadogo + Vatuki
+ 11608 Vatuki Island
+193392 Nadogo
+  4926 Nadogo Island
+ 19804 Kavewa Island
+ 26400 Tilagica Island
+122702 Vatukatolu Island
+199976 Cukini + Nukunuku
+ 32396 Nukunuku Island
+ 12015 Cukini Island
+205142 Galoa + Yanucagi + Vedrala Levu
+ 24443 Vedrala Levu Island
+205141 Galoa + Yanucagi
+ 48659 Yanucagi Island
+ 19280 Galoa Island
+ 84130 Nukuvadra Island
+198366 Macuata-i-Wai + Mavuva
+ 48610 Mavuva Island
+ 10040 Macuata-i-Wai Island
+197288 Druadrua + Gevo
+ 21737 Gevo Island
+197287 Druadrua
+144382 
+  8843 Druadrua Island
+ 48678 Nakadraniu Island
+ 54313 Bekana Island
+221433 Motuwa + Nasoviyaga
+ 58285 Nasoviyaga Island
+ 51876 Motuwa Island
+ 56712 Dogosalove Island
+201229 West Macuata Coast Islands
+ 14556 Nagano Island
+201228 Talailau
+ 14205 
+ 13654 
+ 20532 Tavea Island
+194138 Mali Islands
+143231 
+194137 Mali + Vorovoro*
+ 27230 Vorovoro|Vorovoro Island*
+  5580 Mali Island
+191789 Kioa*
+  3698 Kioa|Kioa Island*
+ 28127 Yanuca Island
+134252 Namudua Island
+ 44622 Dogodogo Island
+134175 Nukumala Island
+146090 Navuni Island
+ 26224 Cakavi Island
+ 72972 Naviavia Islands
+156601 Cakaudrove Island
+211221 Nukubati Islands
+ 99249 Vatuvatuloa Island
+ 29991 Nukubati Island
+113218 
+ 41197 Nukudrau Island
+ 64833 Narogai Island
+212029 Nawi
+ 31580 Nawi Island
+ 65284 Yanuyanuwiri Island
+ 80901 Nawaci Island
+ 85255 Nanduri Island
+ 22049 Namukalau Island
+ 42306 Bakabaka Island
+ 35821 Qaracikobia Island
+ 25623 
+ 19512 Nabalelevu Island
+   105 Vanua Levu|Vanua Levu Island*
 328666 Viti Levu Group*
 276227 Vatulele*
   2752 Vatulele|Vatulele Island*
 195709 Viwa Island*
   7086 Viwa Island|Viwa*
-124342 
-    76 Viti Levu*
+124342 Vatu-i-Ra Island
+ 77597 Vatu-i-Cake Island
+289710 Lomaiviti Islands*
+264212 Nairai*
+175202 
+227106 
+227105 
+155383 
+ 67011 
+  3158 Nairai|Nairai Island*
+274484 Gau Island|Gau* + Yaciwa
+123943 Yaciwa Island
+187253 Gau Island|Gau*
+164843 
+  1108 Gau Island*
+  5359 Batiki|Batiki Island*
+273734 Wakaya Island|Wakaya* + Makogai* + Tabaka + Makodroga
+194166 Makogai* + Tabaka + Makodroga
+ 19367 Makodroga Island
+194165 Makogai * + Tabaka
+108398 Tabaka Island
+  5614 Makogai|Makogai Island*
+  5199 Wakaya Island*
+ 32098 Yalewa Kalou Island
+205543 Vomo* + Vomolailai*
+ 74390 Vomolailai|Vomolailai Island*
+ 19954 Vomo|Vomo Island*
+ 13251 Naigani|Naigani Island*
+314601 Yasawa Islands*
+  2665 Yasawa|Yasawa Island*
+276093 Beqa*
+  2506 Beqa|Beqa Island*
+295196 Ovalau (Fiji)|Ovalau*
+  1332 Ovalau (Fiji)|Ovalau Island*
+304938 Mamanuca Islands*
+  8320 Malake Island
+200304 Nananu-i-Ra + Nananu-i-Cake + Yanuca
+200303 Nananu-i-Cake + Yanuca
+134309 Yanuca Island
+ 12422 Nananu-i-Cake|Nananu-i-Cake Island*
+ 10887 Nananu-i-Ra|Nananu-i-Ra Island*
+    76 Viti Levu|Viti Levu Island*
 317915 Mariana Islands*
 304356 Asuncion Island|Asuncion* + Maug Islands|Maug* + Farallon de Pajaros*
  13443 Farallon de Pajaros*
@@ -5398,15 +5519,44 @@
     55 Seram Island*
 349082 Sulawesi*
 258145 Masalima Islands
-311786 
+213243 Pammantauang + Pamolikan + Masalima + Pamolikang
+ 53185 Pamolikang Island
+213242 Pammantauang + Pamolikan + Masalima
+ 33442 Masalima Island
+213241 Pammantauang + Pamolikan
+ 58193 Pamolikan Island
+ 33894 Pammantauang Island
+ 14159 Sabaru Island
+311786 Doangdoangan Besar + Doangdoangan Kecil + Bankobankoang + Butongbutongan + Kalukalukuang + Tobotobo + Marasende + Dewakang Lompo + Dewakang Caddi + Bangkauluang
+271564 Dewakang Lompo + Dewakang Caddi + Bangkauluang
+ 27840 Bangkauluang Island
+200188 Dewakang Lompo + Dewakang Caddi
+ 23249 Dewakang Caddi Island
+ 12264 Dewakang Lompo Island
+309530 Doangdoangan Besar + Doangdoangan Kecil + Bankobankoang + Butongbutongan + Kalukalukuang + Tobotobo + Marasende
+ 15091 Marasende Island
+301058 Doangdoangan Besar + Doangdoangan Kecil + Bankobankoang + Butongbutongan + Kalukalukuang + Tobotobo
+194505 Kalukalukuang + Tobotobo
+ 72897 Tobotobo Island
+  5942 Kalukalukuang Island
+288809 Doangdoangan Besar + Doangdoangan Kecil + Bankobankoang + Butongbutongan
+ 28070 Butongbutongan Island
+266140 Doangdoangan Besar + Doangdoangan Kecil + Bankobankoang
+197019 Doangdoangan Kecil + Bankobankoang
+ 19225 Bankobankoang Island
+  8525 Doangdoangan Kecil Island
+  4817 Doangdoangan Besar Island
  26235 Kakabia Island
-  6036 Pulau Batuata
+  6036 Batuata Island
+298717 
+196235 
+214538 
  10615 Moromaho Island
 322083 Sangihe Islands*
 308083 Kalao
 326327 
 307849 Tukangbesi Islands*
-  1703 Una-Una*
+  1703 Una-Una Island*
 266377 Manui
 321082 Sula Islands*
   3378 
@@ -7507,6 +7657,8 @@
 196385 Seri Buat + Sembilang
  11299 Sembilang Island
   7807 Seri Buat Island
+295612 Masirah Island|Masirah*
+   380 Masirah Island*
 241438 Lagnorna + Inre lägnan
 128773 Inre lägnan
 118915 Lagnorna Island
