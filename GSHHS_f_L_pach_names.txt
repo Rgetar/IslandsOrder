@@ -957,6 +957,12 @@
 290547 Palmyra Atoll|Palmyra* + Kingman Reef|Kingman*
 201039 Kingman Reef*
 254218 Palmyra Atoll|Palmyra*
+219999 Sand + Lesley
+116973 Lesley Island
+ 48310 Sand Island
+195037 Cooper + Barren
+ 60161 Barren Island
+  6465 Cooper Island
 294888 Tabuaeran* + Teraina*
   4994 Teraina*
 272775 Tabuaeran*
