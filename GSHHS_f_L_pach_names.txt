@@ -1173,6 +1173,52 @@
  40554 Vostok Island*
  12396 Flint Island*
 284235 Caroline Island|Caroline*
+253930 Central Leeward Islets
+105945 Bird Islet
+253929 Mannikiba + Blackfin + Emerald + Shark + Nautonga
+231327 Emerald + Shark + Nautonga
+130915 Motu Nautonga
+231326 Emerald + Shark
+ 92432 Shark Islet
+ 79625 Emerald Islet
+219348 Mannikiba + Blackfin
+ 88042 Blackfin Islet
+ 46822 Motu Mannikiba
+284234 Nake + Long + Coral + Lone Palm + Danger + Pandanus + Mouakena + Windward + Crescent + South + Southern Leeward + Windward
+263037 South + Southern Leeward + Windward
+263036 Windward Islets
+225449 Arundel + Tridacna
+ 96772 Tridacna Islet
+ 62433 Arundel Islet
+236431 Pig + North Pig + Brothers
+ 71364 Brothers Islet
+236430 Pig + North Pig
+104426 North Pig Islet
+ 98211 Pig Islet
+235087 South + Southern Leeward
+235086 Southern Leeward Islets
+132777 Motu Raurau
+235085 Ana-Ana + Eitei
+163108 Motu Eitei
+ 92977 Motu Ana-Ana
+ 16873 South Islet
+279162 Nake + Long + Coral + Lone Palm + Danger + Pandanus + Mouakena + Windward + Crescent
+225982 Windward + Crescent
+ 91709 Crescent Islet
+ 63945 Windward Islet
+279161 Nake + Long + Coral + Lone Palm + Danger + Pandanus + Mouakena
+104868 Motu Mouakena
+279160 Nake + Long + Coral + Lone Palm + Danger + Pandanus
+103174 Pandanus Islet
+205276 Nake + Long + Coral + Lone Palm + Danger
+165309 Danger Islet
+205275 Nake + Long + Coral + Lone Palm
+162974 Lone Palm Islet
+205274 Nake + Long + Coral
+205273 Long + Coral
+164349 Coral Islet
+ 19496 Long Islet
+ 18938 Nake Islet
 353295 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane* + Duke of Gloucester Islands|Duke of Gloucester* + Pitcairn Islands|Pitcairn* + Marquesas Islands|Marquesas* + Southern Cook Islands|Southern Cook* + Tupua'i Islands|Tupua'i* + Palmerston Island|Palmerston*
 322357 Southern Cook Islands|Southern Cook* + Tupua'i Islands|Tupua'i* + Palmerston Island|Palmerston*
 290021 Palmerston Island|Palmerston*
@@ -1182,10 +1228,14 @@
 314112 Tubuai* + Raivavae* + Rurutu* + Rimatara*
 270963 Rurutu* + Rimatara*
 194634 Rimatara*
+164542 Ura Islet
+  6074 Rimatara|Rimatara Island*
   2670 Rurutu*
 307180 Tubuai* + Raivavae*
 297945 Raivavae*
+  4317 Raivavae|Raivavae Island*
 261060 Tubuai*
+  2213 Tubuai|Tubuai Island*
 311689 Southern Cook Islands*
 306223 Nga-Pu-Toru* + Manuae (Cook Islands)|Manuae* + Aitutaki*
 299428 Aitutaki*
@@ -1229,6 +1279,7 @@
 189670 Eiao*
 310042 Nuku Hiva* + Motu Iti (Marquesas Islands)|Motu Iti* + Ua Pou* + Motu Oa* + Ua Huka*
 274707 Ua Huka*
+  1569 Ua Huka|Ua Huka Island*
 304451 Nuku Hiva* + Motu Iti (Marquesas Islands)|Motu Iti* + Ua Pou* + Motu Oa*
 297116 Ua Pou* + Motu Oa*
 142928 
@@ -1245,6 +1296,12 @@
 351360 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane* + Duke of Gloucester Islands|Duke of Gloucester* + Pitcairn Islands|Pitcairn*
 313930 Pitcairn Islands*
 233422 Ducie Island|Ducie*
+233421 Pandora + Edwards + Westward
+148688 Westward Islet
+233420 Pandora + Edwards
+137359 Edwards Islet
+ 86971 Pandora Islet
+ 19573 Acadia Islet
 307364 Henderson Island (Pitcairn Islands)|Henderson* + Pitcairn Island|Pitcairn* + Oeno Island|Oeno*
 298786 Pitcairn Island|Pitcairn* + Oeno Island|Oeno*
 292946 Oeno Island|Oeno*
