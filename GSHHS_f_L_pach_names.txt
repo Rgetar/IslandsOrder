@@ -71,10 +71,58 @@
 104258 Îlot Solitaire
  88736 Roches du Salamanca
 240836 îles de La Fortune
-281698 Îles de Boynes*
+281698 Îles de Boynes|Boynes Islands*
 104261 Îlot du Rendez-Vous
-302650 Îles Leygues*
+302650 Îles Leygues|Leygues* + Terror + Gallieni + Glass
+262430 Roches Glass
+302649 Îles Leygues|Leygues* + Terror + Gallieni
+282733 Roches du Gallieni
+288683 Îles Leygues|Leygues* + Terror
+251113 Roches du Terror
+266101 Îles Leygues|Leygues Islands*
+201817 Dauphine
+152802 
+ 14498 Île Dauphine
+266100 Castries
+242456 
+196998 
+  8487 Île de Castries
 304634 Îles Nuageuses*
+ 21784 Île Clugny
+304633 Roland + Ternay + Île de Croÿ|Croÿ* + Après + Rabre
+176938 Rocher Rabre
+296704 Roland + Ternay + Île de Croÿ|Croÿ* + Après
+100119 Île d’Après
+296703 Roland + Ternay + Île de Croÿ|Croÿ*
+  5221 Île de Croÿ*
+278095 Roland + Ternay
+278094 Îles Ternay
+194093 Roland
+ 70557 
+  5536 Île du Roland
+176973 Roche Bird
+281937 Kent + Désespoir
+245962 Rochers du Désespoir
+240437 Îlots Kent
+141832 île Kent Nord
+240436 Kent Sud
+138849 
+114355 île Kent Sud
+263170 Ronde + Trémarec + Mengam
+157982 Roches Mengam
+225247 Ronde + Trémarec
+157514 Rochers Trémarec
+ 61880 Île Ronde
+243024 Roches Balfour
+126299 Roche du Chenal
+259463 Îles Davis
+138946 Îlot Channer
+215462 Îles Dayman
+177167 Rocher de l'Austral
+151563 Roche Allen
+139511 
+168180 Îlots Kernabat
+142024 
 189414 Île Saint-Lanne Gramont|Saint-Lanne Gramont*
   2167 Île Saint-Lanne Gramont*
 284873 Île Howe|Howe* + MacMurdo
