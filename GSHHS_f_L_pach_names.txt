@@ -1348,7 +1348,7 @@
 247265 Makaroa* + Motu Teiku*
 247264 Motu Teiku*
 178492 
-146600 Motu Teiku|Motu Teiku Island*
+146600 Motu Teiku*
  41594 Makaroa|Makaroa Island*
 210616 Kamaka (island)|Kamaka* + Manui*
  68740 Manui|Manui Island*
