@@ -1167,7 +1167,7 @@
 103894 Western Rock
 189695 Rapa Iti*
   2327 Rapa Iti|Rapa Iti Island*
-353974 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane* + Duke of Gloucester Islands|Duke of Gloucester* + Pitcairn Islands|Pitcairn* + Marquesas Islands|Marquesas* + Southern Cook Islands|Southern Cook* + Tupua'i Islands|Tupua'i* + Palmerston Island|Palmerston* + Southern Line Islands|Southern Line*
+353974 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane* + Duke of Gloucester Islands|Duke of Gloucester* + Pitcairn Islands|Pitcairn* + Marquesas Islands|Marquesas* + Southern Cook Islands|Southern Cook* + Tubuai Islands|Tupua'i* + Palmerston Island|Palmerston* + Southern Line Islands|Southern Line*
 300733 Southern Line Islands*
 200282 Flint Island|Flint* + Vostok Island|Vostok*
  40554 Vostok Island*
@@ -1219,11 +1219,11 @@
 164349 Coral Islet
  19496 Long Islet
  18938 Nake Islet
-353295 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane* + Duke of Gloucester Islands|Duke of Gloucester* + Pitcairn Islands|Pitcairn* + Marquesas Islands|Marquesas* + Southern Cook Islands|Southern Cook* + Tupua'i Islands|Tupua'i* + Palmerston Island|Palmerston*
-322357 Southern Cook Islands|Southern Cook* + Tupua'i Islands|Tupua'i* + Palmerston Island|Palmerston*
+353295 Society Islands|Society* + Tuamotus* + Puka-Puka* + Gambier Islands|Gambier* + Acteon Group|Acteon* + Maria Est* + Marutea Sud* + Morane (French Polynesia)|Morane* + Duke of Gloucester Islands|Duke of Gloucester* + Pitcairn Islands|Pitcairn* + Marquesas Islands|Marquesas* + Southern Cook Islands|Southern Cook* + Tubuai Islands|Tupua'i* + Palmerston Island|Palmerston*
+322357 Southern Cook Islands|Southern Cook* + Tubuai Islands|Tupua'i* + Palmerston Island|Palmerston*
 290021 Palmerston Island|Palmerston*
-320838 Southern Cook Islands|Southern Cook* + Tupua'i Islands|Tupua'i*
-318057 Tupua'i Islands*
+320838 Southern Cook Islands|Southern Cook* + Tubuai Islands|Tupua'i*
+318057 Tubuai Islands*
 219788 Îles Maria|Maria*
 314112 Tubuai* + Raivavae* + Rurutu* + Rimatara*
 270963 Rurutu* + Rimatara*
@@ -1333,6 +1333,55 @@
 363901 Gambier Islands*
 363900 Temoe*
 304539 Mangareva Islands*
+254281 Teauaone* + Puaumu*
+ 49942 Puaumu|Puaumu Island*
+220108 Teauaone*
+ 92916 
+ 48593 
+304538 Mangareva* + Rumarei* + Taravai* + Motu-O-Ari* + Angakauitai* + Totegegie* + Tuaeu* + Tarauru Roa* + Gaioio* + Aukena* + Tekava* + Tauna* + Akamaru Island|Akamaru* + Makapu* + Mekiro* + Kamaka (island)|Kamaka* + Manui* + Makaroa* + Motu Teiku* + Kouaku*
+232283 Kouaku*
+136409 
+ 82900 
+304537 Mangareva* + Rumarei* + Taravai* + Motu-O-Ari* + Angakauitai* + Totegegie* + Tuaeu* + Tarauru Roa* + Gaioio* + Aukena* + Tekava* + Tauna* + Akamaru Island|Akamaru* + Makapu* + Mekiro* + Kamaka (island)|Kamaka* + Manui* + Makaroa* + Motu Teiku*
+296650 Akamaru Island|Akamaru* + Makapu* + Mekiro* + Kamaka (island)|Kamaka* + Manui* + Makaroa* + Motu Teiku*
+277834 Kamaka (island)|Kamaka* + Manui* + Makaroa* + Motu Teiku*
+247265 Makaroa* + Motu Teiku*
+247264 Motu Teiku*
+178492 
+146600 
+ 41594 Makaroa|Makaroa Island*
+210616 
+ 68740 Manui|Manui Island*
+ 28868 Kamaka (island)|Kamaka Island*
+200344 Akamaru Island|Akamaru* + Makapu* + Mekiro*
+ 79216 Mekiro|Mekiro Island*
+200343 Akamaru Island|Akamaru* + Makapu*
+ 80400 Makapu|Makapu Island*
+ 12485 Akamaru Island*
+296637 Mangareva* + Rumarei* + Taravai* + Motu-O-Ari* + Angakauitai* + Totegegie* + Tuaeu* + Tarauru Roa* + Gaioio* + Aukena* + Tekava* + Tauna*
+223200 Tekava* + Tauna*
+146472 Tauna|Tauna Island*
+ 56505 Tekava|Tekava Island*
+296636 Mangareva* + Rumarei* + Taravai* + Motu-O-Ari* + Angakauitai* + Totegegie* + Tuaeu* + Tarauru Roa* + Gaioio* + Aukena*
+296635 Totegegie* + Tuaeu* + Tarauru Roa* + Gaioio* + Aukena*
+ 14150 Aukena|Aukena Island*
+277905 Totegegie* + Tuaeu* + Tarauru Roa* + Gaioio*
+ 55747 Gaioio|Gaioio Island*
+277904 Totegegie* + Tuaeu* + Tarauru Roa*
+210836 Tarauru Roa*
+ 85538 
+ 29288 
+204138 Totegegie* + Tuaeu*
+144699 Tuaeu|Tuaeu Island*
+ 17816 Totegegie|Totegegie Island*
+266241 Mangareva* + Rumarei* + Taravai* + Motu-O-Ari* + Angakauitai*
+196258 Taravai* + Motu-O-Ari* + Angakauitai*
+ 23296 Angakauitai|Angakauitai Island*
+196257 Taravai* + Motu-O-Ari*
+133719 Motu-O-Ari*
+  7698 Taravai|Taravai Island*
+192488 Mangareva* + Rumarei*
+166288 Rumarei|Rumarei Island*
   4193 Mangareva|Mangareva Island*
 348382 Society Islands|Society* + Tuamotus* + Puka-Puka*
 262132 Puka-Puka*
