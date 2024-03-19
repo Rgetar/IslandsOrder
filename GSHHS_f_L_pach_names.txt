@@ -1337,20 +1337,20 @@
  49942 Puaumu|Puaumu Island*
 220108 Teauaone*
  92916 
- 48593 
+ 48593 Teauaone|Teauaone Island*
 304538 Mangareva* + Rumarei* + Taravai* + Motu-O-Ari* + Angakauitai* + Totegegie* + Tuaeu* + Tarauru Roa* + Gaioio* + Aukena* + Tekava* + Tauna* + Akamaru Island|Akamaru* + Makapu* + Mekiro* + Kamaka (island)|Kamaka* + Manui* + Makaroa* + Motu Teiku* + Kouaku*
 232283 Kouaku*
 136409 
- 82900 
+ 82900 Kouaku|Kouaku Island*
 304537 Mangareva* + Rumarei* + Taravai* + Motu-O-Ari* + Angakauitai* + Totegegie* + Tuaeu* + Tarauru Roa* + Gaioio* + Aukena* + Tekava* + Tauna* + Akamaru Island|Akamaru* + Makapu* + Mekiro* + Kamaka (island)|Kamaka* + Manui* + Makaroa* + Motu Teiku*
 296650 Akamaru Island|Akamaru* + Makapu* + Mekiro* + Kamaka (island)|Kamaka* + Manui* + Makaroa* + Motu Teiku*
 277834 Kamaka (island)|Kamaka* + Manui* + Makaroa* + Motu Teiku*
 247265 Makaroa* + Motu Teiku*
 247264 Motu Teiku*
 178492 
-146600 
+146600 Motu Teiku|Motu Teiku Island*
  41594 Makaroa|Makaroa Island*
-210616 
+210616 Kamaka (island)|Kamaka* + Manui*
  68740 Manui|Manui Island*
  28868 Kamaka (island)|Kamaka Island*
 200344 Akamaru Island|Akamaru* + Makapu* + Mekiro*
@@ -1370,7 +1370,7 @@
 277904 Totegegie* + Tuaeu* + Tarauru Roa*
 210836 Tarauru Roa*
  85538 
- 29288 
+ 29288 Tarauru Roa|Tarauru Roa Island*
 204138 Totegegie* + Tuaeu*
 144699 Tuaeu|Tuaeu Island*
  17816 Totegegie|Totegegie Island*
