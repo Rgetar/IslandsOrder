@@ -1550,11 +1550,105 @@
 317953 Northern Cook Islands*
 313887 Pukapuka* + Nassau (Cook Islands)|Nassau* + Suwarrow*
 307282 Suwarrow*
+255802 Manu + Tou
+222560 Tou
+170373 
+ 54710 Motu Tou
+ 52300 Manu Island
+307281 Turtle + One Tree + Brushwood + Anchorage + Whale + Gull + The Seven + Oneone + Entrance + New
+248988 Entrance + New
+170876 New Island
+156281 Entrance Island
+297740 Turtle + One Tree + Brushwood + Anchorage + Whale + Gull + The Seven + Oneone
+281571 The Seven + Oneone
+ 99663 Motu Oneone
+281570 The Seven Islands
+290825 Turtle + One Tree + Brushwood + Anchorage + Whale + Gull
+246551 Gull
+174222 
+142858 Gull Island
+290824 Turtle + One Tree + Brushwood + Anchorage + Whale
+220392 Anchorage + Whale
+122078 Whale Island
+ 49326 Anchorage Island
+253980 Turtle + One Tree + Brushwood
+231536 Brushwood Islands
+143436 
+231535 
+112404 
+ 80383 
+218916 Turtle + One Tree
+ 62052 One Tree Island
+ 45832 Turtle Island
 296211 Pukapuka* + Nassau (Cook Islands)|Nassau*
- 18700 Nassau (Cook Islands)|Nassau*
+ 18700 Nassau (Cook Islands)|Nassau Island*
 271426 Pukapuka*
+156484 Toka (Pukapuka)|Toka Cay*
+271425 Motu Kō|Kō* + Motu Kotawa|Kotawa* + Wale (Pukapuka)|Wale*
+ 15805 Wale (Pukapuka)|Wale Island*
+198879 Motu Kō|Kō* + Motu Kotawa|Kotawa*
+ 20039 Motu Kotawa*
+ 10690 Motu Kō*
 307337 Rakahanga* + Manihiki* + Penrhyn atoll|Penrhyn*
 298746 Penrhyn atoll|Penrhyn*
+284304 [[Mangarongaro (Penrhyn)|Mangarongaro]]* + [[Atiati]]* + Vaiere + [[Moananui Islet|Moananui]]* + Motukasi + Tuaua + Ngangie + [[Atutahi (Penrhyn)|Atutahi]]* + [[Moturakina]]*
+254247 [[Atutahi (Penrhyn)|Atutahi]]* + [[Moturakina]]*
+156273 [[Moturakina|Moturakina Islet]]*
+219874 [[Atutahi (Penrhyn)|Atutahi]]*
+171195 
+ 48019 [[Atutahi (Penrhyn)|Atutahi Islet]]*
+262997 [[Mangarongaro (Penrhyn)|Mangarongaro]]* + [[Atiati]]* + Vaiere + [[Moananui Islet|Moananui]]* + Motukasi + Tuaua + Ngangie
+103938 
+262996 
+200239 [[Moananui Islet|Moananui]]* + Motukasi + Tuaua + Ngangie
+ 98923 Motu Ngangie
+200238 [[Moananui Islet|Moananui]]* + Motukasi + Tuaua
+105833 Tuaua Islet
+200237 [[Moananui Islet|Moananui]]* + Motukasi
+112732 Motukasi Islet
+ 12332 [[Moananui Islet]]*
+225334 [[Mangarongaro (Penrhyn)|Mangarongaro]]* + [[Atiati]]* + Vaiere
+225333 [[Atiati]]* + Vaiere
+ 78770 Vaiere Islet
+ 62089 [[Atiati|Atiati Islet]]*
+ 11488 [[Mangarongaro (Penrhyn)|Mangarongaro Islet]]*
+298745 [[Ruahara]]* + [[Tokerau (Penrhyn)|Tokerau]]* + [[Painko]]* + [[Matunga (Penrhyn)|Matunga]]* + Tehara + [[Tekasi]]* + [[Patanga (Penrhyn)|Patanga]]* + Ruapo + [[Kavea]]* + [[Pokerekere Islet|Pokerekere]]* + [[Tuirai]]* + Motunui + [[Takuua]]* + [[Tepuka (Penrhyn)|Tepuka]]* + Tepetepe + [[Ahu a Miria]]* + Taiko
+162547 Motu Taiko
+292831 [[Ruahara]]* + [[Tokerau (Penrhyn)|Tokerau]]* + [[Painko]]* + [[Matunga (Penrhyn)|Matunga]]* + Tehara + [[Tekasi]]* + [[Patanga (Penrhyn)|Patanga]]* + Ruapo + [[Kavea]]* + [[Pokerekere Islet|Pokerekere]]* + [[Tuirai]]* + Motunui + [[Takuua]]* + [[Tepuka (Penrhyn)|Tepuka]]* + Tepetepe + [[Ahu a Miria]]*
+122354 [[Ahu a Miria|Ahu a Miria Islet]]*
+292830 [[Ruahara]]* + [[Tokerau (Penrhyn)|Tokerau]]* + [[Painko]]* + [[Matunga (Penrhyn)|Matunga]]* + Tehara + [[Tekasi]]* + [[Patanga (Penrhyn)|Patanga]]* + Ruapo + [[Kavea]]* + [[Pokerekere Islet|Pokerekere]]* + [[Tuirai]]* + Motunui + [[Takuua]]* + [[Tepuka (Penrhyn)|Tepuka]]* + Tepetepe
+277805 [[Patanga (Penrhyn)|Patanga]]* + Ruapo + [[Kavea]]* + [[Pokerekere Islet|Pokerekere]]* + [[Tuirai]]* + Motunui + [[Takuua]]* + [[Tepuka (Penrhyn)|Tepuka]]* + Tepetepe
+208273 [[Tepuka (Penrhyn)|Tepuka]]* + Tepetepe
+173039 Tepetepe Islet
+ 24588 [[Tepuka (Penrhyn)|Tepuka Islet]]*
+277804 [[Patanga (Penrhyn)|Patanga]]* + Ruapo + [[Kavea]]* + [[Pokerekere Islet|Pokerekere]]* + [[Tuirai]]* + Motunui + [[Takuua]]*
+ 53988 [[Takuua|Takuua Islet]]*
+277803 [[Patanga (Penrhyn)|Patanga]]* + Ruapo + [[Kavea]]* + [[Pokerekere Islet|Pokerekere]]* + [[Tuirai]]* + Motunui
+ 46989 Motunui Islet
+277802 [[Patanga (Penrhyn)|Patanga]]* + Ruapo + [[Kavea]]* + [[Pokerekere Islet|Pokerekere]]* + [[Tuirai]]*
+211105 [[Pokerekere Islet|Pokerekere]]* + [[Tuirai]]*
+ 68741 [[Tuirai|Tuirai Islet]]*
+ 29801 [[Pokerekere Islet]]*
+204215 [[Patanga (Penrhyn)|Patanga]]* + Ruapo + [[Kavea]]*
+170444 
+204214 
+ 82928 [[Kavea|Kavea Islet]]*
+204213 [[Patanga (Penrhyn)|Patanga]]* + Ruapo
+ 76255 Ruapo Islet
+204212 [[Patanga (Penrhyn)|Patanga]]*
+177937
+ 17955 [[Patanga (Penrhyn)|Patanga Islet]]*
+257764 [[Ruahara]]* + [[Tokerau (Penrhyn)|Tokerau]]* + [[Painko]]* + [[Matunga (Penrhyn)|Matunga]]* + Tehara + [[Tekasi]]*
+212601 [[Matunga (Penrhyn)|Matunga]]* + Tehara + [[Tekasi]]*
+111391 [[Tekasi|Tekasi Islet]]*
+212600 [[Matunga (Penrhyn)|Matunga]]* + Tehara
+ 92013 Tehara Islet
+ 32630 [[Matunga (Penrhyn)|Matunga Islet]]*
+205530 [[Ruahara]]* + [[Tokerau (Penrhyn)|Tokerau]]* + [[Painko]]*
+205529 [[Tokerau (Penrhyn)|Tokerau]]* + [[Painko]]*
+ 58810 [[Painko|Painko Islet]]*
+ 19929 [[Tokerau (Penrhyn)|Tokerau Islet]]*
+ 11448 [[Ruahara|Ruahara Islet]]*
 290493 Rakahanga* + Manihiki*
 254259 Manihiki*
   5744 Rakahanga*
@@ -6558,8 +6652,8 @@
   6985 Halura Island
     74 Sumba|Sumba Island*
 208931 Strofades*
- 37254 Arpia
- 25662 Stamfani
+ 37254 Arpia Island
+ 25662 Stamfani Island
 339266 Belcher Islands*
   3387 Anholt (Denmark)|Anholt Island*
 195756 Zabargad Island|Zabargad*
@@ -6722,7 +6816,7 @@
 291297 Lougheed Island|Lougheed*
 164568 Etna Bank
  43390 Berhala Island (Malacca Strait)|Berhala Island*
- 65325 Kalogeroi (islets)|Kalogeroi*
+ 65325 Kalogeroi*
 288906 Jemur Island|Jemur*
 203109 Heligoland*
  46891 Pingdao Island
@@ -7304,32 +7398,32 @@
   1691 Krestovsky Island
  16275 Biawak Island
  59540 Sheshan Island*
-317233 Karpathos* + Kasos* + Armathia* + Makronisi + Zaforas* + Mikró Sofráno + Sochás + Karávia + Avgonísi + Divounia + Chamili + Astakidonisia
-314410 Zaforas* + Mikró Sofráno + Sochás + Karávia + Avgonísi + Divounia + Chamili + Astakidonisia
+317233 Karpathos* + Kasos* + Armathia* + Makronisi + Zaforas* + Mikró Sofráno + Sochás + Karávia + Avgo + Divounia + Chamili + Astakidonisia
+314410 Zaforas* + Mikró Sofráno + Sochás + Karávia + Avgo + Divounia + Chamili + Astakidonisia
 279317 Astakidonisia
-160931 Sial
+160931 Sial Island
 206000 Astakida + Nimo + Astakidopoulo
- 71835 Astakidopoulo
+ 71835 Astakidopoulo Island
 205999 Astakida + Nimo
-167694 Nimo
- 20706 Astakida
-306891 Zaforas* + Mikró Sofráno + Sochás + Karávia + Avgonísi + Divounia + Chamili
- 27616 Chamili
-298119 Zaforas* + Mikró Sofráno + Sochás + Karávia + Avgonísi + Divounia
-214154 Divounia
+167694 Nimo Island
+ 20706 Astakida Island
+306891 Zaforas* + Mikró Sofráno + Sochás + Karávia + Avgo + Divounia + Chamili
+ 27616 Chamili Island
+298119 Zaforas* + Mikró Sofráno + Sochás + Karávia + Avgo + Divounia
+214154 Divounia Islets
  43164 
  35664 
-291081 Zaforas* + Mikró Sofráno + Sochás + Karávia + Avgonísi
- 84494 Avgonísi
+291081 Zaforas* + Mikró Sofráno + Sochás + Karávia + Avgo
+ 84494 Avgo Islet
 254530 Zaforas* + Mikró Sofráno + Sochás + Karávia
-238267 Karávia
+238267 Karávia Islets
 116995 
 105229 
 219710 Zaforas* + Mikró Sofráno + Sochás
 219709 Mikró Sofráno + Sochás
- 76304 Sochás
- 47617 Mikró Sofráno
- 15782 Zaforas*
+ 76304 Sochás Islet
+ 47617 Mikró Sofráno Islet
+ 15782 Zaforas|Zaforas Island*
 304412 Karpathos* + Kasos* + Armathia* + Makronisi
 295348 Kasos* + Armathia* + Makronisi
 271093 Armathia* + Makronisi
@@ -7496,13 +7590,13 @@
 265053 Koh Tang*
   5259 Montecristo|Montecristo Island*
 293357 Velopoula + Falkonera*
- 18628 Falkonera*
+ 18628 Falkonera|Falkonera Island*
 280250 
 239709 
 134327 
 111028 
- 12595 Velopoula
- 97974 Avgo*
+ 12595 Velopoula Island
+ 97974 Avgo|Avgo Island*
  40776 Pulau Kuil
 284497 Simayr + Wasaliyat + Dahret Simer
 262562 Wasaliyat + Dahret Simer
@@ -7592,8 +7686,8 @@
 299779 Unguja*
 293789 Firnley Islands*
 186721 Samothrace* + Zourafa*
- 49457 Zourafa*
-   932 Samothrace*
+ 49457 Zourafa|Zourafa Islet*
+   932 Samothrace|Samothrace Island*
 271901 Dongyin, Lienchiang|Dongyin*
 209166 Zhongkuaidao
  20326 Hesselø|Hesselø Island*
@@ -7755,7 +7849,7 @@
 216110 Ananes*
 214651 Ko Tao*
   3761 Ko Tao|Ko Tao Island*
-275272 Lemnos*
+275272 Thracian Sporades*
    476 Lemnos Island*
 214651 Koh Rok Islands
 293339 Antikythera*
@@ -7819,7 +7913,7 @@
 304926 Santorini caldera|Santorini* + Christiana Islands|Christiana*
 278710 Christiana Islands*
 294729 Santorini caldera|Santorini Caldera*
-  1630 Santorini*
+  1630 Santorini|Santorini Island*
   1175 Zavyalov Island*
 321336 Hainan*
     44 Hainan|Hainan Island*
@@ -7833,14 +7927,14 @@
  16947 Anydros|Anydros Island*
 187460 Weh Island|Weh*
   1202 Weh Island*
-  8215 Agios Georgios (island)|Agios Georgios*
+  8215 Agios Georgios (island)|Agios Georgio Islands*
 325883 Cyclades*
 259686 Levitha* + Kinaros*
 196603 Kinaros*
   8058 Kinaros|Kinaros Island*
 259685 Levitha*
   5003 Levitha|Levitha Island*
-294151 Ios*
+294151 Southern Cyclades
   1299 Ios Island*
 192801 Donoussa*
   4433 Donoussa|Donoussa Island*
@@ -7848,13 +7942,14 @@
   1178 Amorgos Island*
 304506 Lesser Cyclades*
   7200 Ano Koufonisi*
+315298 Naxos* + Paros*imbr
 310065 Paros*
    865 Paros Island*
 297540 Naxos*
    522 Naxos Island*
  57911 Vaindloo*
   1493 Kish Island*
-   701 Imbros*
+   701 Imbros|Imbros Island*
 306623 Tioman Island|Tioman*
   1137 Tioman Island*
 314115 Solovetsky Islands*
@@ -7879,7 +7974,7 @@
   2945 Halki (Greece)|Halki Island*
 305556 Rhodes*
    241 Rhodes|Rhodes Island*
-313845 Kythnos*
+313845 Western Cyclades
   1356 Kythnos|Kythnos Island*
 323805 Belitung*
    120 Belitung|Belitung Island*
@@ -7930,7 +8025,7 @@
  83322 Pabelokan Island
 324996 Farasan Islands*
    564 Farasan Island*
-308221 Andros*
+308221 Eastern Cyclades
    574 Andros|Andros Island*
 317062 Hanish Islands*
   1214 Zuqar Island*
